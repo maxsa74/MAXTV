@@ -1,0 +1,803 @@
+#EXTM3U url-tvg="https://www.davidefulgione.com/epg/l62.xml.gz" x-tvg-url="https://www.davidefulgione.com/epg/l62.xml.gz"
+# IPTV ITALIA ROB.TV - Community IPTV https://www.davidefulgione.com
+# @rob.tv - aggiornata il 27/11/2026 11:17
+#EXTINF:-1 tvg-id="rai1",Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="rai2",Rai 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="rai3",Rai 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="rete4",Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="canale5",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="italia1",Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="la7",La 7
+https://jmp2.uk/stvp-ITBD1500002NL
+#EXTINF:-1 tvg-id="tv8",TV 8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 tvg-id="nove",Nove
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
+#EXTINF:-1,RSI LA 1
+http://102.129.186.182:81/rsi1/index.m3u8
+#EXTINF:-1,RSI LA 2
+http://102.129.186.182:81/rsi2/index.m3u8
+#EXTINF:-1 tvg-id="mediaset20",20 Mediaset
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="rai4",Rai 4
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="iris",Iris
+https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="rai5",Rai 5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="raimovie",Rai Movie
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="raipremium",Rai Premium
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="rairadio2visualradio",RAI RADIO 2
+https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
+#EXTINF:-1 tvg-id="cielo",Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1,COMEDY CENTRAL
+http://102.129.186.182:81/comedy/index.m3u8
+#EXTINF:-1,27 Mediaset
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="tv2000",TV 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 tvg-id="la7cinema",La 7 Cinema
+https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
+#EXTINF:-1 tvg-id="la5",La 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="realtime",Real Time
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="foodnetwork",Food Network
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
+#EXTINF:-1,Il Sole 24 tv
+https://amg14891-amg14891c8-amgplt0395.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="gamberorosso",Gambero Rosso
+https://www.dailymotion.com/cdn/live/video/x9u215s.mpd?sec=3FE6qHnAR5mSywqiY3XmMw
+#EXTINF:-1 tvg-id="deejaytv",Deejay tv
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-id="cine34",Cine 34
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="focus",Focus
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="dmax",Dmax
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="discovery",Discovery
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="motortrend",Turbo
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
+#EXTINF:-1,Home e Garden
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="giallo",Giallo
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="topcrime",Top Crime
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="rai4k",Rai World Premium
+https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
+#EXTINF:-1 tvg-id="raistoria",Rai Storia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="rai4k",Rai Italiana
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="mediasetextra",Mediaset Extra
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="italia2",Italia 2
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="radio105tv",Radio 105 tv
+https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="PlutoTvSerie.it",PLUTO TV SERIE
+https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
+#EXTINF:-1,PLUTO TV SERIE SCI FI
+https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
+#EXTINF:-1 tvg-id="PlutoTvStoria.it",PLUTO TV STORIA
+https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
+#EXTINF:-1 tvg-id="PlutoTvCucina.it",PLUTO TV CUCINA
+https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
+#EXTINF:-1 tvg-id="PlutoTvDocumentari.it",PLUTO TV DOCUMENTARI
+https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
+#EXTINF:-1 tvg-id="PlutoTvViaggi.it",PLUTO TV VIAGGI
+https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
+#EXTINF:-1 tvg-id="PlutoTvNatura.it",PLUTO TV NATURA
+https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
+#EXTINF:-1 tvg-id="PlutoTvSport.it",PLUTO TV SPORT
+https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
+#EXTINF:-1 tvg-id="66c70033b1a34600087bb09a",PLUTO TV PARANORMAL
+https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8
+#EXTINF:-1 tvg-id="RakutenCrimeSeriesItRakutenTv.it",RAKUTEN SERIE CRIME
+https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8
+#EXTINF:-1 tvg-id="SamsungSeriallyCrime.it",Serially Crime
+https://ixmediasrl-seriallycrime-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="66177d18c8311c0008d077d0",STORIE CRIMINALI
+https://amg01821-amg01821c19-samsung-it-3199.playouts.now.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="RakutenCgtnDocumentary.it",CGTN DOCUMENTARY
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master1080p.m3u8
+#EXTINF:-1 tvg-id="tv-eng",TV MODA
+https://de7w7o1fgdvs4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-98ub43liqixi4/1ad4e3c8-759f-42eb-8a3b-097eb68c7fd8/0.m3u8
+#EXTINF:-1,QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1,PIANETA SALUTE TV
+https://64b16f23efbee.streamlock.net/pianetasalutetv/pianetasalutetv/playlist.m3u8
+#EXTINF:-1,PER CASO TV
+https://2468da27.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1BlckNhc29Udi0xX0hMUw/66b80cbd-507a-4dd7-b390-b7f13dfa3550/2.m3u8
+#EXTINF:-1,Telecomunicare
+https://host1.momentotv.live:28443/hls/telecomunicare/playlist.m3u8
+#EXTINF:-1,BEAUTY CHANNEL
+https://d98350091e3549d8bee5a8d0b40e34df.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_BeautyChannel/07c1d861-4aba-473d-b769-7e2b70352d60/2.m3u8
+#EXTINF:-1 tvg-id="sportitalia",SPORTOUTDOOR.TV
+https://502f86d03b3c403a9057ca656866c9c9.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_SportOutdoorTV/ac168306-502f-4f52-b3b5-6be0957ab67e/2.m3u8
+#EXTINF:-1 tvg-id="RakutenAdventureSportsTv.it",ADVENTURE SPORTS TV
+https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/2dd65f74-d56d-4b10-b275-6c340a3e48aa/5.m3u8
+#EXTINF:-1 tvg-id="sportitalia",MOVE SPORTIVI IN VIAGGIO
+https://d3i87cms5m5yjq.cloudfront.net/mov_720.m3u8
+#EXTINF:-1,Viaggi e Sapori
+https://amg01821-lovetv-amg01821c25-lg-it-4100.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-travelandtasteitalycc-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE
+#EXTINF:-1 tvg-id="SamsungLoveThePlanet.it",LOVE THE PLANET
+https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,CACCIA TV
+http://102.129.186.182:81/cacciapesca/index.m3u8
+#EXTINF:-1,PESCA TV
+http://102.129.186.182:81/pescacaccia/index.m3u8
+#EXTINF:-1 tvg-id="Automoto.it",AutoMoto
+https://d2d70kuzq4qhmm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwqkjgrx3umyk/aff6198a-4843-4e91-9d2a-6e595e77f3a0/0.m3u8
+#EXTINF:-1,Manga
+https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u
+#EXTINF:-1,MONSTER JAM
+https://c397b9fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfTW9uc3RlckphbV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenFuelTvNew.it",FUEL TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8?channel_name=Fuel+TV&content_genre=BMX%2CMTB%2CSkiing%2CSnow+Sports%2CSport%2CSurfing&ic=IAB17%2CIAB17-21%2CIAB17-35%2CIAB17-36%2CIAB17-37&rating=PG&language=US&coppa=0&content_livestream=1&us_privacy=1NYN&gdpr=0&gdpr_consent=0&cb=1791153289703288&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F154.0.0.0+Safari%2F537.36&ip=101.56.24.113&dnt=1&app_name=Free+Live+Sports&app_bundle=freelivesports.tv&app_store_url=&ifa_type=dpid&did=6c37fbf1ed58085be4d5ff5d5f6f406b&lmt=1
+#EXTINF:-1 tvg-id="PlutoFailArmy.it",MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1,World Poker Tour
+https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenQelloConcertsByStingray.it",QELLO CONCERTS
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/4abc705f-5f0a-404b-a5f7-126becaee4fd/3.m3u8
+#EXTINF:-1,Grande Arte
+https://nexoapp.d-dr.com/api/live/la-grande-arte/live.m3u8
+#EXTINF:-1,OPERA LEGEND
+https://nexoapp.d-dr.com/api/live/opera-legends/live.m3u8
+#EXTINF:-1,I MISTERI DELLA FEDE
+https://nexoapp.d-dr.com/api/live/misteri-fede/live.m3u8
+#EXTINF:-1,BBC Earth italia
+https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="62e7fa5ab5062e0007dcf97d",BBC SERIES
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramaitaly-rakutenit/playlist.m3u8
+#EXTINF:-1,Sony One Gli imperdibili
+https://d112rgcjjnn6rd.cloudfront.net/playlist_1.m3u8
+#EXTINF:-1,Sony One Serie da Ridere
+https://d31z6rt9j0idgz.cloudfront.net/playlist_1.m3u8
+#EXTINF:-1 tvg-id="PlutoTvFilm.it",PLUTO TV FILM
+https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
+#EXTINF:-1 tvg-id="PlutoTvCinemaItaliano.it",PLUTO TV CINEMA ITALIANO
+https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8
+#EXTINF:-1,PLUTO TV AZIONE
+https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
+#EXTINF:-1,PLUTO TV THRILLER
+https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
+#EXTINF:-1 tvg-id="PlutoTvToto.it",PLUTO TV TOTO'
+https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8
+#EXTINF:-1,PLUTO TV COMMEDIA
+https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
+#EXTINF:-1,PLUTO TV ROMANCE
+https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8
+#EXTINF:-1 tvg-id="PlutoTvHorror.it",PLUTO TV HORROR
+https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
+#EXTINF:-1 tvg-id="PlutoTvFilm.it",PLUTO TV FILM STORICI
+https://jmp2.uk/plu-68750875759366af05a151ce.m3u8
+#EXTINF:-1,Rakuten TV Film
+https://top-movies-rakuten-tv-it.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-5984-playout/644b84dc-3110-4a2c-b64b-f444cb89baf1/4.m3u8
+#EXTINF:-1,Rakuten TV Action Movies
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
+#EXTINF:-1,Rakuten TV Comedy Movies
+https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
+#EXTINF:-1,Rakuten TV DRAMA
+https://drama-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
+#EXTINF:-1,RAKUTEN TV ROMANCE
+https://romance-rakuten-tv-it.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6193-playout/019ef67c-6727-440c-994e-4e24a8b9d2fa/4.m3u8
+#EXTINF:-1 tvg-id="SamsungFamilyRakutenTv.it",FAMILY RAKUTEN TV
+https://family-rakuten-tv-it.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6215-playout/d85d4950-a6e3-405a-a825-939c86ce5b59/4.m3u8
+#EXTINF:-1,RAKUTEN TV SCI- FI
+https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-rtv-6430-playout/74dd3259-84a2-426c-8b20-d9ecda75277c/4.m3u8
+#EXTINF:-1,IT CHANNEL CINEMA
+https://stream10.xdevel.com/video1s978704-2979/stream/playlist.m3u8
+#EXTINF:-1,WEDO TV MOVIES
+https://amg00735-amg00735c8-rlaxx-us-4087.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedomoviesit-rlaxxus/playlist.m3u8?tag_id=105293&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0231&content_producer_name=Amagi_VideoSolutions_wedotvMoviesIT&content_categories=IAB1-5%2CIAB1%2CIAB1-7&content_custom_1_param=Amagi&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&sid=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
+#EXTINF:-1 tvg-id="RakutenFullMoon.it",ADRENALINE MOVIES
+https://2967edc6.wurl.com/4300.m3u8
+#EXTINF:-1,ChIli TV Indimenticabili
+https://chili-chiliindimenticabili-1-it.xiaomi.wurl.tv/4300.m3u8
+#EXTINF:-1,CHILI ALTA TENSIONE
+https://8420ed77622b428facfacf6063321a64.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_CHILIAltaTensione/09b8fe89-eadf-4cc2-b246-95dbacc63bd7/2.m3u8
+#EXTINF:-1,CHILI VELVET
+https://9f3f485487294a28988ee377c71c85b0.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-it_Velvet/88e5fe76-5610-4cc3-b241-1aab4c173bc9/2.m3u8
+#EXTINF:-1,CHILI SMILE
+https://e5eaf4458bd54b3587053805e5e65138.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_CHILIBuonumore/c9e7ddfa-3f46-45d0-a305-87310441cdb7/2.m3u8
+#EXTINF:-1,Sony Azione
+https://d1avfx1nmjmkde.cloudfront.net/playlist_1.m3u8
+#EXTINF:-1,Nexo Thriller
+https://amg02512-nexodigital-amg02512c2-samsung-it-765.playouts.now.amagi.tv/playlist/amg02512-nexodigital-levitedeglialtri-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="super",SUPER CINEMA
+https://amg02512-nexodigital-amg02512c3-samsung-it-766.playouts.now.amagi.tv/playlist/amg02512-nexodigital-cinemaexcelsior-samsungit/playlist.m3u8?ads.did=%25&ads.dnt=%25&ads.app_domain=%25&ads.app_name=%25&ads.tc_string=%25&ads.coppa=0&ads.ifa_type=%25&ads.url=%25
+#EXTINF:-1,CINE AMORE
+https://541203329b1d4b8dacee621a90add2ca.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_CineNatale/f938d7b0-4329-4b30-b761-be23807e8dca/2.m3u8
+#EXTINF:-1,CINE ALIENS
+https://f949e295.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0JpenphcnJvTW92aWVzLTFfSExT/e0e486d6-fb87-4ca0-ac3d-3b4834e8380f/2.m3u8
+#EXTINF:-1,Sony One Film divertenti
+https://076507c6230e400ebcce99e452f12b7f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-824-IT-SONYONEFILMDIVERTENTI-LG_IT/playlist.m3u8
+#EXTINF:-1,Cine Peplum
+https://5c8d7c58.wurl.com/4300.m3u8
+#EXTINF:-1,Western Time
+https://amg02512-amg02512c8-samsung-it-5139.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,ACTION MOVIE CHANNEL
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992210
+#EXTINF:-1,BRIVIDY CINEMA
+https://0219a5c3ba50427ba7885f9cf5e2ccdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_Serially/76cb394e-1ed9-4db2-8ebb-b40f1f17d314/2.m3u8
+#EXTINF:-1,Cine Paura
+https://amg02512-amg02512c7-samsung-it-5138.playouts.now.amagi.tv/playlist/amg02512-nexodigital-comedytime-samsungit/playlist.m3u8
+#EXTINF:-1,Cinemalizia
+https://amg02512-amg02512c6-samsung-it-5137.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SamsungCinemadame.it",Cine Madame
+https://plaionpictures-cinemadame-1-it.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1,CG GRANDI NOMI
+https://9a97f2f113334de59d1c4dc093b76280.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-it_CGtv/playlist.m3u8
+#EXTINF:-1,CG Cine Mania
+https://chili-film-sorrisi-1-it.xiaomi.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-id="PlutoTvCinemaItaliano.it",Cinema Italiano
+https://c4d2cd4a.wurl.com/4300.m3u8
+#EXTINF:-1 tvg-id="raisport",Rai Sport
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="sportitalia",Sportitalia
+https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SamsungSolocalcio.it",Solo Calcio
+https://italiansport-solocalcio-samsung.amagi.tv/hls/amagi_hls_data_sportital-solocalcio-samsung-italy/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="supertennis",Super Tennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1,TENNIS CHANNEL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1,TENNIS CHANNEL 2
+https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
+#EXTINF:-1,SPORT 1
+http://88.212.15.50/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1,SPORT 2
+http://88.212.15.50/live/test_sport_2/playlist.m3u8
+#EXTINF:-1,GOLAZO NETWORK CBS
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://88.212.7.14/live/esp1_hun/index.m3u8
+#EXTINF:-1 tvg-id="sportitalia",EUROSPORT 2
+http://88.212.7.14/live/esp2_hun/index.m3u8
+#EXTINF:-1 tvg-id="sportitalia",EUROVISION SPORT
+https://amg26268-amg26268c34-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg26268-amg26268c34-amgplt0018/playlist.m3u8?ads_amagi_channel_id=1121&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB17&ads_content_genre=sports&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=104.23.229.22&ads_market=fr&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_channel_name=eurovision-sport_fr&ads_rtv_content_id=7827&ads_rtv_content_language=en&ads_rtvid=271860&
+#EXTINF:-1 tvg-id="sportitalia",ESPN
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+#EXTINF:-1 tvg-id="sportitalia",Bein Extra SPORTS
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="fifa-plus-uk-live-new",FIFA +
+https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
+#EXTINF:-1,UEFA.tv
+https://live-manifest.production-public.tubi.io/live/d846008d-b608-4ddf-931c-48e9b60bf6c5/playlist.m3u8
+#EXTINF:-1,GOAL TV
+https://streams2.sofast.tv/ptnr-whaletv/title-Goal_TV_WHALETV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/48522ed2-79fb-4a7a-b2de-a88037f16cb7/master.m3u8?ads.tag_id=148552&ads.app_name=Whale+TV%2B&ads.app_store=Browser&ads.ic=IAB1&ads.url=&ads.channel_name=Goal+TV&ads.wtv_channel_id=0542&ads.content_id=&ads.content_genre=Sports&ads.content_title=&ads.content_series=&ads.content_season=&ads.content_episode=&ads.language=&ads.content_len=&ads.rating=12%2B&ads.content_producer_name=SoFast_SoFast_GoalTV&ads.content_categories=IAB19-29%2CIAB17%2CIAB17-44&ads.content_custom_1_param=SoFast&ads.content_custom_2_param=F%2CM&ads.content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&ads.tv_language=&ads.device_make=&ads.tv_vendor=&ads.brand_name=&ads.device_model=&ads.tv_model=&ads.gdpr=0&ads.gdpr_consent=&ads.did=ff0b9682-8d9c-44ff-8ec9-a4632abae8a7&a
+#EXTINF:-1 tvg-id="sportitalia",FUBO SPORTS NETWORK
+https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
+#EXTINF:-1 tvg-id="PlutoUnbeatenSports.it",Unbeaten
+https://amg00721-amg00721c6-freelivesports-emea-9595.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00721-inverleigh-unbtn3row-freelivesportsemea/playlist.m3u8?channel_name=Unbeaten%20-%20Worldwide&content_genre=Boxing%2CMMA%2CSport&ic=IAB17%2CIAB17-20%2CIAB17-5&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&language=en&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+#EXTINF:-1 tvg-id="dazn-ringside",DAZN RINGSIDE
+https://live-manifest.production-public.tubi.io/live/c92d028f-fd29-4925-9c4d-271bfe4262ec/playlist.m3u8
+#EXTINF:-1 tvg-id="redbulltv",Red Bull tv
+https://dh9xj535dvoa8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-optee6tkbgucu/d69cd17d-703a-49eb-b569-f3e555262295/1.m3u8
+#EXTINF:-1 tvg-id="bikesmartmobility",BIKE CHANNEL
+https://streamcdnr12-018e1901ad234f04ae16388eda6778e5.msvdn.net/live/S94763187/reFXDHQfBndw/chunklist.m3u8
+#EXTINF:-1 tvg-id="RakutenItalianFishing.it",Italian Fishing tv
+https://d2cz19kw3l63dx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-52hbmsz1pyype/index.m3u8
+#EXTINF:-1 tvg-id="EQUtv.it",EQU TV
+https://livestream-epiqa.akamaized.net/hls/live/2039453/EQUTV/master.m3u8
+#EXTINF:-1 tvg-id="RakutenBilliardsTv.it",BILLIARDS +
+https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
+#EXTINF:-1 tvg-id="rugbypass-tv",RUGBY PASS TV
+https://wurlworldrugby.global.transmit.live/hls/688cf16a14352f4b8d1bd9ab/v1/world_rugby_rugbypasstv_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1,DAZN Darts x Pluto TV
+https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
+#EXTINF:-1,MOTORVISION
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv_720p.m3u8
+#EXTINF:-1,MOTO RETRO'
+https://amg14891-amg14891c2-amgplt0033.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c2-amgplt0033/playlist.m3u8?ads.devicetype=[DEVICE_TYPE]&ads.ifa=[IFA]&ads.lat=[LMT]&ads.appversion=[APP_VERSION]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]&ads.appstoreurl=[APP_STOREURL]&ads.country=[COUNTRY]&ads.devicemodel=[DEVICE_MODEL]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.bundleid=[APP_BUNDLE]&ads.donotsell=[DNS]&ads.gdprconsent=[GDPR_CONSENT]&ads.ifatype=[IFA_TYPE]&ads.appname=[APP_NAME]&ads.devicemake=[DEVICE_MAKE]
+#EXTINF:-1 tvg-id="696e0fe49ba4ac18057433ac",Rally TV
+https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
+#EXTINF:-1 tvg-id="acisporttv",ACI SPORT TV
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1,NXT WWE CW
+https://jmp2.uk/rok-ac0caef9123a35df3b884b139340a597.m3u8
+#EXTINF:-1,AEW WRESTLING
+https://jmp2.uk/rok-8346c21c4b5b032cca68a74933e7642b.m3u8
+#EXTINF:-1 tvg-id="impact-wrestling",TNA WRESTLING
+https://jmp2.uk/rok-6d8659091f745b8b864f438f06c56fae.m3u8
+#EXTINF:-1,Juventus Play
+https://amg27604-amg27604c3-amgplt0033.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0033/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-id="nascar",MILAN TV
+http://team-tv.co:81/milan/index.m3u8
+#EXTINF:-1 tvg-id="inter-24-7-eng",INTER 24/7
+https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-69011f15563fefa22b294aee.m3u8?X-Plex-Session-Identifier=n0t34476gudcox0zh3e136tm&X-Plex-Product=Plex%20Web&X-Plex-Version=4.160.0&X-Plex-Client-Identifier=vtpzomnvpmm2jcseo8vyza31&X-Plex-Platform=Chrome&X-Plex-Platform-Version=152.0&X-Plex-Features=external-media%2Cindirect-media%2Chub-style-list&X-Plex-Model=standalone&X-Plex-Device=Windows&X-Plex-Device-Name=Chrome&X-Plex-Device-Screen-Resolution=1920x911%2C1920x1080&X-Plex-Token=7i26TW6pf59xS5zpaywW&X-Plex-Language=it&Accept-Language=it&X-Plex-Session-Id=0aca3be1-8194-4c1b-8105-4a7e01ff96c0&X-Plex-Playback-Session-Id=291b9c0d-e6a6-4f6f-8d24-057bc6fafa6d
+#EXTINF:-1 tvg-id="rai4k",Rai News
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="skytg24",Sky TG 24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 tvg-id="tgcom24",TG COM 24
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+#EXTINF:-1,CNN
+https://d2anxhed2mfixb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wqc602hxepp0q/CNNFAST_GB.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ITBD19000097D
+#EXTINF:-1,LiveNOW from FOX
+https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
+#EXTINF:-1,Aljazeera News
+https://jmp2.uk/stvp-GB2300005ML
+#EXTINF:-1 tvg-id="euronewsit",euronews
+https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="classcnbc",CLASS CNBC
+https://d1t2v0gs1xcf0l.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y3ddf6plueqkw/3639d7bc-aaaa-4eba-a32f-eda8d9a048ed/0.m3u8
+#EXTINF:-1 tvg-id="senatotv1",Senato tv
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 tvg-id="63eb573ba99571000897135b",PLUTO TV TEEN
+https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8
+#EXTINF:-1 tvg-id="boing",Boing
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="raiyoyo",Rai YoYo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1,Cartonito
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="raigulp",Rai Gulp
+https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8
+#EXTINF:-1 tvg-id="super",Super
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="rtl102.5tv",RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-id="rds",RDS TV
+https://stream.rdstv.radio/index.m3u8
+#EXTINF:-1,VIRGIN TV
+https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="m2otv",M2o TV
+https://streamcdnr11-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
+#EXTINF:-1 tvg-id="SamsungRockTv.it",Rock TV
+https://chili-rock-tv-1-it.xiaomi.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-id="radiofreccia",Radio Freccia
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 tvg-id="radioitaliatv",Radio Italia tv
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 tvg-id="radioitaliatv",Radio 101
+https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="radiomontecarlotv",Radio Montecarlo tv
+https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
+#EXTINF:-1,RADIO CAPITAL TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1 tvg-id="radiobrunotv",RADIO BRUNO
+https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="radiozeta",RADIO ZETA TV
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8
+#EXTINF:-1,Match Music TV
+https://5a1178b42cc03.streamlock.net/MATCHMUSIC/MATCHMUSIC/chunklist_w877538410.m3u8
+#EXTINF:-1 tvg-id="vevo-pop-uk",Vevo Pop Italy
+https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,VEVO 70-80
+https://d14ip4be72cu98.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-zg8zw1wonl318/5b8377f6-42c0-475f-be84-32d2c113cdf6/3.m3u8
+#EXTINF:-1,VEVO 90- 2000
+https://d2omjzxh65b56t.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-pycxb8mogus38/677d5f6b-44f6-4745-ac35-6594378b50fb/3.m3u8
+#EXTINF:-1 tvg-id="RakutenStingrayGreatestHits.it",STINGRAY GREATEST HITS
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/a078dcb6-3795-42ae-8faf-926d965f1538/1.m3u8
+#EXTINF:-1,MUSIC BOX CLASSIC
+https://dash2.antik.sk/live/mb_classic/index.m3u8
+#EXTINF:-1,Tele Liberta'
+https://liberta.cdn.streamup.eu/origin/teleliberta_abr/playlist.m3u8
+#EXTINF:-1,Tele Lombardia
+https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66074&cntr=0
+#EXTINF:-1,Telecolor
+https://streamcdnr17-1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/chunklist_b3128000.m3u8
+#EXTINF:-1,Telenova
+https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
+#EXTINF:-1,Rete Mia
+https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
+#EXTINF:-1,Euro TV
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1,Iunior TV
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+#EXTINF:-1,Alto Adige tv
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+#EXTINF:-1,Antenna 2 Bergamo
+https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+#EXTINF:-1,L'altro Corriere TV
+https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8
+#EXTINF:-1,Tele Montercarlo
+https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8
+#EXTINF:-1,Tele Boario
+https://stream7.xdevel.com/video0s976425-1244/stream/playlist_dvr.m3u8
+#EXTINF:-1,Tele City
+https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
+#EXTINF:-1,Bergamo tv
+https://streamcdnr14-db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/chunklist_DVR.m3u8
+#EXTINF:-1,Tele Tutto
+https://streamcdnr5-3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S55287570/tq6PELOcQoAf/chunklist.m3u8
+#EXTINF:-1,Rete 55
+https://live1.giocabet.tv/stream/6/index.m3u8
+#EXTINF:-1 tvg-id="supersix",Super Six TV
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1,7 GOLD
+https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
+#EXTINF:-1,Cafe 24 tv
+https://srvx1.selftv.video/cafe/live/playlist.m3u8
+#EXTINF:-1,12 tv Parma
+https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+#EXTINF:-1,Lombardia TV
+https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
+#EXTINF:-1,Tele Romagna
+https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1,70-80 tv RICORDI
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1,Antenna Sud
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
+#EXTINF:-1,Telecolor Regione
+https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/telecolor/master.m3u8
+#EXTINF:-1,Antenna Sud EXTRA
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8
+#EXTINF:-1,Tele Sveva
+https://live2.telesveva.com/hls/svevahd.m3u8?watchkey=16356b9f
+#EXTINF:-1,Tele Rama
+https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,Studio 100 tv
+https://cdn16.streamshow.it/cloud-studio100/studio100/playlist.m3u8
+#EXTINF:-1,Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1 tvg-id="super",Super TV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1 tvg-id="tv-eng",TVA vicenza
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+#EXTINF:-1,TARANTO TV
+https://cdn.livinlive.it/tarantotv/web/playlist.m3u8
+#EXTINF:-1,Telecentro
+https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
+#EXTINF:-1,GRP vera tv
+https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
+#EXTINF:-1,LA C TV
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+#EXTINF:-1,La TR3 Marsala
+https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+#EXTINF:-1,onda novara tv
+https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
+#EXTINF:-1,Onda TV
+https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8
+#EXTINF:-1,Umbria tv
+https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
+#EXTINF:-1,TeleSanDomenico
+https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
+#EXTINF:-1,Tele Mantova
+https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
+#EXTINF:-1,Azzurra tv
+https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
+#EXTINF:-1,Rete 8
+https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
+#EXTINF:-1,111
+https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
+#EXTINF:-1,Rete Biella tv
+https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
+#EXTINF:-1,Rete Oro
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+#EXTINF:-1,Reggio tv
+https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
+#EXTINF:-1,Esperia tv
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1,Rete tv Italia
+https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
+#EXTINF:-1,RTP sicilia
+http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:-1 tvg-id="radionorbatv",Radio Norba TV
+https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
+#EXTINF:-1,Tele Ticino
+https://vstream-cdn.ch/hls/teleticino.m3u8
+#EXTINF:-1,cronache lucane tv
+http://77.68.40.210:8888/hls/cronache.m3u8
+#EXTINF:-1,Nora tv
+https://57068da1deb21.streamlock.net/noratv/noratv/playlist.m3u8
+#EXTINF:-1 tvg-id="sportitalia",sport channel 24
+https://5dcabf026b188.streamlock.net/SPORTCHANNEL214/livestream/playlist.m3u8
+#EXTINF:-1,Teleluna Puglia
+https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
+#EXTINF:-1,Canale 10 Lazio
+https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/chunklist_w566195533.m3u8
+#EXTINF:-1,Sicilia 24
+https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
+#EXTINF:-1,Lira tv
+https://streamcdnr7-a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
+#EXTINF:-1,RTN NAPOLI
+https://rst2.saiuzwebnetwork.it:8081/saiuz-2/index.m3u8
+#EXTINF:-1,Tele Ercolano
+https://rst2.saiuzwebnetwork.it:8081/teleradioercolano/index.m3u8
+#EXTINF:-1,prima tv napoli
+https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
+#EXTINF:-1,Piu Valli
+https://5db313b643fd8.streamlock.net/piuvallitv/piuvallitv/playlist.m3u8
+#EXTINF:-1,Tele Gela 98
+https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-eng",tva 75
+https://stream10.xdevel.com/video0s978817-3107/stream/playlist.m3u8
+#EXTINF:-1,Rete italia
+https://rst1.saiuzwebnetwork.it:8081/reteitalia/index.m3u8
+#EXTINF:-1,TELE FUTURA
+https://rst2.saiuzwebnetwork.it:8081/telefutura/index.m3u8
+#EXTINF:-1,canale 81
+https://5f22d76e220e1.streamlock.net/canale81lazio/canale81lazio/playlist.m3u8
+#EXTINF:-1,Partenope tv
+https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8
+#EXTINF:-1,telejonio
+http://59d7d6f47d7fc.streamlock.net/telejonio/telejonio/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-eng",TV LUNA
+https://load-balancer.azotosolutions.com/cdnedge35/potenza12/playlist.m3u8
+#EXTINF:-1,TELE BRUZZANO
+https://playerssl.telemia.tv/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8
+#EXTINF:-1,TELE ROMA 2
+https://57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8
+#EXTINF:-1,tele friuli
+https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
+#EXTINF:-1,tele stabia
+https://stream3.aswifi.it/giglitv/live/index.m3u8
+#EXTINF:-1,capri events
+https://host2.hbbtv.me:28443/hls/caprievents/index.m3u8
+#EXTINF:-1 tvg-id="med-tv",mediasud
+https://5f22d76e220e1.streamlock.net/mediasud/mediasud/playlist.m3u8
+#EXTINF:-1,Campania tv
+https://rst2.saiuzwebnetwork.it:8081/telemiracoli/index.m3u8
+#EXTINF:-1,Rete 7
+https://stream.ets-sistemi.it:2020/hls/rete7-live/rete7-live.m3u8
+#EXTINF:-1,CREMONA 1
+https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8?uid=7548-1
+#EXTINF:-1,SICILIA 24
+https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
+#EXTINF:-1 tvg-id="MilanTV.it",MILANO NOW
+https://ce1dae8cbf60493d91a7231f4400efe0.msvdn.net/live/S88452730/HfL8SdC2mggI/playlist.m3u8
+#EXTINF:-1,URANIA NEWS
+https://69d6d7eab63943c4810c4098feaa0d9c.msvdn.net/live/S76542633/a8BwWIUxagF6/playlist.m3u8
+#EXTINF:-1,TRC BOLOGNA
+https://trm-trcbologna.cdn.netrw.it/event/hls/ccr/trcbologna/master.m3u8
+#EXTINF:-1,ITALIACABLE
+https://5f22d76e220e1.streamlock.net/italiacable/italiacable/playlist.m3u8
+#EXTINF:-1,TELEGENOVA
+https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8
+#EXTINF:-1,PEERTV
+https://iptv.peer.biz/live/peertv.m3u8
+#EXTINF:-1 tvg-id="tv-eng",TV 33
+https://64b16f23efbee.streamlock.net/tv33bz/tv33bz/playlist.m3u8
+#EXTINF:-1,TELEAMBIENTE
+https://64b16f23efbee.streamlock.net/teleambiente3/teleambiente3/playlist.m3u8
+#EXTINF:-1,RTV 38
+https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
+#EXTINF:-1,TELEMAXTV
+https://livetv.telemaxtv.it/hls/mystream.m3u8
+#EXTINF:-1,TELE NORBA
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8?start=now-2h
+#EXTINF:-1,VIDEOCALABRIA
+https://a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8
+#EXTINF:-1,CANALE 8
+https://canale8.zappr.stream/live/main-204747824658.m3u8
+#EXTINF:-1,TELE COSTA SMERALDA
+https://5bb65e9de3fdf.streamlock.net/live/TCS/playlist.m3u8
+#EXTINF:-1,ANTENNA SICILIA
+https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8?start=now-3h
+#EXTINF:-1,CANALE ITALIA
+https://liveac915ha.streamcloud.it/channel11/playlist.m3u8
+#EXTINF:-1 tvg-id="radioitaliatv",RADIO TELEVISIONE SARDA
+https://stream.ejatv.com/memfs/dff807e1-b3b2-49f5-92d6-5b178be4eb6d.m3u8
+#EXTINF:-1,TEATRO TV
+https://teatrotv.iostream.it/teatrotv.m3u8
+#EXTINF:-1,VM
+https://5db313b643fd8.streamlock.net/vm/vm/playlist.m3u8
+#EXTINF:-1 tvg-id="radioitaliatv",RADIORADIO TV
+https://stream-200912.castr.net/646b335e2291a2022444bb7c/live_22f84390fe1411ed919df3da85a483cc/rewind-14400.m3u8
+#EXTINF:-1,TELE SARDEGNA
+https://f54364fcc4f84d9d9a72c8915e72704b.msvdn.net/live/S95701787/z3dZO4LpABmG/playlist.m3u8
+#EXTINF:-1,UNICA
+https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S84376118/gnJqPnxrsLcY/playlist.m3u8?DVR
+#EXTINF:-1,RETE A
+https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/master.m3u8
+#EXTINF:-1 tvg-id="radioitaliatv",RADIO ITALIA CINA
+https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
+#EXTINF:-1,NEXUM CHANNEL
+https://64b16f23efbee.streamlock.net/nexumchannel/nexumchannel/playlist.m3u8
+#EXTINF:-1,arte e cultura
+https://stream10.xdevel.com/video19s975955-2175/stream/playlist.m3u8
+#EXTINF:-1,RAN friuli
+https://load-balancer.azotosolutions.com/cdnedge34/ranfriul/playlist.m3u8
+#EXTINF:-1,Ran Slovenia
+https://load-balancer.azotosolutions.com/cdnedge34/ranslo/playlist.m3u8
+#EXTINF:-1,RAN germ
+https://load-balancer.azotosolutions.com/cdnedge34/rangerm/playlist.m3u8
+#EXTINF:-1,Tele Belluno
+https://g2qd3exzy7an-hls-live.mariatvcdn.it/livetelebelluno/be0e3154b820953ce1a94a937bb2bb5d.sdp/playlist.m3u8
+#EXTINF:-1,Tele Nuovo
+https://liveac901.b-cdn.net/channel02.smil/playlist.m3u8
+#EXTINF:-1,TRY LIME
+https://load-balancer.azotosolutions.com/cdnedge34/trylaim/playlist.m3u8
+#EXTINF:-1,TELEREGIONE TOSCANA
+https://srvx1.selftv.video/teleregionetoscana/live/chunklist_w69583977.m3u8
+#EXTINF:-1,TUTTO TV
+https://host1.momentotv.live:28443/hls/tuttotv/playlist.m3u8
+#EXTINF:-1,STAND BY TV
+https://5926fc9c7c5b2.streamlock.net/standbytv/standbytv/playlist.m3u8
+#EXTINF:-1 tvg-id="radioitaliatv",RADIO ROMA NETWORK
+https://www.dailymotion.com/cdn/live/video/x98v4v8.m3u8?sec=kmpTBsX8LlC4t_EOK2rdhHmIDrT5f-SbP023JGqRSBQBeAZMqQVFIDsvB0omzVDr
+#EXTINF:-1,RBN
+https://d11lloskz6zsj6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fit9eg93mhu72/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=ITBD2300001MT
+#EXTINF:-1 tvg-id="radioitaliatv",QUI' RADIO LONDRA TV
+https://load-balancer.azotosolutions.com/cdnedge6/smil:live6.smil/playlist.m3u8
+#EXTINF:-1,VINTAGE TV
+https://stream10.xdevel.com/video18s975955-2174/stream/playlist.m3u8
+#EXTINF:-1,RAN NEWS
+https://cdn100-ita.azotosolutions.com:8443/cdnedge34/ranwes/chunklist_w1041837583.m3u8
+#EXTINF:-1,VINTAGE TV
+https://64b16f23efbee.streamlock.net/hit24tv/hit24tv/playlist.m3u8
+#EXTINF:-1 tvg-id="radioitaliatv",Mitology tv Radio
+https://64b16f23efbee.streamlock.net/mitologytv/mitologytv/playlist.m3u8
+#EXTINF:-1,telepace trento
+https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
+#EXTINF:-1,TELERENT 7 GOLD
+https://5db313b643fd8.streamlock.net/telerent/telerent/playlist.m3u8
+#EXTINF:-1,CORE TV
+https://64b16f23efbee.streamlock.net/coretv/coretv/master.m3u8
+#EXTINF:-1 tvg-id="radioitaliatv",ONDARADIOWEB
+https://57068da1deb21.streamlock.net/ondaradioweb/ondaradioweb/playlist.m3u8
+#EXTINF:-1,ALPA UNO TV
+https://5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8
+#EXTINF:-1,TELE ARENA
+https://5f204aff97bee.streamlock.net/TeleArena/livestream/playlist.m3u8
+#EXTINF:-1,TELEREGIONE COLOR
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/media--video-stream-1--audio-stream-1.m3u8?start=now-2h&end=now
+#EXTINF:-1,WEST SICILY TV
+https://64b16f23efbee.streamlock.net/westsicilytv/westsicilytv/chunklist_w1408349201.m3u8
+#EXTINF:-1,TELE FOGGIA
+https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
+#EXTINF:-1,CANALE 2
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-eng",TV TEN
+https://streamcdnr20-7640f9b3494e4d1fb307f886e3b60402.msvdn.net/live/S41081260/ohLhSxDNpDNC/chunklist_b2099200.m3u8
+#EXTINF:-1,ALMA TV
+https://5f11919dca3bd.streamlock.net/almatv/_definst_/almatv/chunklist_w1002739969.m3u8
+#EXTINF:-1,L'EMILIA ROMAGNA IN DIRETTA
+https://cdn-base321.ciclano.io:1443/base321/base321/chunklist_w1115526882.m3u8
+#EXTINF:-1,NTI TV
+https://www.ntimedia.it/video/S0B/S0B_master.m3u8
+#EXTINF:-1,TELE LEONESSA
+https://59d7d6f47d7fc.streamlock.net/teleleonessa/teleleonessa/playlist.m3u8
+#EXTINF:-1,TVL
+https://oj7lnw79lg82-hls-live.mariatvcdn.it/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/chunks.m3u8
+#EXTINF:-1,TOP CALCIO 24
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/index.m3u8?hdnts=exp=1795761238~acl=/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/*~hmac=167e462c71219db89c983e46d605b479debe9ed7aab8f9104c9df5eba6c83ae0
+#EXTINF:-1,ANTENNA 3 LOMBARDIA
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/E3292942396756E343C782721E4202B5F6E7E770/index.m3u8?hdnts=exp=1795761195~acl=/live/Telelombardia/hls/E3292942396756E343C782721E4202B5F6E7E770/*~hmac=2bc84aa8b9f93d1fabfd8c49e5ffc28ca6c756d6fda10a41f9e31ad5164569ef
+#EXTINF:-1,TELE CUPOLE
+https://cdn100-ita.azotosolutions.com:8443/cdnedge40/telecupole/chunklist_w530128840.m3u8
+#EXTINF:-1,TELE SANTERNO 2
+https://5f22d76e220e1.streamlock.net/ditv92/ditv92/chunklist_w607433693.m3u8
+#EXTINF:-1,TELE LIGURIA SUD
+https://5f22d76e220e1.streamlock.net/tls/tls/chunklist_w1070827682.m3u8
+#EXTINF:-1,ADN 24
+https://64b16f23efbee.streamlock.net/adn24tv/adn24tv/chunklist_w1310595332.m3u8
+#EXTINF:-1,TV9 TELEMAREMMA
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/6339ee65498e3ca8e75590daa7e447f5/source/index.m3u8
+#EXTINF:-1,ETV MARCHE
+https://5f11919dca3bd.streamlock.net/E-TvMarche/_definst_/myStream/chunklist_w790849032.m3u8
+#EXTINF:-1,ODEON 24
+https://5f11919dca3bd.streamlock.net/odeonjump/_definst_/odeonjump/chunklist_w6718349.m3u8
+#EXTINF:-1,LAZIO TV
+https://5f11919dca3bd.streamlock.net/laziotv/_definst_/laziotv/chunklist_w1135281805.m3u8
+#EXTINF:-1,TELEREPORTER
+https://64b16f23efbee.streamlock.net/telereporter/telereporter/chunklist_w1524760467.m3u8
+#EXTINF:-1,GRANDUCATO TV
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/6339ee65498e3ca8e75590daa7e447f5/source/index.m3u8
+#EXTINF:-1,NOKEP TV
+https://streamer2.premio.link/nokep_hd/tracks-v5a1/mono.m3u8
+#EXTINF:-1,DOLOMITI LIFE
+https://stream.mariatvcdn.com/teledolomiti/a66b8b8ac2baee06f136e87b9805774d.sdp/chunks.m3u8
+#EXTINF:-1,DONNA TV
+https://5f11919dca3bd.streamlock.net/donnatv/_definst_/donnatv/chunklist_w1300949948.m3u8
+#EXTINF:-1,TELE CAMPIONE
+https://64b16f23efbee.streamlock.net/telecampione/telecampione/chunklist_w681820020.m3u8
+#EXTINF:-1,GREENVENTURE TV
+https://648026e87a75e.streamlock.net/greenventure/greenventure/chunklist_w1619283517.m3u8
+#EXTINF:-1,ESPANSIONE TV
+https://streamcdnr14-b53136fc0d724da78cac7754d601393d.msvdn.net/live/S13070333/lgUidxJCmpO3/chunklist_b131000.m3u8
+#EXTINF:-1,TELE VOMERO
+https://stream2.xdevel.com/video0s100-23/stream/chunks.m3u8?nimblesessionid=294788959&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAyNiA2OjQ1OjIzIEFNJmhhc2hfdmFsdWU9WnRLKzZ0cDNacXhDZmtzTVIydzVrZz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1,TVSEI
+https://654be07bf207c.streamlock.net/TvSeiHBBTV/tvseiWebPresenter/chunklist_w1873532814.m3u8
+#EXTINF:-1,REI TV
+https://64b16f23efbee.streamlock.net/reitv/reitv/chunklist_w17135603.m3u8
+#EXTINF:-1,TELE A1
+https://stream.ets-sistemi.it:2020/hls/telea1-live/telea1-live.m3u8
+#EXTINF:-1,TGS
+https://stream2.xdevel.com/video1s975436-826/stream/chunks.m3u8?nimblesessionid=294789631
+#EXTINF:-1,L'UNIONE TV SARDA
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(T5Bax4b5Suc7K__Q5vP-EvkAlHHNtWj2l1KYG3rPMBVcRIbGYE1ci4fEK1uZj5wFTqJO6dfr0sX8IgcJMKScWUn_Fu0mSAEHA4qQ4bH2I4RqBETfEhw-MN_Bck5_HX-n)/cloud/3/xabqoj4/s/live-720.m3u8#cell=lcf2-eu-north-1a
+#EXTINF:-1,UNO4
+https://cdn.uno4.it/index.m3u8
+#EXTINF:-1,LA TENDA TV
+https://2-fss-1.streamhoster.com/pl_148/206202-2980948-1/chunklist.m3u8
+#EXTINF:-1,TELE VALLASSINA
+https://64b16f23efbee.streamlock.net/tvstelevallassina/tvstelevallassina/playlist.m3u8
+#EXTINF:-1,T9 LAZIO
+https://5f11919dca3bd.streamlock.net/tnove/_definst_/tnove/chunklist_w738234359.m3u8
+#EXTINF:-1,GIOCABET.TV
+https://live1.giocabet.tv/stream/1/index.m3u8
+#EXTINF:-1 tvg-id="radioitaliatv",RADIO BIRIKINA TV
+https://str02.fluid.stream/RadioBirikinaTV/livestream/playlist.m3u8
+#EXTINF:-1,E LIVE BRESCIA TV
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
+#EXTINF:-1 tvg-id="fmitalia",FM TV MARCHE
+https://direct.intvstream.net:3737/live/fmtvlive.m3u8
+#EXTINF:-1 tvg-id="radioitaliatv",RADIO RICORDI TV
+https://5f22d76e220e1.streamlock.net/radioricorditv/radioricorditv/chunklist_w378994140.m3u8
+#EXTINF:-1,TSN NEWS
+https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/tracks-v1a1/rewind-18000.ts.m3u8
+#EXTINF:-1,GO -TV CHANNEL
+https://64b16f23efbee.streamlock.net/gooo/gooo/chunklist_w1170306755.m3u8
+#EXTINF:-1,LA GRANDE ITALIA
+https://64b16f23efbee.streamlock.net/grandeitaliatv/grandeitaliatv/chunklist_w1692984758.m3u8
+#EXTINF:-1,STILE TV
+https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
+#EXTINF:-1,LA C ON AIR
+https://streamcdnr12-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/chunklist.m3u8
+#EXTINF:-1,GLOBE TV
+https://host1.momentotv.live:28443/hls/globetv/playlist.m3u8
+#EXTINF:-1,TURISMO TV
+https://64b16f23efbee.streamlock.net/turismotv/turismotv/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-eng",TV 5 MONDE EUROPE FRANCE
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.m3u8
+#EXTINF:-1,RUSSIA 1
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:-1 tvg-id="tv-eng",TVE INTERNACIONAL EUROPE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
+#EXTINF:-1,BBC EUROPE UK
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1,EBS 1 SUD KOREA
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,AL QURAN SAUDI ARABIA
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1,CARAC 1
+https://edge13.vedge.infomaniak.com/livecast/ik:event/chunklist_w1151186212.m3u8
+#EXTINF:-1,NEWS 24 ALBANIA
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1,RTL
+https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
+#EXTINF:-1,CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
+#EXTINF:-1,CHINA TRAVEL
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index_2.m3u8
+#EXTINF:-1,2M
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+#EXTINF:-1,A2I SENEGAL
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
+#EXTINF:-1,ZDF
+https://dash2.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
+#EXTINF:-1,ARGENTINISIMA TV
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1,ASIANET
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
+#EXTINF:-1,CNN USA
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+#EXTINF:-1,CCTV 1
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1,ARTE GERMANY
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1,SR INFO
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/master-720p-3328.m3u8
+#EXTINF:-1 tvg-id="InterTV.it",AZTECA INTERNACIONAL
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+#EXTINF:-1,NHK JAPAN
+https://nhk.lls.pbs.org/index_1080p.m3u8
+#EXTINF:-1 tvg-id="rai4k",RAI USA
+https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
+#EXTINF:-1 tvg-id="rai4k",RAI SUD AMERICA
+https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
+#EXTINF:-1 tvg-id="rai4k",RAI ASIA AUSTRALIA
+https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
+#EXTINF:-1 tvg-id="med-tv",MEDIASET EUROPA
+https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
+#EXTINF:-1 tvg-id="med-tv",MEDIASET USA
+https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
+#EXTINF:-1 tvg-id="med-tv",MEDIASET AUSTRALIA
+https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
