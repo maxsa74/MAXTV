@@ -1,0 +1,1615 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="1" tvg-id="Rai.1.HD..101.it" tvg-name="Rai 1" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/1-rai1.png", Rai 1
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="2" tvg-id="Rai.2.HD..102.it" tvg-name="Rai 2" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/2-rai2.png", Rai 2
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="3" tvg-id="Rai.3.HD..103.it" tvg-name="Rai 3" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/3-rai3.png", Rai 3
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="4" tvg-id="Rete.4.it" tvg-name="Rete 4 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/4-rete4hd.png", Rete 4 HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="5" tvg-id="Canale.5.it" tvg-name="Canale 5 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/5-canale5hd.png", Canale 5 HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="6" tvg-id="Italia.1.it" tvg-name="Italia 1 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/6-italia1hd.png", Italia 1 HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="7" tvg-id="LA7.HD.it" tvg-name="LA7 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/7-la7hd.png", LA7 HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="8" tvg-id="TV8.HD.it" tvg-name="TV8 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/8-tv8hd.png", TV8 HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="9" tvg-id="Nove.it" tvg-name="NOVE HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/9-novehd.png", NOVE HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
+
+#EXTINF:-1 group-title="Locali e Altri Generalisti" tvg-chno="10" tvg-name="Telenorba" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/10-telenorba.png", Telenorba
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8
+
+#EXTINF:-1 group-title="Locali e Altri Generalisti" tvg-chno="11" tvg-id="RADIONORBA.TV.it" tvg-name="Radionorba TV HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/11-radionorbatv.png", Radionorba TV HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="Locali e Altri Generalisti" tvg-chno="12" tvg-name="Teledue" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/12-teledue.png", Teledue
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://stream12.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="Locali e Altri Generalisti" tvg-chno="13" tvg-id="TG.NORBA.24.it" tvg-name="TG Norba 24" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/13-tgnorba24.png", TG Norba 24
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8
+
+#EXTINF:-1 group-title="Locali e Altri Generalisti" tvg-chno="14" tvg-name="Antenna Sud" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/14-antennasud.png", Antenna Sud
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
+
+#EXTINF:-1 group-title="Locali e Altri Generalisti" tvg-chno="15" tvg-name="Telerama" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/15-telerama.png", Telerama
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://str03.fluid.stream/TeleRama/livestream/chunklist_w863351056.m3u8
+
+#EXTINF:-1 group-title="Locali e Altri Generalisti" tvg-chno="16" tvg-id="TRM.h24.it" tvg-name="TRM H24" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/16-trmh24.png", TRM H24
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://www.youtube.com/watch?v=88vVV1k84Qo
+
+#EXTINF:-1 group-title="Locali e Altri Generalisti" tvg-chno="17" tvg-name="Telebari" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/17-telebari.png", Telebari
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://w1.mediastreaming.it/telebari/livestream/manifest.mpd
+
+#EXTINF:-1 group-title="Locali e Altri Generalisti" tvg-chno="18" tvg-name="Telesveva" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/18-telesveva.png", Telesveva
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live2.telesveva.com/hls/svevahd.m3u8
+
+#EXTINF:-1 group-title="Locali e Altri Generalisti" tvg-chno="19" tvg-name="Tele Dehon" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/19-teledehon.png", Tele Dehon
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://64b16f23efbee.streamlock.net/teledehonapp/ngrp:teledehonapp_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="20" tvg-id="20.it" tvg-name="20Mediaset HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/20-20hd.png", 20Mediaset HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Rai Tematici" tvg-chno="21" tvg-id="Rai.4..5021.it" tvg-name="Rai 4" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/21-rai4.png", Rai 4
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="22" tvg-id="Iris.it" tvg-name="Iris HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/22-irishd.png", Iris HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Rai Tematici" tvg-chno="23" tvg-id="Rai.5..5023.it" tvg-name="Rai 5" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/23-rai5.png", Rai 5
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://raicinque3-live.akamaized.net/hls/live/2018007/raicinque3/raicinque3/playlist.m3u8
+
+#EXTINF:-1 group-title="Rai Tematici" tvg-chno="24" tvg-id="Rai.Movie..5024.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/24-raimovie.png", Rai Movie
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8
+
+#EXTINF:-1 group-title="Rai Tematici" tvg-chno="25" tvg-id="Rai.Premium..5025.it" tvg-name="Rai Premium" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/25-raipremium.png", Rai Premium
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.7.1
+https://raipremium1-dash-live.akamaized.net/dash/live/663979/raipremium1/manifest.mpd
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="26" tvg-id="cielo.it" tvg-name="Cielo HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/26-cielohd.png", Cielo HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="27" tvg-id="27.Twentyseven.it" tvg-name="27Twentyseven HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/27-27hd.png", 27Twentyseven HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="28" tvg-name="TV 2000" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/28-tv2000.png", TV2000
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+
+#EXTINF:-1 group-title="Film" tvg-chno="29" tvg-id="LA7.CINEMA.it" tvg-name="LA7 Cinema" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/29-la7cinema.png", LA7 Cinema
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="30" tvg-id="La.5.it" tvg-name="La5 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/30-la5hd.png", La5 HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="31" tvg-id="Real.Time.it" tvg-name="Real Time HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/31-realtimehd.png", Real Time HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+
+#EXTINF:-1 group-title="Locali e Altri Generalisti" tvg-chno="32" tvg-id="QVC.it" tvg-name="QVC HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/32-qvc.png", QVC HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+
+#EXTINF:-1 group-title="Cucina, Viaggi e Lifestyle" tvg-chno="33" tvg-id="Food.Network.it" tvg-name="Food Network HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/33-foodnetworkhd.png", Food Network HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
+
+#EXTINF:-1 group-title="Film" tvg-chno="34" tvg-id="Cine34.it" tvg-name="Cine34 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/34-cine34hd.png", Cine34 HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Documentari" tvg-chno="35" tvg-id="Focus.it" tvg-name="FOCUS HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/35-focushd.png", FOCUS HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Musica" tvg-chno="36" tvg-id="RTL.102.5.HD.it" tvg-name="RTL 102.5" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/36-rtl1025.png", RTL 102.5
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="37" tvg-id="Discovery.Channel.it" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/37-discovery.png", Discovery
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="38" tvg-id="Giallo.TV.it" tvg-name="Giallo" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/38-giallohd.png", Giallo
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
+
+#EXTINF:-1 group-title="Crime e True Crime" tvg-chno="39" tvg-id="Top.Crime.it" tvg-name="Top Crime HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/39-topcrimehd.png", Top Crime HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Bambini e Teen" tvg-chno="40" tvg-id="Boing.it" tvg-name="Boing HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/40-boing.png", Boing HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="41" tvg-id="K2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/41-k2.png", K2
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
+
+#EXTINF:-1 group-title="Bambini e Teen" tvg-chno="42" tvg-id="RaiGulp.it" tvg-name="Rai Gulp" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/42-raigulp.png", Rai Gulp
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8
+
+#EXTINF:-1 group-title="Bambini e Teen" tvg-chno="43" tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/43-raiyoyo.png", Rai Yoyo
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.7.1
+https://raiyoyo1-dash-live.akamaized.net/dash/live/663949/raiyoyo1/manifest.mpd
+
+#EXTINF:-1 group-title="Bambini e Teen" tvg-chno="44" tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/44-frisbee.png", Frisbee
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
+
+#EXTINF:-1 group-title="Bambini e Teen" tvg-chno="45" tvg-id="BoingPlus.it" tvg-name="Boing Plus" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/45-boingplus.png", Boing Plus
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://uvotv.zappr.stream/101.m3u8
+
+#EXTINF:-1 group-title="Bambini e Teen" tvg-chno="46" tvg-id="Cartoonito.it" tvg-name="Cartoonito HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/46-cartoonito.png", Cartoonito HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Bambini e Teen" tvg-chno="47" tvg-id="Super.it" tvg-name="Super!" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/47-super.png", Super!
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+
+#EXTINF:-1 group-title="News" tvg-chno="48" tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/48-rainews24.png", Rai News 24
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=rainet/4.0.8
+https://rainews1-dash-live.akamaized.net/dash/live/663981/rainews1/manifest.mpd
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="49" tvg-id="Italia.2.it" tvg-name="Italia 2 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/49-italia2hd.png", Italia 2 HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
+
+#EXTINF:-1 group-title="News" tvg-chno="50" tvg-id="Sky.TG24.it" tvg-name="Sky TG24" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/50-skytg24.png", Sky TG24
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 group-title="News" tvg-chno="51" tvg-id="TGCom.it" tvg-name="TGCOM 24 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/51-tgcom24hd.png", TGCOM 24 HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="52" tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/52-dmaxhd.png", DMAX
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
+
+#EXTINF:-1 group-title="Locali e Altri Generalisti" tvg-chno="53" tvg-name="Italia 53" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/53-italia53.png", Italia 53
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://liveac115b.b-cdn.net/canale3.smil/chunklist_b1100000.m3u8
+
+#EXTINF:-1 group-title="Rai Tematici" tvg-chno="54" tvg-id="Rai.Storia..5054.it" tvg-name="Rai Storia HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/54-raistoriahd.png", Rai Storia HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://raistoria3-live.akamaized.net/hls/live/2018017/raistoria3/raistoria3/playlist.m3u8
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="55" tvg-id="Mediaset.Extra.it" tvg-name="Mediaset Extra HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/55-mediasetextrahd.png", Mediaset Extra HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Cucina, Viaggi e Lifestyle" tvg-chno="56" tvg-id="HGTV.it" tvg-name="HGTV - Home&Garden" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/56-hgtv.png", HGTV - Home&Garden
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
+
+#EXTINF:-1 group-title="Locali e Altri Generalisti" tvg-chno="57" tvg-id="Rai.Scuola..5057.it" tvg-name="Italiana" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/57-raiscuolahd.png", Italiana
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.7.1
+https://raiscuola1-dash-live.akamaized.net/dash/live/663975/raiscuola1/manifest.mpd
+
+#EXTINF:-1 group-title="Sport" tvg-chno="58" tvg-id="RAI.Sport...227.it" tvg-name="Rai Sport" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/58-raisport.png", Rai Sport
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportuno3/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-chno="59" tvg-id="Motor.Trend.it" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/59-discoveryturbo.png", Discovery Turbo
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-chno="60" tvg-id="Sportitalia.it" tvg-name="Sportitalia HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/60-sportitalia.png", Sportitalia HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Locali e Altri Generalisti" tvg-chno="61" tvg-name="il61" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/61-il61.png", il61
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://5a1178b42cc03.streamlock.net/travel/travel/chunklist_w2126077193.m3u8
+
+#EXTINF:-1 group-title="Locali e Altri Generalisti" tvg-chno="62" tvg-name="Donna TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/62-donnatv.png", Donna TV
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://5a1178b42cc03.streamlock.net/donnatv/donnatv/chunklist_w1420973156.m3u8
+
+#EXTINF:-1 group-title="Locali e Altri Generalisti" tvg-chno="63" tvg-name="Canale 63" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/63-cs24.png", Canale 63
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master-3500.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-chno="64" tvg-id="SuperTennis.HD.it" tvg-name="SuperTennis" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/64-supertennis.png", SuperTennis
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+
+#EXTINF:-1 group-title="Locali e Altri Generalisti" tvg-chno="65" tvg-name="Alma TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/65-almatv.png", Alma TV
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica" tvg-chno="66" tvg-id="Radio.105.it" tvg-name="Radio 105 TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/66-radio105.png", Radio 105 TV
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Musica" tvg-chno="67" tvg-id="R101tv.it" tvg-name="R101 TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/67-r101.png", R101 TV
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
+
+#EXTINF:-1 group-title="Musica" tvg-chno="68" tvg-name="Bom Channel" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/68-bomchannel.png", Bom Channel
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica" tvg-chno="69" tvg-id="Deejay.TV.it"tvg-name="Deejay TV HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/69-deejay.png", Deejay TV HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica" tvg-chno="70" tvg-id="Radio.Italia.TV.HD.it" tvg-name="RadioItaliaTV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/70-radioitalia.png", RadioItaliaTV
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+
+#EXTINF:-1 group-title="Locali e Altri Generalisti" tvg-chno="71" tvg-name="RSI La 1" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/71-rsila1.png", RSI La 1
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+
+#EXTINF:-1 group-title="Locali e Altri Generalisti" tvg-chno="72" tvg-name="RSI La 2" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/72-rsila2.png", RSI La 2
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+
+#EXTINF:-1 group-title="Locali e Altri Generalisti" tvg-chno="73" tvg-name="La Nuova TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/73-lanuovatv.png", La Nuova TV
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Generalisti e Digitale Terrestre" tvg-chno="101" tvg-name="Rai 4K" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/101-rai4K.png", Rai 4K
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-chno="102" tvg-name="FIFA+" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/102-fifa.png", FIFA+
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-chno="103" tvg-name="Radio TV Serie A" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/103-radiotvseriea.png", Radio TV Serie A
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://legaseriea-live-prd.cdn.netrw.it/@syna-token=st=1791652095~hmac=db842edcd57164438b4a30743a5870827a67d4dab2dbab62e45e5e3bd263005d/out/v1/s-prd/ch-01-prd-s-v2/dash-ch-01-prd-s-hd/index.mpd
+
+#EXTINF:-1 group-title="Musica" tvg-chno="158" tvg-name="Radio Kiss Kiss TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/158-kisskiss.png", Radio Kiss Kiss TV
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica" tvg-chno="202" tvg-name="Rai Radio 2 Visual" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/202-rairadio2.png", Rai Radio 2 Visual
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
+
+#EXTINF:-1 group-title="Animazione e Anime" tvg-chno="236" tvg-name="MAN-GA" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/236-manga.png", MAN-GA
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://streamcdnr9-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
+
+#EXTINF:-1 group-title="News" tvg-chno="246" tvg-name="Radio 24 - IlSole24OreTV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/246-radio24.png", Radio 24 - IlSole24OreTV
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
+
+#EXTINF:-1 group-title="Cucina, Viaggi e Lifestyle" tvg-chno="257" tvg-id="Gambero.Rosso.HD.it" tvg-name="Gambero Rosso" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/257-gamberorosso.png", Gambero Rosso
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://smplu.link/xN1ckuz-GamberoRosso.m3u8
+
+#EXTINF:-1 group-title="Musica" tvg-chno="258" tvg-id="RADIOFRECCIA.HD.it" tvg-name="RadioFreccia" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/258-radiofreccia.png", RadioFreccia
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+
+#EXTINF:-1 group-title="Musica" tvg-chno="263" tvg-name="Virgin Radio" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/263-virginradio.png", Virgin Radio
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest_hr.mpd
+
+#EXTINF:-1 group-title="Musica" tvg-chno="265" tvg-name="RDS Social TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/265-rdssocialtv.png", RDS Social TV
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://stream.rdstv.radio/index.m3u8
+
+#EXTINF:-1 group-title="Musica" tvg-chno="266" tvg-name="Radio Zeta" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/266-radiozeta.png", Radio Zeta
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+
+#EXTINF:-1 group-title="News" tvg-chno="401" tvg-id="Euronews.IT" tvg-name="Euronews IT" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/401-euronewsit.png", Euronews IT
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/euronews-it.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-chno="402" tvg-id="ACI.Sport.TV.HD.it" tvg-name="ACI Sport TV HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/402-acisporttvhd.png", ACI Sport TV HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8_output_0.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-chno="403" tvg-name="BBC Top Gear Italy" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/403-bbctopgear.png", BBC Top Gear Italy
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tinyurl.com/xN1ckuzTopGear
+
+#EXTINF:-1 group-title="Cucina, Viaggi e Lifestyle" tvg-chno="404" tvg-name="Hell's Kitchen Italy" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/404-hellskitchen.png", Hell's Kitchen Italy
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-chno="405" tvg-id="Solocalcio.it.it" tvg-name="Sportitalia Solocalcio HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/405-sisolocalciohd.png", Sportitalia Solocalcio HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://origin-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-chno="406" tvg-name="RaiPlay Sport 1" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/406-raiplaysport1.png", RaiPlay Sport 1
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://streamcdnr7-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay4/hls/raiplay4_2400/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-chno="407" tvg-name="Italian Fishing TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/407-italianfishingtv.png", Italian Fishing TV
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://fms.premio.link/fishingtv/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Musica" tvg-chno="408" tvg-name="Radio Carina TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/408-radiocarinatv.png", Radio Carina TV
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://57068da1deb21.streamlock.net/radiocarina/radiocarina/chunklist_w1834980759.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-chno="409" tvg-id="Horse.TV.HD.it" tvg-name="Horse TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/409-horsetv.png", Horse TV
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-chno="410" tvg-name="AutoMoto" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/410-automoto.png", AutoMoto
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://d2d70kuzq4qhmm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwqkjgrx3umyk/17bac9a9-e349-47ea-bfa3-2444bf4776bf/0.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-chno="411" tvg-name="MotoRetrò" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/411-motoretro.png", MotoRetrò
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://d130mn8b66zi0y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bqqljpzcglggs/de575183-fdb0-40b2-a28a-57394239e22c/0.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-chno="412" tvg-name="Rally.TV FAST+" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/412-rallytv.png", Rally.TV FAST+
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://dv1e2nq0r4g7p.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/cd1d84f8-1ec7-4b5b-9573-1179500ce4fa/0.m3u8
+
+#EXTINF:-1 group-title="Musica" tvg-chno="413" tvg-name="Trace Urban" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/413-traceurban.png", Trace Urban
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://smplu.link/traceurban
+
+#EXTINF:-1 group-title="Musica" tvg-chno="414" tvg-name="Trace Latina" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/414-tracelatina.png", Trace Latina
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://smplu.link/tracelatina
+
+#EXTINF:-1 group-title="Musica" tvg-chno="713" tvg-name="Radio Capital TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/713-radiocapital.png", Radio Capital TV
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica" tvg-chno="715" tvg-name="M2O TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/715-m2o.png", M2O TV
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica" tvg-chno="772" tvg-id="RMC.it" tvg-name="Radio Montecarlo TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/772-rmc.png", Radio Montecarlo TV
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest_hr.mpd
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="801" tvg-name="Rai 3 TGR Valle d'Aosta" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/801-rai3tgrvalledaosta.png", Rai 3 TGR Valle d'Aosta
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrvaldaosta-live.akamaized.net/hls/live/2025577/tgrvaldaosta/tgrvaldaosta/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="802" tvg-name="Rai 3 TGR Piemonte" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/802-rai3tgrpiemonte.png", Rai 3 TGR Piemonte
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrpiemonte-live.akamaized.net/hls/live/2025569/tgrpiemonte/tgrpiemonte/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="803" tvg-name="Rai 3 TGR Liguria" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/803-rai3tgrliguria.png", Rai 3 TGR Liguria
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrliguria-live.akamaized.net/hls/live/2025565/tgrliguria/tgrliguria/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="804" tvg-name="Rai 3 TGR Lombardia" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/804-rai3tgrlombardia.png", Rai 3 TGR Lombardia
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrlombardia-live.akamaized.net/hls/live/2025566/tgrlombardia/tgrlombardia/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="805" tvg-name="Rai 3 TGR Veneto" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/805-rai3tgrveneto.png", Rai 3 TGR Veneto
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrveneto-live.akamaized.net/hls/live/2025578/tgrveneto/tgrveneto/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="806" tvg-name="Rai 3 TGR Bolzano" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/806-rai3tgrbolzano.png", Rai 3 TGR Bolzano
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrbolzano-live.akamaized.net/hls/live/2025560/tgrbolzano/tgrbolzano/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="807" tvg-name="Rai 3 TGR Trento" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/807-rai3tgrtrento.png", Rai 3 TGR Trento
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrtrento-live.akamaized.net/hls/live/2025575/tgrtrento/tgrtrento/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="808" tvg-name="Rai 3 TGR Südtirol HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/808-rai3tgrsudtirolhd.png", Rai 3 TGR Südtirol HD
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="809" tvg-name="Rai 3 TGR Friuli Venezia Giulia" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/809-rai3tgrfriulivenetogiulia.png", Rai 3 TGR Friuli Venezia Giulia
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrfriuli-live.akamaized.net/hls/live/2025564/tgrfriuli/tgrfriuli/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="810" tvg-name="Rai 3 TGR Furlanija Krajina" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/810-rai3tgrfurlanijakrajina.png", Rai 3 TGR Furlanija Krajina
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrfriulibis-live.akamaized.net/hls/live/2025579/tgrfriulibis/tgrfriulibis/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="811" tvg-name="Rai 3 TGR Emilia-Romagna" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/811-rai3tgremliaromagna.png", Rai 3 TGR Emilia-Romagna
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgremiliaromagna-live.akamaized.net/hls/live/2025563/tgremiliaromagna/tgremiliaromagna/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="812" tvg-name="Rai 3 TGR Toscana" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/812-rai3tgrtoscana.png", Rai 3 TGR Toscana
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrtoscana-live.akamaized.net/hls/live/2025574/tgrtoscana/tgrtoscana/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="813" tvg-name="Rai 3 TGR Marche" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/813-rai3tgrmarche.png", Rai 3 TGR Marche
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrmarche-live.akamaized.net/hls/live/2025567/tgrmarche/tgrmarche/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="814" tvg-name="Rai 3 TGR Umbria" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/814-rai3tgrumbria.png", Rai 3 TGR Umbria
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrumbria-live.akamaized.net/hls/live/2025576/tgrumbria/tgrumbria/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="815" tvg-name="Rai 3 TGR Lazio" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/815-rai3tgrlazio.png", Rai 3 TGR Lazio
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrlazio-live.akamaized.net/hls/live/2025147/tgrlazio/tgrlazio/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="816" tvg-name="Rai 3 TGR Abruzzo" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/816-rai3tgrabruzzo.png", Rai 3 TGR Abruzzo
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrabruzzo-live.akamaized.net/hls/live/2025558/tgrabruzzo/tgrabruzzo/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="817" tvg-name="Rai 3 TGR Molise" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/817-rai3tgrmolise.png", Rai 3 TGR Molise
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrmolise-live.akamaized.net/hls/live/2025568/tgrmolise/tgrmolise/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="818" tvg-name="Rai 3 TGR Campania" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/818-rai3tgrcampania.png", Rai 3 TGR Campania
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrcampania-live.akamaized.net/hls/live/2025562/tgrcampania/tgrcampania/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="819" tvg-name="Rai 3 TGR Puglia" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/819-rai3tgrpuglia.png", Rai 3 TGR Puglia
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrpuglia-live.akamaized.net/hls/live/2025570/tgrpuglia/tgrpuglia/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="820" tvg-name="Rai 3 TGR Basilicata" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/820-rai3tgrbasilicata.png", Rai 3 TGR Basilicata
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrbasilicata-live.akamaized.net/hls/live/2025559/tgrbasilicata/tgrbasilicata/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="821" tvg-name="Rai 3 TGR Calabria" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/821-rai3tgrcalabria.png", Rai 3 TGR Calabria
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrcalabria-live.akamaized.net/hls/live/2025561/tgrcalabria/tgrcalabria/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="822" tvg-name="Rai 3 TGR Sardegna" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/822-rai3tgrsardegna.png", Rai 3 TGR Sardegna
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrsardegna-live.akamaized.net/hls/live/2025572/tgrsardegna/tgrsardegna/playlist.m3u8
+
+#EXTINF:-1 group-title="TGR Rai (regionali)" tvg-chno="823" tvg-name="Rai 3 TGR Sicilia" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/823-rai3tgrsicilia.png", Rai 3 TGR Sicilia
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://tgrsicilia-live.akamaized.net/hls/live/2025573/tgrsicilia/tgrsicilia/playlist.m3u8
+
+#EXTINF:-1 group-title="Film" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT260000131_20250121T012628SQUARE.png",Rakuten Sci-Fi
+https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
+
+#EXTINF:-1 group-title="Film" ,Rakuten Family
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
+
+#EXTINF:-1 group-title="Film" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700004EQ_20260915T041803SQUARE.png",WEDO TV MOVIES
+https://amg00735-amg00735c8-rlaxx-us-4087.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedomoviesit-rlaxxus/playlist.m3u8?tag_id=105293&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0231&content_producer_name=Amagi_VideoSolutions_wedotvMoviesIT&content_categories=IAB1-5%2CIAB1%2CIAB1-7&content_custom_1_param=Amagi&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&sid=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
+
+#EXTINF:-1 group-title="Film" tvg-logo="data:image/png;base64,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",IT CHANNEL CINEMA
+https://stream10.xdevel.com/video1s978704-2979/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Film" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAACgCAMAAAC8EZcfAAAAYFBMVEX////+/v79/f38/Pz7+/v6+vr39/f19fXv7+/n5+fc3NzOzs6/v7+0tLSqqqqampqHh4d+fn5sbGxaWlpNTU07OzsnJycbGxsSEhIICAgGBgYEBAQDAwMCAgIBAQEAAAAoIFyVAAANLklEQVR42u1ciZKruq61zYwZDTaj7f//yyc5JCEk2cmtgqRPvaj20EVDs1qWpaXBIeQnP/nJT37yk5+8JZQxbxHG6N+H63vsbyHyvYTzzAnnaeSued73NUk99x8jhepHu4gZlBRF6jB+FyIDeP7yVTlao+dZz3qBOcg6g2X+4lIjvKTixCmJknyczaJBQDrN+JWsQI+MfW1xU9ELurw+ILWd7UqMngBwL/h3FpohvMFKQukZcCjNDUIQDRfGBiF+Xn1R1cPLs+urPZJbbbeCmAcRf1iJ4IgzCfBMS672RWmgHiB0EFVOyAct0SOsHu0Mby7Wa+eDFU72gRi4KqLPLbNPkhbMyxrbJ2S1cgEp7WwfitZWpp9C6BPeWdygs12vMLw+ko+W+CST7bPFZx6OL+9PippsvXqlh3o19qnMdig+gdAnxbgs5GzLy6qBN8zUswVeltnq8niEHinm8zqu9ghYYjX9Gx8gNPZwhB7JRqPtFiAjQWOf299qqxTH7hRGeH/FcVliSqPWbZuXCM3Aj/SHjCZrVzzbygGkzG/taN8RbbuEHoYQ4lu79sSzFQ4gI+JNfLjz2+Oinkeqm0ihrQpge2AMnqx9G2F1lBmCAQ76xtCMyUCrEILN/DZAo8EMD0FImbcNFBhKfMCtjX1fIOgFh2R93oNIq3VOQpLZ+X8AeOPf91QgjTuj79xGx4kfd3ac39ciPBRTesgOmR+5jYyQvDtZFyQi7+Ccj9gn7JECHcK5TkhUtt1wfr15Q4X7O0P/oQJRb9Z2mBeRJCsq0arhjZCHKvT3tsBQ3SnQaMiD5xl9tGrK1K2an1adNS9VqMKdrfA+IQJsK6T4b99WrpiQKqNfupp8ZytkpLlZYUwn7dRJ2UopL+YHpJn64cPkbrvGzb6cgZKkXy/cjIZX8Ngtk5+kedUoLHbAe33G0uHVIm+zmT1o6lor4FzKeHNLlAlwNuCCGeXjayvcmRh6wFfm9QIBPM8HvRa1aISoywzxxnUD1/znud09EdpthcMVD9SwkMSnlPp1f3lj15Z8CdmReoNbn4jQflskva4a/OwI3azT1AgyDINjg03se6js+o3QbOyQ7rhN/LUJTouXxdh3kV5W/FT5hVvnd8i/3TMH9dda0TY7lVWpXwrwMm0jqjy9JHc0H9+Lx/WOAL21FwSAj+zbc6tOUvrWEjtP6O24SeT1pbPNqX+p5FPgsf6pog+pRtKokMWvY52zZLrbLoFN3K1tUJDg8Y0FeGtgX+INFYIrjXcEuI4jxvTpA4Q0yiW+uCS0eO1m9o0l4GXWwQuSigT7IrC8dNVmivOiFApsn3Dzeo2NHffzMxuAaD+Fv06Xr9Ye5Bl9CyAI3xPgdPNKWEFVFzxJY7KUx+MkSWLvzMze8TPG7pd93gSScxUIyYtIcJWTspFd3/edbMqEMcz+po8DvCNQerRdjkyblN3qcg9vZYl8vUvMnku8ZYOLHabg+bAsY+dZa2MgARhsGzLUaf+SU+8ajCmJu41OjAZdBY4nTisPqRJ4KaB+Tbh2dTOUsC2D0kBNA0xGV82lyXYp0LCkCZ80TDaOOtyPbzHS3qoEfnzEMFQFSp/rwadF92HNC/KsYXJTodmRD3rb6DUthBhZxAAWOGN5FWg2wxKxbgnNXnnCfcnCHYufbeEIA6OpWi7J3PVdE9jTEGU3jvPo3J1hcHiY18L+qZAT1hmida2c2c78wba/2yT5rnRrQ6FQg96Zoi7/ePB7hK6WPr0G6Dbxjpkx3eySVY+J+swxQ+cukc9M8xtLDHuE7Vn82JaOMCm7lsJPb6I0bbsOqwwtIdlLE6x3zYuxPH1n4wHb9ACSJEoSXrQleRmOjc72Lc5QT95EL6PHwhEtlOV3WKcnzau2nQp3LX3c11fR7/EbHbOsEkJUHAtrcWfMBwsL7v1AADYtCDtIUeZZViZohTgi4AS2D41fhLoDOmK4atNWDQuikDkb1dM0DRDvKPMJ7/U/W8ft7h07j3B9V2GdpxlbW9gjq81gzDxjPGabTP8T9ctHhGFZ6IEDPGTR9lSfQWssAvovTz2DE9y/oQgqnPWjd7ndSEPRjX1buHjMIUr8ax8fosD7KvCF1iwhJeaJ89k0lEC4/pEcH2GBS7P43vKnCynxTv1aJNkDoAZ9P1nj47qJj5p1AJCeg/K5QxglRUGf04W9o9xNAUtuEU53vJOdaVin9bMgctSIK6Sf23QNaFNMvZt7FvoDacn4bIEPmwnAds6mfDq7gjWWaRZmmNZt2wATYKl8tI+nY3qx61LruF0yEa/0l7k03vUYguZ+EmS16w8RiunTdJdAVhyIVoxOxpd2gHAXwl4uXaHQbEcqDp4MdhMoD2Jyr/oSWxOBcg0xWHTZhgz0fbNTJisjevCgI6XhHULXuHNTTxBF2rbGcJzmTt+VXd0M+OLjxxwhM2ruGw1mNDX1rz6dnPgorHRvZ3e3MZ/B51I4Ye+KQxi/3JAPJJ8Y7xa+DMSrXebKgElEnxkTxeLQuF1mo6eMBHRp5sTZueUPoIsWO2ZjV39sjBVsK1NW6/t6HGEuRYnbay8To0aS5RmPCf3cILBHYrEdnwB3UziPGBXKrmt/Z7/y0Xl00E+uXEnrpnLdtUK0cH1TnKSg2E8fMYFlDqvuFuJ55+h55l7w9ZMa7qQBBrbpyhL1PE0AGRkVnib58pEXZDFx6bLN+XbiyBgt+F84NeSIFq+VPud4F8Fxn6bi7G9A9HnZqI1fHLu2zhPyF4S5CBfxrKxF06IIUeY8Jn9HgOJ4j4B79E+BPJ2oo+54ne/9B07W/eS/K2BuN4c3N4WgSwLPLqextruFHshr2IVGPdmjdPl7c+HFLTvCY65KlJ0Oby5YU37zvuTsApPkXFXi0QZzcpAL9zCwyQ4PoqmmjFwty2sG3VyoC5Dtfuwgb6d+0/dtCMQ6Afq1HmekJJZ9Xx9BDyFnazCBA8qC1ECVeCkGPj9cukauu4gtCiweWZ1CUoJj4Mq7qhDoOE7LhbuvMiijGqwZFtoyjda2CXMF/T69AhRm0A4gXB8cQMhK100HAKgno6LdAeLcnR2NHaWoa5wInXAiFLt4dg1wrcHhosFbgHhld4DurMZstTh1R6Ic08nq7wCEHwt0z/auYOBjA5GUHZ6M/SMAXVloMj0nPrvS6aVR+xcAukHvZZLieo3+HYCMtGbctjfoVYN+4DsJ/e8AdDjGB8XRBeCKPouvAAQXPRoz8WcAy6tI+EU+DxB/qH40K3Q3zbD0Tv4YQIOz1IvMXwF4Ovn1YBzsr2jQNY5w/PexDQ51dZHv2CDkahLcjHiySbrg27vYMYVpxVpOwYSdASbf9oNuCFNjd52tPlbBdV9PAM9v+yZZEEhmBM4nUxw/pyQqUKHvAYww0XJyFEDKYoUI2/R8pVC2S9/V4G2B+xA+6A5nA8Je5EkUp1gXvBDW1wD5WdLDCCsOLXQ4/AuRzU1oAeefywcAzR3AlZ80PTySmUMAnj5IAVj/6KaUcdg7czY4TWuA4GYmHI2LOjOdAJpxushpWsBO0xEA0cVk7XnIzMgyxOJB1Ds2Q1eG4M6GYZsOsj0f4KwFzNYDV3ST5+3pryFNxzplIyqsQbuhwVKI4voyStKqjh2VzUXp/i/qq1RujCooRX5Q22RduH9c+6DPSx7/urxnceYUMy7lIzyQc1tZ9enyDe98w1XYydX4n/4En5/8r7vFI/TFbAT1t9a22CxcB/Pw/z/WsCHcOyUwn8UcvEkISsLu8KmA6rlxZc+VU4EReDF4FHZq18EDoO+AR/AFiaqU8CSq9j6+K8TZE+Mrc8uKLr74xmUC4OqCFAeHzV3XnZ0vJ3iijbC0z4kSSb/v/JFPWknylBdYCEwLnk1RXARJnhT4IQYFllszIF80zmM8dZVZkVO4Fy7iA0nBI7hbc3yewH1KkHJfDQLAlnS97PqMlEOnZB+kNsmtUrNoVK9Sv+3VUAIypQYZ1LprmC1C6S4W+IBNkkGqbijIVCFAu+/nHzmASoZUymiuSSwnL9VJpnNY7AZ4QV1COM51woHfcHi3zUk0ZBVcrJuoFyRqpzg2bUREHwGfAYDjAQC7ipBacRMzgOWhBkfYDUNOSNM2vVLKZnCR4H0296Ixk4KEyF0SBqqNY7BBlljeOYDTEQBrSmuVWuDUpWGgwXyIQFEFpW0jVJ4XZcw1ZAEA0GSoQXiGRGlqORieAQ0WOOOfdgdpUBIcfKk7olRW9tPJBkMSanht23JT8kaCtgB9DxoUPLR5ZstMtUR2edGhBvsi7yQZykNssGmIhCWuJLDWXtYqSLs46wAgfuycaEipegm+Bagr3lf1oPAcLnZNQpOml1UXx6qWfRMTVRJZ43f3HdMLAhKgU8YUHf5CGhlSBhZGQobfpHgJp5XhC7zPD4gbBA0cv3IP4B/3tEcC3z12VBx2J+ce9HhW1c3rXBTElcsDjJLj2siUXk8H0dWfm6vXL5bbl6bh9gH6Ad76k5/85Cc/+cl/RP4PNzyIdLpCRUgAAAAASUVORK5CYII=",ChIli TV Indimenticabili
+https://chili-chiliindimenticabili-1-it.xiaomi.wurl.tv/4300.m3u8
+
+#EXTINF:-1 group-title="Film" tvg-logo="data:image/png;base64,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",CHILI ALTA TENSIONE
+https://8420ed77622b428facfacf6063321a64.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_CHILIAltaTensione/09b8fe89-eadf-4cc2-b246-95dbacc63bd7/2.m3u8
+
+#EXTINF:-1 group-title="Film" tvg-logo="data:image/png;base64,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",CHILI VELVET
+https://9f3f485487294a28988ee377c71c85b0.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-it_Velvet/88e5fe76-5610-4cc3-b241-1aab4c173bc9/2.m3u8
+
+#EXTINF:-1 group-title="Film" tvg-logo="data:image/png;base64,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",CHILI SMILE
+https://e5eaf4458bd54b3587053805e5e65138.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_CHILIBuonumore/c9e7ddfa-3f46-45d0-a305-87310441cdb7/2.m3u8
+
+#EXTINF:-1 group-title="Film" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCACQAJoDASIAAhEBAxEB/8QAHAAAAAcBAQAAAAAAAAAAAAAAAAECAwQGBwgF/8QARhAAAQMEAAQEAQYJCQkBAAAAAQIDBAAFBhEHEiExCBNRYUEUFSIjcdEWQlWBkZKUobIyM1JTYmODk7EYJURWdIKiwdLh/8QAGwEAAQUBAQAAAAAAAAAAAAAAAgABAwQFBgf/xAAtEQACAgIBAwIFAgcAAAAAAAAAAQIRAwQSBSExE0EiQlFhoRThcXKBkbHB8P/aAAwDAQACEQMRAD8AjcyUoCUgJSBoADQAppa/U0yp33ppbtcjHCeoOQ46uojy6Jx33qM6571cxYiKUhDy6hPqp15zvUN5e91rYMZWnIYfV3qE8afeVUR5VbWvAqzZGeNRXTT7qqiuqrZwoqzY0s0ws044qmFmtCBXkxKjTajRqNNKVVhMhbDJpJNJKqSTT2A2KJpJNJKqSVUzYLYrdFukFVJ5qFyBs3NTtNLd96jOO0yt33rzD9NTOucyQt33qO4770wt33plxyrGPXIpTFuuVFdX3pLjvvUZ1z3rRw4aIJTA8v3qG6v3rOsuvV4F9lttz5DDLTqm0IacKAADr4HqenevH+erx+VZ37Qr76tetHDLi0c9LrCb+GHb+P7Gpur96iuKHrWbfPN4/Ks79oV99D55u/5VnftCvvqePUox+UifVG/l/P7GgrUKZWoetUT55u/5VnftCvvovni7flSb/nq++pl1iK+UB9Qv5fyXdSh602pVUz53u35Tm/56vvqy2iW7MtTciQeZ0OKbKvirQSQT7/S/dVzU6nHYnw40Pj2lklVEtSqQVUkqpJVWjyJmxRV6UkqpJVSCqhcgGxZVRc1NlVFuh5A8jYHHfeo63femHXe/Wo7jvvXMT1aZ08shJU9TK3feoy3vemVu+9PHARPIPuO+9R3HOnemlu+9R1u1ahiIZTKbmUPV+n9P+Jc/iNdIWrFMJehYzafm+RjTsq3RCuNMw8XJm4OOISouCU2SvSub4KTy9tJ0RWY8YsQk2m7G6stKct07TqXR1CHFDakK9Ou9e356ofzpfIzLjEW8XFhpwBK0NyVpSsAaAIB69ABWv1LpHrVkxnn2jsLLjTRrwxK2WfHeJd6sePWi9ZZasjXFahNNiWzb4RUfrW2iPpgK+jtSSBrsNGo8mwsT+GmI5TesQgQMwlZH8jjwmoAaF1g8m1OqjJAH0VEjnSAP3GsSguT7dMTLt8uREkJ/kusOqbWPsIO6XNl3WbPE+ZcZkmWOz7r6lufrE7rnZ9Nyxfc04xbOqoGC8Msi4r3FuzWO32S6WV6THuuOXFolmZGQFeXKjb+J0gkehP2qzLw8wrFxNkXfhvdsXt8afcWHXrffocHa4DiSXCHBvXlkDlB6EdAO41jazMVI+UqkPF/WvMKzzenfvTbCpURalxX3mFKGiW1lJI/NUEtWcQvSkWPi9eLbOyNdts+Lx7DBtp+TtpMbypTxSAkuP+i1Ec3KOid6G+5hY6rVjR/1Dn8KKr8kOuOqddWtxajtSlHZJ9zXuWE6tIT/AH6/9EVa6auOwr+hJgTUz0CqkFVIJpJNdE5FxyFlVJJpBNJKqFyAbFlVJ3SSaTugsHkaa8771Fcd696bed79aiuO+9R5cPc35ZB9btNLdqOp33ppTnvUKxkLyEhbtNLcphTnvTS3PejUCJzNxcyRkIdhSkNvsdULbcSFJUPQg1S73jGJXJanIfm25xR3ptXM2P8AtPX99U+635aLtLTznQeWO/8AaNO2iXcLnLTGt0WTMfV1DTDanFEfYBuuv1Z4Hdujh9LpnB3dEt7h64tzUO5RXU+rgKD+7dNr4aZF3YjsSB6ofSP4iK9ePLmwJJj3Bh+I8j+U2+goUn7Qete9b79OklTNmt8y5PNp2sR2VOco9SEg0exh1ePJukdpqamHheSRnc3AcmjDa7LLUPVtHmfw7qvz7RKiueXJjOsr/ouIKT++tZj5ncUzC2+pba0q0pChylJ9CK1LD5K71aVPzLWuXE7KUuOVte+yRquU3pa0fDNSHTcGVXCX9zkCTEIB6VJtqfLgBP8Aer/0TXVWT8HMTyiG47ZUps1yIJQW/wCYWfRSPxftTrXoa5uyixXDG5ztpubCo8piQ4hxB9QEdR6gggg/EEVg6W3gy7XGD7r2Mva03gts8sqpJVSSqklVbrkZzkKJpJNJJoiaFyBbFE0nmpJNFsUPIGy9POe9RHHKJ5yoy3Per2VdzXlMcU5SFOUwpdIUuqtETmPKXTal00V0hS6VEbmeZeZRN3mHfd9f8RrY5eQ3Th/wBwuZiMh22y8nfmvXS4MHTyiw4G22QsdUpAJVodyftrCLm4fnKVv+uV/qau2BcUp2N46/i9zsdnybHXn/AJT833RpSgy7rRcaWlQUhRHQ6OvbrWRl3Zc2vZMyLpmjzsnumb+He7XvKHly7lYLtHYg3J3+ddbdB52VK7q1oK67I3R5NmV9wngzw8jYrcX7Oq7sy59wfiq8t2Q4l8to5lDrpKU61WZ8QeJtxyq0Q8fiWm1Y9j8J0vM2y2MlDanCNFxwqJUteumyfsry8nzOdf8AGsasUmNHaZx+M7Hjrb3zOJcdLhKtnW9nXTVBLdclT8XdEiys3LNX2sruHCu93dTTUzI4rbNzkISEecUSC15qtfjFIGz7VsGQ5XbbHxAlQGeJ6LMxbHRHZs6LVIDLCEAAIICeVex1J67306arjS+5vcLzYMas7rLDDePx1sRnWuYLWFOFzatnuCfhqtIh8d5c0R5eRYTil+vcdtLaLpMir81zlGkl0JWEuEa7kVk7OWUlRpauxTV913+n+00bzecwsCsvmP4/JS5bnFJW0QhSBspBUAFAEDm38KxPxSzItwvtnnx0pDjsdaXVAfyiCnRPvrQ/MKrX4YT7peJN0lqaS/KdU64Gmw2gKUdnSU6AFeXxFuKp7NtWtWyjzR/BWP0jWlHq0cv83+GdB1GWOeha8ql9/YqZNJJpJNESa9DcjkWwyaImioqByBbDofnot0W/eh5DWWd1yo610lxfvTC1+9aeRmjKQ6V0grpoqNJKqrtkbkOFdJKqaK6SVU1gOQ1KhxJDpdcQsLPcoVrfv270ybbC9Hv1x91SSqnrdDl3G4R7fAYckSpLqWmWmxtS1qOgkD1JNV5YMTduKI2o/Q8826F/Re/XH3UXyCGPg9+uPurqGH4a8YxyzxJXFLiRDsE2WnaYbSmxyH051k8+um9JAB+J71XMt4C2mBxCxHH7BncG9Q8kfCUKZCVPstDZU7pJKVJ5UnR2NkEa6Gqieq3SX4I+UfoYCIUQfivf5g+6nmm4rZ35bp/xB91X/j9gdu4bcQHMVt94euhYjtuPuuNBspWsc3LoE/ilJ/PVjx3gvFm+Hm5cV7nfXohjlz5NESyFJd0tLadqJ2NuEjt8KUses4puPZjrJx7oypiey1rljLP+L/8AlM3Ga7NcSpYCUoHKhI7Af+zUWi3T49XBhlyhGmST2ck48G+wdFuiobqdyK7YdFukk0KByBsMmi3QoqDkNZ661U2pVJUqkFVakpWXXIUVUkqrd8m8PgsttwPmyN1dzyuUxHMUxABG50BTit830uTYHYb9qq/iL4QyeEl8tsUXFd0g3COpxqUpjyvrEq0tGtnsCg7/ALXtVSOzjk0k/JH6iZlxVRE1t3D3w/Tr7wnufEPIrs5Y4MeM5JiMmNzrkNISVc52ocoJGh69+2t+5h/hwsk7hnZs0yviExjTdzbC0oksICE8xUUALUsbJSObX3UEtrGvf7AuaOcya07wrS7XD4/4q9d1toj/AChxCVLP0Q6ppaWv/Mp176qy8VfDncsTjWO62LIo2R2e7y2YjchprkKFunSCAFKCkn1B/N8atuReGXBcZnNw7/xlg2qWtsOoalR221lOyAoAu71sHr7VFk2cc4VfkFzTQ94o+E3EnLOOa7lBs8y52WaI7UV9lXOiOgJSlaVf0NK5ldeh3v1q94NwtxXEfFTa7fjMV9DVqx124SFuvl361xZZSnr2+iVHXvXl8Nome33K7zh2L8eZk6x2WAw4q5iEzJ5lub+rStRJ0Anvzd+nwpuzcLsrLl+yPhjx8Zv2Qutp+WEpbeU9rfIhTnOsoHfXTXTXbtRc3x4OXhV7+/1I79jK/ENw64m5FxUyvKvwPuXzcZThbkcg5Cw0ORK977ciAa0DjzyYb4MsLxZolt25mMp1s9DopVIX+hfL+mpPDa2cTOIfCSdkeacY5eP2l516I83Ihs+WpoHy1FSzy8u1cyde1ebxf4QZlmeCJvVk4rReIESyJWW4jbLaOQBI5ghTSiCrSR9E69j8CXqd4xk18L+41nJtFutisfBRqZ4fJnFeff1xfK8wR4QjBQdKXPKTtfMNbVsdjV2m+GvEbFjllueY8U2cfeukZDqWZEIdFlCVLQDz9eUqA3ViWxBe4rOZiaFbtxa8Os3DV41Ks+SR79bL/NahsPoZ8tSVudUEAKUFJI2dg17F18M8eLxms3DuNlrz5m2124ypRhAfJ20kpRpPP12oa7jVA9iDV2NZzjQqzcVMah4dxBvGMQrkq5NW2QY5kqb8srWkDnHLs60rY7/Cr3l/BVvGeAVo4lzr84Jd0LQZt3yYBP1hUU/T5v6tPN29qTyrt9xWY7Q3RUVM5DE4qr18EtC8hzax2JA2bhcGIx9gtwJJ/Qa8Qmp2PXq5Y/e4l6s8kxZ8RzzGHghKihXrpQI/dWlOTadFls7+zFPz34qMKsnKDHsFmkXRYHYLWfKTv7NJNQbrPwPjPYL3+GDjMSNg+RPKkq5gOdhoqAJPcIWAQddSUdPhXHTHGDiQxlUvKGsofTeJcdMZ+V5DRUppOtJ0U6A6DsBVMduE1xcpS5bxMtfPIAWQHVb3tQ+PU761mrUaq3Vf8yLid0cWc7GQeFOXeLfC+QMX6QLdbYwSElLBf8tHQfFSEFWh0G9ddbMvjzbOFEXA8TwXiPlM6zR4LLa4rcRKip0tNBratIX0AUfTvXGEriXm8rH7TYH764u12d1p2BG8hsJZW2NIPRO1a/tb38ahZ3m+U5zcWLhld3duclhryWlrQhHKjZOtJAHcmmWq013ru2NR11i/EHDsvzXBOE/DpmTIx+yyEzZE2QhSfMTHQVICQoBR2vRJIHXtXs8Z7y8/n0yPJ8O0zM0REIZYuxZKkuo5QvSfqz0ClqHfuDXE2E5fkWFXk3jF7ku3Ty0pnzktoWeQkbGlAj4Crv8A7RPGb/niV+ysf/FDLXalcfH9RmjozwsMW3HeFOf5Zksc41FmXWSiQEtkGI0gcvIlIBP0FqWkDXcdqkxWMA8PXCebxAwdq7ZGi/IabjyXHErQCQotlegnkRsnfQneh3rkWRxOzuRh8jEHshfXY5C1uPRfKb0tSnC4olXLzdVknvTcTiPmsTBXcHavrv4OuhQVAW02tGlK5joqSSPpdehGj1HWmlgk2235f4GOsM/xfKHfBvjmN45ap11uV0EeTMbjtFSx5pMhwkD4c5Aprw04zdeB/C/MMy4h/wC6m5TbamYLrgK/q0r5egOuZalhIT36da54jeILjDGjtx4+ayG2mkhCEJiMaSkDQA+hVTzbPcxzV5tzKcin3Xyjttt5z6tB9UoGkg+4FD6U6cX4bEdc55ZxB8PvCvhyyktP3+4QEPt669frXv0KVVo8RF4LeV2iyO8D5vECMxGDrUtLTimo6lrKVNghtSd6bSTsjuK40u3F/iPdbtaLrcMmefmWZanLc4Y7I8hSgASAEaPQDuDXsK8RHGYjRzmX19IrH/xQelLsxjrzibj7t045cKo7cxbFvih+WbOEpCI/kNgpc0n3UlPxA10+O18OlG++KLiLkCtvM2O3RLPGUkb6LHmuJHuFpP6a4egcU+IMHLncsYymcq9uslhUx4peWGyQSgc4ISNgdABUrHOMXEnHX7m/ZsofiO3SUqZNWGGlF55XdR5kHX2DQ9qF4ZVViPRzrhxxMmZDdsmu+FXmExOnrkPOvRlJSguub6k+6tVtXjvfasODcP8AA4zv1cZouKR7MtIaQT9vOv8AQaxC9cdeK95hfIrnmEiRH81t3y1RmQCpCgtJOkddKSDrt0qsZ5m+U51cmblld3ducphnyWnFoQjlRsnWkgDuTR1JtN+wivUW6LdFv7aOxEmioboia0nIlbDJot0W6KgchmwyfSi3QoqByBsOhRUN0DkMChRUKByFYKFCioHIYPdFQoboWxAoE0W6LdNYgyaLdFQobEChQoU1iP/Z",Sony One Gli imperdibili
+https://d112rgcjjnn6rd.cloudfront.net/playlist_1.m3u8
+
+#EXTINF:-1 group-title="Film" tvg-logo="data:image/jpeg;base64,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",Sony One Serie da Ridere
+https://d31z6rt9j0idgz.cloudfront.net/playlist_1.m3u8
+
+#EXTINF:-1 group-title="Film" tvg-logo="data:image/jpeg;base64,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",Sony Azione
+https://d1avfx1nmjmkde.cloudfront.net/playlist_1.m3u8
+
+#EXTINF:-1 group-title="Film" tvg-logo="data:image/jpeg;base64,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",Sony One Film divertenti
+https://076507c6230e400ebcce99e452f12b7f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-824-IT-SONYONEFILMDIVERTENTI-LG_IT/playlist.m3u8
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz"
+
+#EXTINF:-1 group-title="Film" channel-id="IT2600010E0" tvg-id="IT2600010E0" tvg-chno="4852" tvg-name="100% Natale - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600010E0_20261102T070712SQUARE.png",100% Natale - Rakuten TV
+https://jmp2.uk/stvp-IT2600010E0
+
+#EXTINF:-1 group-title="News" channel-id="IT500008CB" tvg-id="IT500008CB" tvg-chno="4558" tvg-name="3BMeteo" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500008CB_20260113T032823SQUARE.png",3BMeteo
+https://jmp2.uk/stvp-IT500008CB
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="ITBA33000374G" tvg-id="ITBA33000374G" tvg-chno="4207" tvg-name="5-Minuti Creativi" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000374G_20241022T043949SQUARE.png",5-Minuti Creativi
+https://jmp2.uk/stvp-ITBA33000374G
+
+#EXTINF:-1 group-title="Musica" channel-id="IT500006GE" tvg-id="IT500006GE" tvg-chno="4744" tvg-name="70-80.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500006GE_20241022T051523SQUARE.png",70-80.it
+https://jmp2.uk/stvp-IT500006GE
+
+#EXTINF:-1 group-title="Cucina, Viaggi e Lifestyle" channel-id="ITBD4100007LO" tvg-id="ITBD4100007LO" tvg-chno="4515" tvg-name="A Tavola" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100007LO_20260113T032815SQUARE.png",A Tavola
+https://jmp2.uk/stvp-ITBD4100007LO
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="IT900013AJ" tvg-id="IT900013AJ" tvg-chno="4138" tvg-name="A tu per tu" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900013AJ_20260505T035948SQUARE.png",A tu per tu
+https://jmp2.uk/stvp-IT900013AJ
+
+#EXTINF:-1 group-title="Film" channel-id="ITBC400001LX" tvg-id="ITBC400001LX" tvg-chno="4949" tvg-name="Action Movie Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC400001LX_20250107T022411SQUARE.png",Action Movie Channel
+https://jmp2.uk/stvp-ITBC400001LX
+
+#EXTINF:-1 group-title="Film" channel-id="ITBC11000050E" tvg-id="ITBC11000050E" tvg-chno="4999" tvg-name="Adrenaline Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000050E_20260707T052519SQUARE.png",Adrenaline Movies
+https://jmp2.uk/stvp-ITBC11000050E
+
+#EXTINF:-1 group-title="Sport" channel-id="ITBC400005TF" tvg-id="ITBC400005TF" tvg-chno="4678" tvg-name="Adventure Sports TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC400005TF_20250131T145305SQUARE.png",Adventure Sports TV
+https://jmp2.uk/stvp-ITBC400005TF
+
+#EXTINF:-1 group-title="News" channel-id="IT23000034W" tvg-id="IT23000034W" tvg-chno="4564" tvg-name="Al Jazeera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT23000034W_20251118T015444SQUARE.png",Al Jazeera
+https://jmp2.uk/stvp-IT23000034W
+
+#EXTINF:-1 group-title="Film" channel-id="ITBC1100008L4" tvg-id="ITBC1100008L4" tvg-chno="4870" tvg-name="Alberto Sordi & Co" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100008L4_20260721T040333SQUARE.png",Alberto Sordi & Co
+https://jmp2.uk/stvp-ITBC1100008L4
+
+#EXTINF:-1 group-title="Film" channel-id="ITBC1100001G5" tvg-id="ITBC1100001G5" tvg-chno="4963" tvg-name="Alta Tensione" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100001G5_20260901T054951SQUARE.png",Alta Tensione
+https://jmp2.uk/stvp-ITBC1100001G5
+
+#EXTINF:-1 group-title="Serie TV" channel-id="ITBA14000026G" tvg-id="ITBA14000026G" tvg-chno="4268" tvg-name="Anche i ricchi piangono" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA14000026G_20250307T152327SQUARE.png",Anche i ricchi piangono
+https://jmp2.uk/stvp-ITBA14000026G
+
+#EXTINF:-1 group-title="Serie TV" channel-id="ITBD3200003HL" tvg-id="ITBD3200003HL" tvg-chno="4241" tvg-name="Andromeda" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200003HL_20241022T051531SQUARE.png",Andromeda
+https://jmp2.uk/stvp-ITBD3200003HL
+
+#EXTINF:-1 group-title="Sport" channel-id="IT2900003UK" tvg-id="IT2900003UK" tvg-chno="4661" tvg-name="Automoto" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2900003UK_20260203T050018SQUARE.png",Automoto
+https://jmp2.uk/stvp-IT2900003UK
+
+#EXTINF:-1 group-title="Serie TV" channel-id="ITBD3200004KN" tvg-id="ITBD3200004KN" tvg-chno="4251" tvg-name="Autostop per il Cielo" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200004KN_20241022T051533SQUARE.png",Autostop per il Cielo
+https://jmp2.uk/stvp-ITBD3200004KN
+
+#EXTINF:-1 group-title="Sport" channel-id="IT1100001PZ" tvg-id="IT1100001PZ" tvg-chno="4639" tvg-name="Barça 24H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1100001PZ_20261102T070717SQUARE.png",Barça 24H
+https://jmp2.uk/stvp-IT1100001PZ
+
+#EXTINF:-1 group-title="Documentari" channel-id="IT3200002L5" tvg-id="IT3200002L5" tvg-chno="4487" tvg-name="BBC Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200002L5_20261110T044219SQUARE.png",BBC Earth
+https://jmp2.uk/stvp-IT3200002L5
+
+#EXTINF:-1 group-title="Serie TV" channel-id="IT2900001B5" tvg-id="IT2900001B5" tvg-chno="4233" tvg-name="BBC Series" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2900001B5_20250916T003606SQUARE.png",BBC Series
+https://jmp2.uk/stvp-IT2900001B5
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="IT5100003XM" tvg-id="IT5100003XM" tvg-chno="4078" tvg-name="BEAUTY CHANNEL" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT5100003XM_20260210T040129SQUARE.png",BEAUTY CHANNEL
+https://jmp2.uk/stvp-IT5100003XM
+
+#EXTINF:-1 group-title="Film" channel-id="ITBA3300024IU" tvg-id="ITBA3300024IU" tvg-chno="4951" tvg-name="Bizzarro Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300024IU_20261102T070728SQUARE.png",Bizzarro Movies
+https://jmp2.uk/stvp-ITBA3300024IU
+
+#EXTINF:-1 group-title="News" channel-id="ITBA3300025F5" tvg-id="ITBA3300025F5" tvg-chno="4571" tvg-name="Bloomberg TV+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300025F5_20260421T124034SQUARE.png",Bloomberg TV+
+https://jmp2.uk/stvp-ITBA3300025F5
+
+#EXTINF:-1 group-title="Cucina, Viaggi e Lifestyle" channel-id="ITBC400003Y7" tvg-id="ITBC400003Y7" tvg-chno="4527" tvg-name="Brindiamo!" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC400003Y7_20241022T043955SQUARE.png",Brindiamo!
+https://jmp2.uk/stvp-ITBC400003Y7
+
+#EXTINF:-1 group-title="Film" channel-id="ITBD600001CL" tvg-id="ITBD600001CL" tvg-chno="4880" tvg-name="Brividy Cinema" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD600001CL_20261026T042717SQUARE.png",Brividy Cinema
+https://jmp2.uk/stvp-ITBD600001CL
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="IT2000002D1" tvg-id="IT2000002D1" tvg-chno="4774" tvg-name="CAR CITY ADVENTURES" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2000002D1_20241210T052846SQUARE.png",CAR CITY ADVENTURES
+https://jmp2.uk/stvp-IT2000002D1
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="ITAJ3800001Z4" tvg-id="ITAJ3800001Z4" tvg-chno="4085" tvg-name="Catfish" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ3800001Z4_20260113T032828SQUARE.png",Catfish
+https://jmp2.uk/stvp-ITAJ3800001Z4
+
+#EXTINF:-1 group-title="Film" channel-id="ITBD140000119" tvg-id="ITBD140000119" tvg-chno="4909" tvg-name="CG Cine Mania" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD140000119_20260818T051118SQUARE.png",CG Cine Mania
+https://jmp2.uk/stvp-ITBD140000119
+
+#EXTINF:-1 group-title="Film" channel-id="ITBA14000093A" tvg-id="ITBA14000093A" tvg-chno="4871" tvg-name="CG Grandi Film" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA14000093A_20251111T011343SQUARE.png",CG Grandi Film
+https://jmp2.uk/stvp-ITBA14000093A
+
+#EXTINF:-1 group-title="Film" channel-id="IT3800001XM" tvg-id="IT3800001XM" tvg-chno="4001" tvg-name="Cine Natale" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800001XM_20261110T044224SQUARE.png",Cine Natale
+https://jmp2.uk/stvp-IT3800001XM
+
+#EXTINF:-1 group-title="Film" channel-id="IT3600005AL" tvg-id="IT3600005AL" tvg-chno="4953" tvg-name="Cine Paura" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600005AL_20261026T042725SQUARE.png",Cine Paura
+https://jmp2.uk/stvp-IT3600005AL
+
+#EXTINF:-1 group-title="Film" channel-id="ITBD3200002DU" tvg-id="ITBD3200002DU" tvg-chno="4965" tvg-name="Cine Thriller" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200002DU_20250708T031020SQUARE.png",Cine Thriller
+https://jmp2.uk/stvp-ITBD3200002DU
+
+#EXTINF:-1 group-title="Film" channel-id="ITBA33000238E" tvg-id="ITBA33000238E" tvg-chno="4868" tvg-name="Cinema italiano" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000238E_20260721T040306SQUARE.png",Cinema italiano
+https://jmp2.uk/stvp-ITBA33000238E
+
+#EXTINF:-1 group-title="Film" channel-id="ITBD1400003D0" tvg-id="ITBD1400003D0" tvg-chno="4873" tvg-name="Cinemadame" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1400003D0_20261110T044230SQUARE.png",Cinemadame
+https://jmp2.uk/stvp-ITBD1400003D0
+
+#EXTINF:-1 group-title="Film" channel-id="IT300029U3" tvg-id="IT300029U3" tvg-chno="4908" tvg-name="Cinemalizia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300029U3_20250415T022336SQUARE.png",Cinemalizia
+https://jmp2.uk/stvp-IT300029U3
+
+#EXTINF:-1 group-title="Film" channel-id="ITBB20000072M" tvg-id="ITBB20000072M" tvg-chno="4925" tvg-name="CineWestern" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB20000072M_20260421T125848SQUARE.png",CineWestern
+https://jmp2.uk/stvp-ITBB20000072M
+
+#EXTINF:-1 group-title="Musica" channel-id="IT39000028R" tvg-id="IT39000028R" tvg-chno="4723" tvg-name="CJ ENM K-POP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT39000028R_20260915T041808SQUARE.png",CJ ENM K-POP
+https://jmp2.uk/stvp-IT39000028R
+
+#EXTINF:-1 group-title="News" channel-id="IT2700002ZN" tvg-id="IT2700002ZN" tvg-chno="4557" tvg-name="Class CNBC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2700002ZN_20260210T040118SQUARE.png",Class CNBC
+https://jmp2.uk/stvp-IT2700002ZN
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="IT500010AQ" tvg-id="IT500010AQ" tvg-chno="4068" tvg-name="Class TV Moda" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500010AQ_20260113T032834SQUARE.png",Class TV Moda
+https://jmp2.uk/stvp-IT500010AQ
+
+#EXTINF:-1 group-title="News" channel-id="ITBD3600002PA" tvg-id="ITBD3600002PA" tvg-chno="4569" tvg-name="CNBC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3600002PA_20260317T034124SQUARE.png",CNBC
+https://jmp2.uk/stvp-ITBD3600002PA
+
+#EXTINF:-1 group-title="News" channel-id="ITBD19000097D" tvg-id="ITBD19000097D" tvg-chno="4567" tvg-name="CNN Headlines International" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD19000097D_20260331T032359SQUARE.png",CNN Headlines International
+https://jmp2.uk/stvp-ITBD19000097D
+
+#EXTINF:-1 group-title="Film" channel-id="IT2600007WQ" tvg-id="IT2600007WQ" tvg-chno="4913" tvg-name="Commedia - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600007WQ_20241022T051556SQUARE.png",Commedia - Rakuten TV
+https://jmp2.uk/stvp-IT2600007WQ
+
+#EXTINF:-1 group-title="Musica" channel-id="IT3000019ZM" tvg-id="IT3000019ZM" tvg-chno="4736" tvg-name="Concerto" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000019ZM_20261006T034258SQUARE.png",Concerto
+https://jmp2.uk/stvp-IT3000019ZM
+
+#EXTINF:-1 group-title="Musica" channel-id="IT2500001IF" tvg-id="IT2500001IF" tvg-chno="4740" tvg-name="Cool Summer Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2500001IF_20241022T051559SQUARE.png",Cool Summer Channel
+https://jmp2.uk/stvp-IT2500001IF
+
+#EXTINF:-1 group-title="Musica" channel-id="IT1900005OP" tvg-id="IT1900005OP" tvg-chno="4763" tvg-name="Cozy Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1900005OP_20260528T053532SQUARE.png",Cozy Vibes
+https://jmp2.uk/stvp-IT1900005OP
+
+#EXTINF:-1 group-title="Film" channel-id="IT3600001Q1" tvg-id="IT3600001Q1" tvg-chno="4974" tvg-name="Crime Time" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600001Q1_20241112T093246SQUARE.png",Crime Time
+https://jmp2.uk/stvp-IT3600001Q1
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="ITBD3700001TM" tvg-id="ITBD3700001TM" tvg-chno="4301" tvg-name="DATELINE 24/7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3700001TM_20241022T044002SQUARE.png",DATELINE 24/7
+https://jmp2.uk/stvp-ITBD3700001TM
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="ITBD3200007SZ" tvg-id="ITBD3200007SZ" tvg-chno="4778" tvg-name="DeAPlaneta Kids" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200007SZ_20251028T011522SQUARE.png",DeAPlaneta Kids
+https://jmp2.uk/stvp-ITBD3200007SZ
+
+#EXTINF:-1 group-title="Musica" channel-id="ITBA1500001R6" tvg-id="ITBA1500001R6" tvg-chno="4761" tvg-name="Deluxe Lounge HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA1500001R6_20260915T041813SQUARE.png",Deluxe Lounge HD
+https://jmp2.uk/stvp-ITBA1500001R6
+
+#EXTINF:-1 group-title="Sport" channel-id="IT3200003YZ" tvg-id="IT3200003YZ" tvg-chno="4645" tvg-name="DFB Play TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200003YZ_20251230T031317SQUARE.png",DFB Play TV
+https://jmp2.uk/stvp-IT3200003YZ
+
+#EXTINF:-1 group-title="Documentari" channel-id="IT31000026G" tvg-id="IT31000026G" tvg-chno="4344" tvg-name="Discovery" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT31000026G_20260622T101526SQUARE.png",Discovery
+https://jmp2.uk/stvp-IT31000026G
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="IT9000113W" tvg-id="IT9000113W" tvg-chno="4060" tvg-name="DMAX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000113W_20260622T101519SQUARE.png",DMAX
+https://jmp2.uk/stvp-IT9000113W
+
+#EXTINF:-1 group-title="Film" channel-id="IT2600005ZN" tvg-id="IT2600005ZN" tvg-chno="4897" tvg-name="Dramma - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600005ZN_20260707T052536SQUARE.png",Dramma - Rakuten TV
+https://jmp2.uk/stvp-IT2600005ZN
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="ITBC4700001E6" tvg-id="ITBC4700001E6" tvg-chno="4776" tvg-name="duckTV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700001E6_20241022T051716SQUARE.png",duckTV
+https://jmp2.uk/stvp-ITBC4700001E6
+
+#EXTINF:-1 group-title="Film" channel-id="IT500002FD" tvg-id="IT500002FD" tvg-chno="4991" tvg-name="Duri a morire" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500002FD_20241106T142411SQUARE.png",Duri a morire
+https://jmp2.uk/stvp-IT500002FD
+
+#EXTINF:-1 group-title="Serie TV" channel-id="ITBD4100001MG" tvg-id="ITBD4100001MG" tvg-chno="4237" tvg-name="Elisa di Rivombrosa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD4100001MG_20251125T102440SQUARE.png",Elisa di Rivombrosa
+https://jmp2.uk/stvp-ITBD4100001MG
+
+#EXTINF:-1 group-title="News" channel-id="IT2600009QD" tvg-id="IT2600009QD" tvg-chno="4560" tvg-name="Euronews IN DIRETTA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600009QD_20260707T052541SQUARE.png",Euronews IN DIRETTA
+https://jmp2.uk/stvp-IT2600009QD
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="ITBA1400001QN" tvg-id="ITBA1400001QN" tvg-chno="4167" tvg-name="FailArmy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA1400001QN_20260210T040120SQUARE.png",FailArmy
+https://jmp2.uk/stvp-ITBA1400001QN
+
+#EXTINF:-1 group-title="Musica" channel-id="IT1800008RR" tvg-id="IT1800008RR" tvg-chno="4766" tvg-name="Fall Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1800008RR_20261006T034241SQUARE.png",Fall Vibes
+https://jmp2.uk/stvp-IT1800008RR
+
+#EXTINF:-1 group-title="Film" channel-id="IT260000131" tvg-id="IT260000131" tvg-chno="4947" tvg-name="Fantascienza - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT260000131_20250121T012628SQUARE.png",Fantascienza - Rakuten TV
+https://jmp2.uk/stvp-IT260000131
+
+#EXTINF:-1 group-title="Sport" channel-id="ITBD1000002HF" tvg-id="ITBD1000002HF" tvg-chno="4631" tvg-name="FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1000002HF_20250513T010658SQUARE.png",FIFA+
+https://jmp2.uk/stvp-ITBD1000002HF
+
+#EXTINF:-1 group-title="Film" channel-id="ITBC4700004EQ" tvg-id="ITBC4700004EQ" tvg-chno="4894" tvg-name="Film Al Femminile - Wedo Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700004EQ_20260915T041803SQUARE.png",Film Al Femminile - Wedo Movies
+https://jmp2.uk/stvp-ITBC4700004EQ
+
+#EXTINF:-1 group-title="Film" channel-id="IT2600006JG" tvg-id="IT2600006JG" tvg-chno="4942" tvg-name="Film Asiatici - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600006JG_20250121T012630SQUARE.png",Film Asiatici - Rakuten TV
+https://jmp2.uk/stvp-IT2600006JG
+
+#EXTINF:-1 group-title="Film" channel-id="IT2600003FM" tvg-id="IT2600003FM" tvg-chno="4997" tvg-name="Film d'azione - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600003FM_20260707T052556SQUARE.png",Film d'azione - Rakuten TV
+https://jmp2.uk/stvp-IT2600003FM
+
+#EXTINF:-1 group-title="Film" channel-id="IT2600002F6" tvg-id="IT2600002F6" tvg-chno="4877" tvg-name="Film Top - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600002F6_20260707T052548SQUARE.png",Film Top - Rakuten TV
+https://jmp2.uk/stvp-IT2600002F6
+
+#EXTINF:-1 group-title="Musica" channel-id="IT2200001FW" tvg-id="IT2200001FW" tvg-chno="4769" tvg-name="Fireplace Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2200001FW_20260609T044329SQUARE.png",Fireplace Vibes
+https://jmp2.uk/stvp-IT2200001FW
+
+#EXTINF:-1 group-title="Cucina, Viaggi e Lifestyle" channel-id="IT90001094" tvg-id="IT90001094" tvg-chno="4521" tvg-name="Foodnetwork" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT90001094_20260622T101533SQUARE.png",Foodnetwork
+https://jmp2.uk/stvp-IT90001094
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="IT3700001R9" tvg-id="IT3700001R9" tvg-chno="4309" tvg-name="Forensic Files" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3700001R9_20251111T011346SQUARE.png",Forensic Files
+https://jmp2.uk/stvp-IT3700001R9
+
+#EXTINF:-1 group-title="News" channel-id="ITBD1100002WX" tvg-id="ITBD1100002WX" tvg-chno="4563" tvg-name="FRANCE 24 FAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100002WX_20241022T051609SQUARE.png",FRANCE 24 FAST
+https://jmp2.uk/stvp-ITBD1100002WX
+
+#EXTINF:-1 group-title="Cucina, Viaggi e Lifestyle" channel-id="IT500011RG" tvg-id="IT500011RG" tvg-chno="4516" tvg-name="Gambero Rosso" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT500011RG_20261013T054231SQUARE.png",Gambero Rosso
+https://jmp2.uk/stvp-IT500011RG
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="IT9000081B" tvg-id="IT9000081B" tvg-chno="4291" tvg-name="Giallo" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000081B_20260622T101540SQUARE.png",Giallo
+https://jmp2.uk/stvp-IT9000081B
+
+#EXTINF:-1 group-title="News" channel-id="ITBB5000002N0" tvg-id="ITBB5000002N0" tvg-chno="4555" tvg-name="Giornale Radio TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBB5000002N0_20260407T040316SQUARE.png",Giornale Radio TV
+https://jmp2.uk/stvp-ITBB5000002N0
+
+#EXTINF:-1 group-title="Film" channel-id="ITBD1100001B7" tvg-id="ITBD1100001B7" tvg-chno="4992" tvg-name="Gli Immortali" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100001B7_20260721T040300SQUARE.png",Gli Immortali
+https://jmp2.uk/stvp-ITBD1100001B7
+
+#EXTINF:-1 group-title="Sport" channel-id="IT4200001D8" tvg-id="IT4200001D8" tvg-chno="4625" tvg-name="Golf Television" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4200001D8_20250513T010712SQUARE.png",Golf Television
+https://jmp2.uk/stvp-IT4200001D8
+
+#EXTINF:-1 group-title="Film" channel-id="ITBC1100003KC" tvg-id="ITBC1100003KC" tvg-chno="4872" tvg-name="Grandi Nomi" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100003KC_20250527T014831SQUARE.png",Grandi Nomi
+https://jmp2.uk/stvp-ITBC1100003KC
+
+#EXTINF:-1 group-title="Film" channel-id="ITBD10000019E" tvg-id="ITBD10000019E" tvg-chno="4927" tvg-name="Grjngo- Film Western" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD10000019E_20241022T051628SQUARE.png",Grjngo- Film Western
+https://jmp2.uk/stvp-ITBD10000019E
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="IT3800003GX" tvg-id="IT3800003GX" tvg-chno="4296" tvg-name="Guardia Costiera" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800003GX_20251209T004728SQUARE.png",Guardia Costiera
+https://jmp2.uk/stvp-IT3800003GX
+
+#EXTINF:-1 group-title="Serie TV" channel-id="IT1200004E6" tvg-id="IT1200004E6" tvg-chno="4244" tvg-name="H2O & Friends" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1200004E6_20260505T040002SQUARE.png",H2O & Friends
+https://jmp2.uk/stvp-IT1200004E6
+
+#EXTINF:-1 group-title="Cucina, Viaggi e Lifestyle" channel-id="IT3900003FE" tvg-id="IT3900003FE" tvg-chno="4513" tvg-name="Hell's Kitchen" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3900003FE_20250211T014001SQUARE.png",Hell's Kitchen
+https://jmp2.uk/stvp-IT3900003FE
+
+#EXTINF:-1 group-title="Cucina, Viaggi e Lifestyle" channel-id="IT900003FU" tvg-id="IT900003FU" tvg-chno="4525" tvg-name="HGTV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900003FU_20260622T101547SQUARE.png",HGTV
+https://jmp2.uk/stvp-IT900003FU
+
+#EXTINF:-1 group-title="Musica" channel-id="ITBC11000108G" tvg-id="ITBC11000108G" tvg-chno="4748" tvg-name="Hip Hop TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000108G_20241022T051632SQUARE.png",Hip Hop TV
+https://jmp2.uk/stvp-ITBC11000108G
+
+#EXTINF:-1 group-title="Film" channel-id="IT36000081V" tvg-id="IT36000081V" tvg-chno="4955" tvg-name="Horror Club" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT36000081V_20261110T044235SQUARE.png",Horror Club
+https://jmp2.uk/stvp-IT36000081V
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="ITAJ3800002PN" tvg-id="ITAJ3800002PN" tvg-chno="4832" tvg-name="iCarly" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ3800002PN_20260721T041156SQUARE.png",iCarly
+https://jmp2.uk/stvp-ITAJ3800002PN
+
+#EXTINF:-1 group-title="Documentari" channel-id="IT9000023T" tvg-id="IT9000023T" tvg-chno="4414" tvg-name="II Guerra Mondiale - La Storia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000023T_20260609T044336SQUARE.png",II Guerra Mondiale - La Storia
+https://jmp2.uk/stvp-IT9000023T
+
+#EXTINF:-1 group-title="News" channel-id="IT3300001G3" tvg-id="IT3300001G3" tvg-chno="4554" tvg-name="Il Sole 24 Ore TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3300001G3_20251125T102453SQUARE.png",Il Sole 24 Ore TV
+https://jmp2.uk/stvp-IT3300001G3
+
+#EXTINF:-1 group-title="Animazione e Anime" channel-id="IT3200005F4" tvg-id="IT3200005F4" tvg-chno="4196" tvg-name="Inazuma Eleven Collection" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200005F4_20250527T014834SQUARE.png",Inazuma Eleven Collection
+https://jmp2.uk/stvp-IT3200005F4
+
+#EXTINF:-1 group-title="Sport" channel-id="IT3100001FT" tvg-id="IT3100001FT" tvg-chno="4643" tvg-name="INTER 24/7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3100001FT_20260421T125918SQUARE.png",INTER 24/7
+https://jmp2.uk/stvp-IT3100001FT
+
+#EXTINF:-1 group-title="Animazione e Anime" channel-id="IT800001SW" tvg-id="IT800001SW" tvg-chno="4186" tvg-name="Inuyasha" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800001SW_20251013T054512SQUARE.png",Inuyasha
+https://jmp2.uk/stvp-IT800001SW
+
+#EXTINF:-1 group-title="Musica" channel-id="IT1800006P9" tvg-id="IT1800006P9" tvg-chno="4767" tvg-name="Island Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1800006P9_20260528T053554SQUARE.png",Island Vibes
+https://jmp2.uk/stvp-IT1800006P9
+
+#EXTINF:-1 group-title="Sport" channel-id="IT600001L6" tvg-id="IT600001L6" tvg-chno="4619" tvg-name="Italian Fishing TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT600001L6_20241022T051638SQUARE.png",Italian Fishing TV
+https://jmp2.uk/stvp-IT600001L6
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="ITBD600002HT" tvg-id="ITBD600002HT" tvg-chno="4173" tvg-name="Just For Laughs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD600002HT_20241022T051640SQUARE.png",Just For Laughs
+https://jmp2.uk/stvp-ITBD600002HT
+
+#EXTINF:-1 group-title="Serie TV" channel-id="ITBD41000054B" tvg-id="ITBD41000054B" tvg-chno="4259" tvg-name="K-Drama+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD41000054B_20261102T070706SQUARE.png",K-Drama+
+https://jmp2.uk/stvp-ITBD41000054B
+
+#EXTINF:-1 group-title="News" channel-id="ITBD1500002NL" tvg-id="ITBD1500002NL" tvg-chno="4551" tvg-name="La 7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1500002NL_20260929T042031SQUARE.png",La 7
+https://jmp2.uk/stvp-ITBD1500002NL
+
+#EXTINF:-1 group-title="Sport" channel-id="IT4000089R" tvg-id="IT4000089R" tvg-chno="4611" tvg-name="LBA Classics" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4000089R_20260622T064242SQUARE.png",LBA Classics
+https://jmp2.uk/stvp-IT4000089R
+
+#EXTINF:-1 group-title="Documentari" channel-id="ITBC4700003GR" tvg-id="ITBC4700003GR" tvg-chno="4499" tvg-name="Love the Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700003GR_20250811T173008SQUARE.png",Love the Planet
+https://jmp2.uk/stvp-ITBC4700003GR
+
+#EXTINF:-1 group-title="Serie TV" channel-id="ITBD1900001R7" tvg-id="ITBD1900001R7" tvg-chno="4253" tvg-name="Martial Universe - La Serie Completa" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1900001R7_20241022T051652SQUARE.png",Martial Universe - La Serie Completa
+https://jmp2.uk/stvp-ITBD1900001R7
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="IT2200011IA" tvg-id="IT2200011IA" tvg-chno="4806" tvg-name="Masha e Orso" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2200011IA_20260721T040356SQUARE.png",Masha e Orso
+https://jmp2.uk/stvp-IT2200011IA
+
+#EXTINF:-1 group-title="Musica" channel-id="IT3300004VU" tvg-id="IT3300004VU" tvg-chno="4745" tvg-name="Metal.Rocks" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3300004VU_20260609T044349SQUARE.png",Metal.Rocks
+https://jmp2.uk/stvp-IT3300004VU
+
+#EXTINF:-1 group-title="Sport" channel-id="IT3000282Q" tvg-id="IT3000282Q" tvg-chno="4660" tvg-name="Motor1" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000282Q_20260407T040326SQUARE.png",Motor1
+https://jmp2.uk/stvp-IT3000282Q
+
+#EXTINF:-1 group-title="Sport" channel-id="IT800002CE" tvg-id="IT800002CE" tvg-chno="4662" tvg-name="Motoretrò" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800002CE_20250520T045026SQUARE.png",Motoretrò
+https://jmp2.uk/stvp-IT800002CE
+
+#EXTINF:-1 group-title="Sport" channel-id="ITBD300001GI" tvg-id="ITBD300001GI" tvg-chno="4677" tvg-name="Move - Sportivi in Viaggio" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD300001GI_20241022T044111SQUARE.png",Move - Sportivi in Viaggio
+https://jmp2.uk/stvp-ITBD300001GI
+
+#EXTINF:-1 group-title="Serie TV" channel-id="IT900001A7" tvg-id="IT900001A7" tvg-chno="4260" tvg-name="Mr Bean Animated" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900001A7_20250923T010547SQUARE.png",Mr Bean Animated
+https://jmp2.uk/stvp-IT900001A7
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="IT3200006YF" tvg-id="IT3200006YF" tvg-chno="4076" tvg-name="Mudù - Risate dal Sud" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200006YF_20260113T032839SQUARE.png",Mudù - Risate dal Sud
+https://jmp2.uk/stvp-IT3200006YF
+
+#EXTINF:-1 group-title="Serie TV" channel-id="ITBD3200005YA" tvg-id="ITBD3200005YA" tvg-chno="4247" tvg-name="Mutant X" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200005YA_20241022T044116SQUARE.png",Mutant X
+https://jmp2.uk/stvp-ITBD3200005YA
+
+#EXTINF:-1 group-title="Documentari" channel-id="IT2100001EZ" tvg-id="IT2100001EZ" tvg-chno="4491" tvg-name="NatureTime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2100001EZ_20251111T012436SQUARE.png",NatureTime
+https://jmp2.uk/stvp-IT2100001EZ
+
+#EXTINF:-1 group-title="News" channel-id="ITBC4000028E" tvg-id="ITBC4000028E" tvg-chno="4570" tvg-name="NBC News NOW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4000028E_20241022T051654SQUARE.png",NBC News NOW
+https://jmp2.uk/stvp-ITBC4000028E
+
+#EXTINF:-1 group-title="Musica" channel-id="IT1700002R5" tvg-id="IT1700002R5" tvg-chno="4724" tvg-name="NEW KPOP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1700002R5_20251028T011527SQUARE.png",NEW KPOP
+https://jmp2.uk/stvp-IT1700002R5
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="IT9000060Q" tvg-id="IT9000060Q" tvg-chno="4067" tvg-name="NOVE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT9000060Q_20260929T042038SQUARE.png",NOVE
+https://jmp2.uk/stvp-IT9000060Q
+
+#EXTINF:-1 group-title="Musica" channel-id="IT18000076Y" tvg-id="IT18000076Y" tvg-chno="4768" tvg-name="Ocean Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT18000076Y_20260528T053611SQUARE.png",Ocean Vibes
+https://jmp2.uk/stvp-IT18000076Y
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="ITAJ4500022GD" tvg-id="ITAJ4500022GD" tvg-chno="4171" tvg-name="People Are Awesome" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ4500022GD_20241022T051445SQUARE.png",People Are Awesome
+https://jmp2.uk/stvp-ITAJ4500022GD
+
+#EXTINF:-1 group-title="Cucina, Viaggi e Lifestyle" channel-id="IT2200009F9" tvg-id="IT2200009F9" tvg-chno="4526" tvg-name="Per Caso TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2200009F9_20250923T010549SQUARE.png",Per Caso TV
+https://jmp2.uk/stvp-IT2200009F9
+
+#EXTINF:-1 group-title="Serie TV" channel-id="IT2900002QI" tvg-id="IT2900002QI" tvg-chno="4270" tvg-name="Piel Salvaje" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2900002QI_20251209T004757SQUARE.png",Piel Salvaje
+https://jmp2.uk/stvp-IT2900002QI
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="IT2100003OJ" tvg-id="IT2100003OJ" tvg-chno="4820" tvg-name="Pingu" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2100003OJ_20260901T055006SQUARE.png",Pingu
+https://jmp2.uk/stvp-IT2100003OJ
+
+#EXTINF:-1 group-title="Film" channel-id="ITAJ38000055E" tvg-id="ITAJ38000055E" tvg-chno="4876" tvg-name="Pluto TV Film" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ38000055E_20241022T051450SQUARE.png",Pluto TV Film
+https://jmp2.uk/stvp-ITAJ38000055E
+
+#EXTINF:-1 group-title="Film" channel-id="ITBC3000003CT" tvg-id="ITBC3000003CT" tvg-chno="4995" tvg-name="Pluto TV Film Azione" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3000003CT_20241022T051703SQUARE.png",Pluto TV Film Azione
+https://jmp2.uk/stvp-ITBC3000003CT
+
+#EXTINF:-1 group-title="Film" channel-id="ITBC3000002WL" tvg-id="ITBC3000002WL" tvg-chno="4915" tvg-name="Pluto TV Film Commedia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3000002WL_20241022T051705SQUARE.png",Pluto TV Film Commedia
+https://jmp2.uk/stvp-ITBC3000002WL
+
+#EXTINF:-1 group-title="Film" channel-id="ITAJ3800009J1" tvg-id="ITAJ3800009J1" tvg-chno="4898" tvg-name="Pluto TV Film Romantici" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ3800009J1_20241022T051707SQUARE.png",Pluto TV Film Romantici
+https://jmp2.uk/stvp-ITAJ3800009J1
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="ITAJ3800006UB" tvg-id="ITAJ3800006UB" tvg-chno="4072" tvg-name="Pluto TV Real Life" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ3800006UB_20241022T051502SQUARE.png",Pluto TV Real Life
+https://jmp2.uk/stvp-ITAJ3800006UB
+
+#EXTINF:-1 group-title="Serie TV" channel-id="ITAJ3800007P8" tvg-id="ITAJ3800007P8" tvg-chno="4235" tvg-name="Pluto TV Serie" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ3800007P8_20241022T051508SQUARE.png",Pluto TV Serie
+https://jmp2.uk/stvp-ITAJ3800007P8
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="ITAJ3800010RX" tvg-id="ITAJ3800010RX" tvg-chno="4830" tvg-name="Pluto TV Teen Club" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ3800010RX_20260721T040311SQUARE.png",Pluto TV Teen Club
+https://jmp2.uk/stvp-ITAJ3800010RX
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="IT700004X4" tvg-id="IT700004X4" tvg-chno="4780" tvg-name="Pocoyo" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT700004X4_20241022T051711SQUARE.png",Pocoyo
+https://jmp2.uk/stvp-IT700004X4
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="IT1200003NR" tvg-id="IT1200003NR" tvg-chno="4214" tvg-name="Quantum Makers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1200003NR_20260707T052610SQUARE.png",Quantum Makers
+https://jmp2.uk/stvp-IT1200003NR
+
+#EXTINF:-1 group-title="Musica" channel-id="ITBA2200008IM" tvg-id="ITBA2200008IM" tvg-chno="4742" tvg-name="Radio Italia Live" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200008IM_20251111T012413SQUARE.png",Radio Italia Live
+https://jmp2.uk/stvp-ITBA2200008IM
+
+#EXTINF:-1 group-title="News" channel-id="IT3200004WU" tvg-id="IT3200004WU" tvg-chno="4004" tvg-name="Rai News 24" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3200004WU_20260707T052631SQUARE.png",Rai News 24
+https://jmp2.uk/stvp-IT3200004WU
+
+#EXTINF:-1 group-title="Musica" channel-id="IT18000058K" tvg-id="IT18000058K" tvg-chno="4765" tvg-name="Rainy Day Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT18000058K_20260528T053623SQUARE.png",Rainy Day Vibes
+https://jmp2.uk/stvp-IT18000058K
+
+#EXTINF:-1 group-title="Sport" channel-id="IT510000124" tvg-id="IT510000124" tvg-chno="4663" tvg-name="Rally.TV FAST+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT510000124_20260120T044623SQUARE.png",Rally.TV FAST+
+https://jmp2.uk/stvp-IT510000124
+
+#EXTINF:-1 group-title="Sport" channel-id="ITBD2300001MT" tvg-id="ITBD2300001MT" tvg-chno="4637" tvg-name="RBN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD2300001MT_20241022T043806SQUARE.png",RBN
+https://jmp2.uk/stvp-ITBD2300001MT
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="IT900007I0" tvg-id="IT900007I0" tvg-chno="4069" tvg-name="Real time" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900007I0_20261013T054240SQUARE.png",Real time
+https://jmp2.uk/stvp-IT900007I0
+
+#EXTINF:-1 group-title="Sport" channel-id="IT38000070T" tvg-id="IT38000070T" tvg-chno="4609" tvg-name="Red Bull TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT38000070T_20251202T002728SQUARE.png",Red Bull TV
+https://jmp2.uk/stvp-IT38000070T
+
+#EXTINF:-1 group-title="Serie TV" channel-id="ITBD3200006F0" tvg-id="ITBD3200006F0" tvg-chno="4249" tvg-name="Relic Hunter" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200006F0_20250527T014845SQUARE.png",Relic Hunter
+https://jmp2.uk/stvp-ITBD3200006F0
+
+#EXTINF:-1 group-title="Musica" channel-id="ITBC1100011RK" tvg-id="ITBC1100011RK" tvg-chno="4746" tvg-name="Rock TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20241022T043817SQUARE.png",Rock TV
+https://jmp2.uk/stvp-ITBC1100011RK
+
+#EXTINF:-1 group-title="Musica" channel-id="IT700008NG" tvg-id="IT700008NG" tvg-chno="4747" tvg-name="Rolling Stones Takeover" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT700008NG_20260707T052954SQUARE.png",Rolling Stones Takeover
+https://jmp2.uk/stvp-IT700008NG
+
+#EXTINF:-1 group-title="Film" channel-id="IT2600004K9" tvg-id="IT2600004K9" tvg-chno="4896" tvg-name="Romance - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600004K9_20250121T012551SQUARE.png",Romance - Rakuten TV
+https://jmp2.uk/stvp-IT2600004K9
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="IT3000010NB" tvg-id="IT3000010NB" tvg-chno="4063" tvg-name="RTL 102.5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000010NB_20260901T055014SQUARE.png",RTL 102.5
+https://jmp2.uk/stvp-IT3000010NB
+
+#EXTINF:-1 group-title="Musica" channel-id="IT3000012PW" tvg-id="IT3000012PW" tvg-chno="4710" tvg-name="RTL 102.5 BEST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000012PW_20260804T052248SQUARE.png",RTL 102.5 BEST
+https://jmp2.uk/stvp-IT3000012PW
+
+#EXTINF:-1 group-title="Musica" channel-id="IT30000132N" tvg-id="IT30000132N" tvg-chno="4714" tvg-name="RTL 102.5 Caliente" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT30000132N_20260707T052626SQUARE.png",RTL 102.5 Caliente
+https://jmp2.uk/stvp-IT30000132N
+
+#EXTINF:-1 group-title="Musica" channel-id="IT3000014RV" tvg-id="IT3000014RV" tvg-chno="4711" tvg-name="RTL 102.5 DISCO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000014RV_20260804T052303SQUARE.png",RTL 102.5 DISCO
+https://jmp2.uk/stvp-IT3000014RV
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="IT300001586" tvg-id="IT300001586" tvg-chno="4064" tvg-name="RTL 102.5 Radio Freccia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300001586_20260811T045422SQUARE.png",RTL 102.5 Radio Freccia
+https://jmp2.uk/stvp-IT300001586
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="IT3000016RH" tvg-id="IT3000016RH" tvg-chno="4065" tvg-name="RTL 102.5 Radio Zeta" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000016RH_20260915T041832SQUARE.png",RTL 102.5 Radio Zeta
+https://jmp2.uk/stvp-IT3000016RH
+
+#EXTINF:-1 group-title="Sport" channel-id="ITBC3000007XK" tvg-id="ITBC3000007XK" tvg-chno="4615" tvg-name="Salto Ostacoli" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3000007XK_20250415T022319SQUARE.png",Salto Ostacoli
+https://jmp2.uk/stvp-ITBC3000007XK
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="IT2600008RA" tvg-id="IT2600008RA" tvg-chno="4293" tvg-name="Serie Crime - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600008RA_20241210T052906SQUARE.png",Serie Crime - Rakuten TV
+https://jmp2.uk/stvp-IT2600008RA
+
+#EXTINF:-1 group-title="News" channel-id="IT3400003D6" tvg-id="IT3400003D6" tvg-chno="4559" tvg-name="Sky News International" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3400003D6_20250819T032318SQUARE.png",Sky News International
+https://jmp2.uk/stvp-IT3400003D6
+
+#EXTINF:-1 group-title="Film" channel-id="ITBC1100002ZU" tvg-id="ITBC1100002ZU" tvg-chno="4905" tvg-name="Smile" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100002ZU_20241022T043826SQUARE.png",Smile
+https://jmp2.uk/stvp-ITBC1100002ZU
+
+#EXTINF:-1 group-title="Musica" channel-id="IT1000001YA" tvg-id="IT1000001YA" tvg-chno="4726" tvg-name="SMTOWN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1000001YA_20260929T042018SQUARE.png",SMTOWN
+https://jmp2.uk/stvp-IT1000001YA
+
+#EXTINF:-1 group-title="Serie TV" channel-id="IT4600001JQ" tvg-id="IT4600001JQ" tvg-chno="4258" tvg-name="Soap Latino" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4600001JQ_20260407T040329SQUARE.png",Soap Latino
+https://jmp2.uk/stvp-IT4600001JQ
+
+#EXTINF:-1 group-title="Serie TV" channel-id="IT3600007QQ" tvg-id="IT3600007QQ" tvg-chno="4003" tvg-name="Soap Turco" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600007QQ_20261110T044239SQUARE.png",Soap Turco
+https://jmp2.uk/stvp-IT3600007QQ
+
+#EXTINF:-1 group-title="Sport" channel-id="ITBC4700002CO" tvg-id="ITBC4700002CO" tvg-chno="4633" tvg-name="Solocalcio" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20241022T043828SQUARE.png",Solocalcio
+https://jmp2.uk/stvp-ITBC4700002CO
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="IT3900001EN" tvg-id="IT3900001EN" tvg-chno="4821" tvg-name="Sonic The Hedgehog" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3900001EN_20241112T093253SQUARE.png",Sonic The Hedgehog
+
+#EXTINF:-1 group-title="Documentari" channel-id="IT700009BQ" tvg-id="IT700009BQ" tvg-chno="4508" tvg-name="Space Live" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT700009BQ_20260901T055034SQUARE.png",Space Live
+https://jmp2.uk/stvp-IT700009BQ
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="ITAJ380000343" tvg-id="ITAJ380000343" tvg-chno="4834" tvg-name="Spongebob" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ380000343_20260721T041201SQUARE.png",Spongebob
+https://jmp2.uk/stvp-ITAJ380000343
+
+#EXTINF:-1 group-title="Sport" channel-id="IT16000070D" tvg-id="IT16000070D" tvg-chno="4623" tvg-name="Sportface" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT16000070D_20260528T053649SQUARE.png",Sportface
+https://jmp2.uk/stvp-IT16000070D
+
+#EXTINF:-1 group-title="Sport" channel-id="IT1000002TG" tvg-id="IT1000002TG" tvg-chno="4005" tvg-name="Sportitalia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1000002TG_20260707T053001SQUARE.png",Sportitalia
+https://jmp2.uk/stvp-IT1000002TG
+
+#EXTINF:-1 group-title="Cucina, Viaggi e Lifestyle" channel-id="ITBA3300022EA" tvg-id="ITBA3300022EA" tvg-chno="4538" tvg-name="SportOutdoor.tv" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300022EA_20260113T032817SQUARE.png",SportOutdoor.tv
+https://jmp2.uk/stvp-ITBA3300022EA
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="IT3800005HI" tvg-id="IT3800005HI" tvg-chno="4292" tvg-name="Squadra Speciale" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3800005HI_20251209T004731SQUARE.png",Squadra Speciale
+https://jmp2.uk/stvp-IT3800005HI
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="IT4500001L4" tvg-id="IT4500001L4" tvg-chno="4307" tvg-name="Squadra Speciale Cobra 11" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4500001L4_20251202T002731SQUARE.png",Squadra Speciale Cobra 11
+https://jmp2.uk/stvp-IT4500001L4
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="IT1200001Q8" tvg-id="IT1200001Q8" tvg-chno="4299" tvg-name="Storie Criminali" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1200001Q8_20241022T043854SQUARE.png",Storie Criminali
+https://jmp2.uk/stvp-IT1200001Q8
+
+#EXTINF:-1 group-title="Musica" channel-id="IT1900006GN" tvg-id="IT1900006GN" tvg-chno="4764" tvg-name="Storm Vibes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT1900006GN_20260528T053710SQUARE.png",Storm Vibes
+https://jmp2.uk/stvp-IT1900006GN
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="IT700005C9" tvg-id="IT700005C9" tvg-chno="4058" tvg-name="Studio Uno" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT700005C9_20261013T054248SQUARE.png",Studio Uno
+https://jmp2.uk/stvp-IT700005C9
+
+#EXTINF:-1 group-title="Film" channel-id="ITBD3200001VR" tvg-id="ITBD3200001VR" tvg-chno="4944" tvg-name="Supercinema" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3200001VR_20261110T044209SQUARE.png",Supercinema
+https://jmp2.uk/stvp-ITBD3200001VR
+
+#EXTINF:-1 group-title="Sport" channel-id="IT800003V4" tvg-id="IT800003V4" tvg-chno="4605" tvg-name="SuperTennis" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT800003V4_20260915T041845SQUARE.png",SuperTennis
+https://jmp2.uk/stvp-IT800003V4
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="ITBD51000010V" tvg-id="ITBD51000010V" tvg-chno="4802" tvg-name="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD51000010V_20260210T040126SQUARE.png",SuperToons TV
+https://jmp2.uk/stvp-ITBD51000010V
+
+#EXTINF:-1 group-title="Animazione e Anime" channel-id="ITBC3500002SJ" tvg-id="ITBC3500002SJ" tvg-chno="4188" tvg-name="Teen Vee" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC3500002SJ_20241022T043901SQUARE.png",Teen Vee
+https://jmp2.uk/stvp-ITBC3500002SJ
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="IT480000143" tvg-id="IT480000143" tvg-chno="4772" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT480000143_20250819T032309SQUARE.png",Teletubbies
+https://jmp2.uk/stvp-IT480000143
+
+#EXTINF:-1 group-title="Sport" channel-id="IT20000053A" tvg-id="IT20000053A" tvg-chno="4606" tvg-name="Tennis+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT20000053A_20250729T045608SQUARE.png",Tennis+
+https://jmp2.uk/stvp-IT20000053A
+
+#EXTINF:-1 group-title="Sport" channel-id="IT18000098G" tvg-id="IT18000098G" tvg-chno="4673" tvg-name="The Boat Show" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT18000098G_20260818T051140SQUARE.png",The Boat Show
+https://jmp2.uk/stvp-IT18000098G
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="ITAJ4500016FM" tvg-id="ITAJ4500016FM" tvg-chno="4169" tvg-name="The Pet Collective" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ4500016FM_20241022T043634SQUARE.png",The Pet Collective
+https://jmp2.uk/stvp-ITAJ4500016FM
+
+#EXTINF:-1 group-title="Sport" channel-id="IT2400001AE" tvg-id="IT2400001AE" tvg-chno="4658" tvg-name="Top Gear" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2400001AE_20260818T051145SQUARE.png",Top Gear
+https://jmp2.uk/stvp-IT2400001AE
+
+#EXTINF:-1 group-title="Musica" channel-id="ITBA3300042HE" tvg-id="ITBA3300042HE" tvg-chno="4707" tvg-name="Trace Latina" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300042HE_20241022T043641SQUARE.png",Trace Latina
+https://jmp2.uk/stvp-ITBA3300042HE
+
+#EXTINF:-1 group-title="Musica" channel-id="ITBA3300041LY" tvg-id="ITBA3300041LY" tvg-chno="4705" tvg-name="Trace Urban" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300041LY_20241022T043644SQUARE.png",Trace Urban
+https://jmp2.uk/stvp-ITBA3300041LY
+
+#EXTINF:-1 group-title="Film" channel-id="ITBA3300048YJ" tvg-id="ITBA3300048YJ" tvg-chno="4939" tvg-name="Trailers" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300048YJ_20250715T004402SQUARE.png",Trailers
+https://jmp2.uk/stvp-ITBA3300048YJ
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="ITBD1000006RD" tvg-id="ITBD1000006RD" tvg-chno="4297" tvg-name="True Crime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1000006RD_20250624T021752SQUARE.png",True Crime
+https://jmp2.uk/stvp-ITBD1000006RD
+
+#EXTINF:-1 group-title="Sport" channel-id="IT900004Y5" tvg-id="IT900004Y5" tvg-chno="4656" tvg-name="Turbo" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT900004Y5_20260622T101609SQUARE.png",Turbo
+https://jmp2.uk/stvp-IT900004Y5
+
+#EXTINF:-1 group-title="News" channel-id="IT18000033C" tvg-id="IT18000033C" tvg-chno="4565" tvg-name="TV5 Monde Info" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT18000033C_20251013T054515SQUARE.png",TV5 Monde Info
+https://jmp2.uk/stvp-IT18000033C
+
+#EXTINF:-1 group-title="Serie TV" channel-id="IT4000061Q" tvg-id="IT4000061Q" tvg-chno="4230" tvg-name="Un medico in famiglia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4000061Q_20261013T054254SQUARE.png",Un medico in famiglia
+https://jmp2.uk/stvp-IT4000061Q
+
+#EXTINF:-1 group-title="News" channel-id="IT50001295" tvg-id="IT50001295" tvg-chno="4556" tvg-name="Urania News" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT50001295_20251028T010433SQUARE.png",Urania News
+https://jmp2.uk/stvp-IT50001295
+
+#EXTINF:-1 group-title="Film" channel-id="ITBC11000047F" tvg-id="ITBC11000047F" tvg-chno="4902" tvg-name="Velvet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC11000047F_20260915T041853SQUARE.png",Velvet
+https://jmp2.uk/stvp-ITBC11000047F
+
+#EXTINF:-1 group-title="Musica" channel-id="ITBD1900010JL" tvg-id="ITBD1900010JL" tvg-chno="4684" tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1900010JL_20241022T043922SQUARE.png",Vevo '70s & '80s
+https://jmp2.uk/stvp-ITBD1900010JL
+
+#EXTINF:-1 group-title="Musica" channel-id="ITBC210000200" tvg-id="ITBC210000200" tvg-chno="4686" tvg-name="Vevo '90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC210000200_20241022T043924SQUARE.png",Vevo '90s & '00s
+https://jmp2.uk/stvp-ITBC210000200
+
+#EXTINF:-1 group-title="Musica" channel-id="ITBC2100001G9" tvg-id="ITBC2100001G9" tvg-chno="4682" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC2100001G9_20241022T043927SQUARE.png",Vevo Pop
+https://jmp2.uk/stvp-ITBC2100001G9
+
+#EXTINF:-1 group-title="Cucina, Viaggi e Lifestyle" channel-id="IT12000029J" tvg-id="IT12000029J" tvg-chno="4517" tvg-name="Viaggi & Sapori" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT12000029J_20241105T025401SQUARE.png",Viaggi & Sapori
+https://jmp2.uk/stvp-IT12000029J
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="IT34000016N" tvg-id="IT34000016N" tvg-chno="4819" tvg-name="Video Game Heroes" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT34000016N_20250326T013226SQUARE.png",Video Game Heroes
+https://jmp2.uk/stvp-IT34000016N
+
+#EXTINF:-1 group-title="Serie TV" channel-id="IT2000003B8" tvg-id="IT2000003B8" tvg-chno="4002" tvg-name="Vita Da Strega" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2000003B8_20261110T044246SQUARE.png",Vita Da Strega
+https://jmp2.uk/stvp-IT2000003B8
+
+#EXTINF:-1 group-title="Documentari" channel-id="ITBA33000478X" tvg-id="ITBA33000478X" tvg-chno="4501" tvg-name="WaterBear" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000478X_20241022T043935SQUARE.png",WaterBear
+https://jmp2.uk/stvp-ITBA33000478X
+
+#EXTINF:-1 group-title="Documentari" channel-id="ITBC35000016T" tvg-id="ITBC35000016T" tvg-chno="4411" tvg-name="wedotv Big Stories" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC35000016T_20250624T021750SQUARE.png",wedotv Big Stories
+https://jmp2.uk/stvp-ITBC35000016T
+
+#EXTINF:-1 group-title="Film" channel-id="IT3600004TW" tvg-id="IT3600004TW" tvg-chno="4929" tvg-name="Western Time" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3600004TW_20250211T014017SQUARE.png",Western Time
+https://jmp2.uk/stvp-IT3600004TW
+
+#EXTINF:-1 group-title="Documentari" channel-id="ITBA3300046KE" tvg-id="ITBA3300046KE" tvg-chno="4489" tvg-name="WildEarth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA3300046KE_20241022T043940SQUARE.png",WildEarth
+https://jmp2.uk/stvp-ITBA3300046KE
+
+#EXTINF:-1 group-title="Sport" channel-id="ITBD29000015E" tvg-id="ITBD29000015E" tvg-chno="4675" tvg-name="World Poker Tour" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD29000015E_20241022T043942SQUARE.png",World Poker Tour
+https://jmp2.uk/stvp-ITBD29000015E
+
+#EXTINF:-1 group-title="Animazione e Anime" channel-id="IT700007M3" tvg-id="IT700007M3" tvg-chno="4194" tvg-name="Yu-Gi-Oh!" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT700007M3_20250408T021512SQUARE.png",Yu-Gi-Oh!
+https://jmp2.uk/stvp-IT700007M3
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/it.xml.gz"
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="60940a07d88ba90007b9cb71" tvg-id="60940a07d88ba90007b9cb71" tvg-chno="510" tvg-name="16 Anni e Incinta" tvg-logo="https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/colorLogoPNG.png",16 Anni e Incinta
+https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="64ec5c6644fe100009d114ae" tvg-id="64ec5c6644fe100009d114ae" tvg-chno="420" tvg-name="Affare Fatto" tvg-logo="https://images.pluto.tv/channels/64ec5c6644fe100009d114ae/colorLogoPNG.png",Affare Fatto
+https://jmp2.uk/plu-64ec5c6644fe100009d114ae.m3u8
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="66d9aa4315d2c60008d4ac40" tvg-id="66d9aa4315d2c60008d4ac40" tvg-chno="175" tvg-name="Alice Nevers" tvg-logo="https://images.pluto.tv/channels/66d9aa4315d2c60008d4ac40/colorLogoPNG.png",Alice Nevers
+https://jmp2.uk/plu-66d9aa4315d2c60008d4ac40.m3u8
+
+#EXTINF:-1 group-title="Sci-Fi e Horror" channel-id="60802d37ee238e0007c94e64" tvg-id="60802d37ee238e0007c94e64" tvg-chno="360" tvg-name="Andromeda" tvg-logo="https://images.pluto.tv/channels/60802d37ee238e0007c94e64/colorLogoPNG.png",Andromeda
+https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
+
+#EXTINF:-1 group-title="Sport" channel-id="6971fc6dca441014e4600f2c" tvg-id="6971fc6dca441014e4600f2c" tvg-chno="560" tvg-name="Automoto" tvg-logo="https://images.pluto.tv/channels/6971fc6dca441014e4600f2c/colorLogoPNG_1773155503349.png",Automoto
+https://jmp2.uk/plu-6971fc6dca441014e4600f2c.m3u8
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="638f286445264d00084ec6dc" tvg-id="638f286445264d00084ec6dc" tvg-chno="183" tvg-name="Autostop per il cielo" tvg-logo="https://images.pluto.tv/channels/638f286445264d00084ec6dc/colorLogoPNG.png",Autostop per il cielo
+https://jmp2.uk/plu-638f286445264d00084ec6dc.m3u8
+
+#EXTINF:-1 group-title="Animazione e Anime" channel-id="624da1cd2af90c0007c13205" tvg-id="624da1cd2af90c0007c13205" tvg-chno="730" tvg-name="Avatar" tvg-logo="https://images.pluto.tv/channels/624da1cd2af90c0007c13205/colorLogoPNG.png",Avatar
+https://jmp2.uk/plu-624da1cd2af90c0007c13205.m3u8
+
+#EXTINF:-1 group-title="Serie TV" channel-id="62e7fa5ab5062e0007dcf97d" tvg-id="62e7fa5ab5062e0007dcf97d" tvg-chno="145" tvg-name="BBC Series" tvg-logo="https://images.pluto.tv/channels/62e7fa5ab5062e0007dcf97d/colorLogoPNG_1770365241843.png",BBC Series
+https://jmp2.uk/plu-62e7fa5ab5062e0007dcf97d.m3u8
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="686cfdf894a028da3aac4252" tvg-id="686cfdf894a028da3aac4252" tvg-chno="750" tvg-name="Barbie & Friends" tvg-logo="https://images.pluto.tv/channels/686cfdf894a028da3aac4252/colorLogoPNG_1765896833779.png",Barbie & Friends
+https://jmp2.uk/plu-686cfdf894a028da3aac4252.m3u8
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="666174c9f999220008769012" tvg-id="666174c9f999220008769012" tvg-chno="782" tvg-name="Big Time Rush" tvg-logo="https://images.pluto.tv/channels/666174c9f999220008769012/colorLogoPNG_1793285062958.png",Big Time Rush
+https://jmp2.uk/plu-666174c9f999220008769012.m3u8
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="6a6880d2ec8f486bf0e69800" tvg-id="6a6880d2ec8f486bf0e69800" tvg-chno="445" tvg-name="Black Beard Project" tvg-logo="https://images.pluto.tv/channels/6a6880d2ec8f486bf0e69800/colorLogoPNG_1789049971003.png",Black Beard Project
+https://jmp2.uk/plu-6a6880d2ec8f486bf0e69800.m3u8
+
+#EXTINF:-1 group-title="News" channel-id="6231ec4b62cd1f0007093c7b" tvg-id="6231ec4b62cd1f0007093c7b" tvg-chno="897" tvg-name="CBS News 24/7" tvg-logo="https://images.pluto.tv/channels/6231ec4b62cd1f0007093c7b/colorLogoPNG.png",CBS News 24/7
+https://jmp2.uk/plu-6231ec4b62cd1f0007093c7b.m3u8
+
+#EXTINF:-1 group-title="News" channel-id="66c45ba803e3b20008d8c294" tvg-id="66c45ba803e3b20008d8c294" tvg-chno="905" tvg-name="CNN Headlines International" tvg-logo="https://images.pluto.tv/channels/66c45ba803e3b20008d8c294/colorLogoPNG_1775159849441.png",CNN Headlines International
+https://jmp2.uk/plu-66c45ba803e3b20008d8c294.m3u8
+
+#EXTINF:-1 group-title="Serie TV" channel-id="6a7c73738a40fc87bcbac99e" tvg-id="6a7c73738a40fc87bcbac99e" tvg-chno="140" tvg-name="Call the Midwife" tvg-logo="https://images.pluto.tv/channels/6a7c73738a40fc87bcbac99e/colorLogoPNG_1790774970554.png",Call the Midwife
+https://jmp2.uk/plu-6a7c73738a40fc87bcbac99e.m3u8
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="6093f9ed2c75660007322bb7" tvg-id="6093f9ed2c75660007322bb7" tvg-chno="440" tvg-name="Catfish" tvg-logo="https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png",Catfish
+https://jmp2.uk/plu-6093f9ed2c75660007322bb7.m3u8
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="66a8c7aefe11e500085b1587" tvg-id="66a8c7aefe11e500085b1587" tvg-chno="165" tvg-name="Cherif" tvg-logo="https://images.pluto.tv/channels/66a8c7aefe11e500085b1587/colorLogoPNG.png",Cherif
+https://jmp2.uk/plu-66a8c7aefe11e500085b1587.m3u8
+
+#EXTINF:-1 group-title="Serie TV" channel-id="65cb78b83a116800079e2e35" tvg-id="65cb78b83a116800079e2e35" tvg-chno="185" tvg-name="Cin Cin" tvg-logo="https://images.pluto.tv/channels/65cb78b83a116800079e2e35/colorLogoPNG.png",Cin Cin
+https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="6ab275faa311e7c50eac1243" tvg-id="6ab275faa311e7c50eac1243" tvg-chno="51" tvg-name="Cine Peplum" tvg-logo="https://images.pluto.tv/channels/6ab275faa311e7c50eac1243/colorLogoPNG_1791277971887.png",Cine Peplum
+https://jmp2.uk/plu-6ab275faa311e7c50eac1243.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="653660b4295b840008a70ba3" tvg-id="653660b4295b840008a70ba3" tvg-chno="295" tvg-name="CineThriller" tvg-logo="https://images.pluto.tv/channels/653660b4295b840008a70ba3/colorLogoPNG_1749022092472.png",CineThriller
+https://jmp2.uk/plu-653660b4295b840008a70ba3.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="671754d8e482950008962aaf" tvg-id="671754d8e482950008962aaf" tvg-chno="260" tvg-name="Cinema Poliziottesco" tvg-logo="https://images.pluto.tv/channels/671754d8e482950008962aaf/colorLogoPNG.png",Cinema Poliziottesco
+https://jmp2.uk/plu-671754d8e482950008962aaf.m3u8
+
+#EXTINF:-1 group-title="Serie TV" channel-id="691c5ba253a7a030e7c509d8" tvg-id="691c5ba253a7a030e7c509d8" tvg-chno="105" tvg-name="Distretto di Polizia" tvg-logo="https://images.pluto.tv/channels/691c5ba253a7a030e7c509d8/colorLogoPNG_1794819146183.png",Distretto di Polizia
+https://jmp2.uk/plu-691c5ba253a7a030e7c509d8.m3u8
+
+#EXTINF:-1 group-title="Animazione e Anime" channel-id="62b57a6752a0060008bc65cd" tvg-id="62b57a6752a0060008bc65cd" tvg-chno="735" tvg-name="Due Fantagenitori" tvg-logo="https://images.pluto.tv/channels/62b57a6752a0060008bc65cd/colorLogoPNG.png",Due Fantagenitori
+https://jmp2.uk/plu-62b57a6752a0060008bc65cd.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="65f865a62873090008d06382" tvg-id="65f865a62873090008d06382" tvg-chno="285" tvg-name="Duri a Morire" tvg-logo="https://images.pluto.tv/channels/65f865a62873090008d06382/colorLogoPNG.png",Duri a Morire
+https://jmp2.uk/plu-65f865a62873090008d06382.m3u8
+
+#EXTINF:-1 group-title="Serie TV" channel-id="65cb76ea11ced70008206b66" tvg-id="65cb76ea11ced70008206b66" tvg-chno="187" tvg-name="Dynasty" tvg-logo="https://images.pluto.tv/channels/65cb76ea11ced70008206b66/colorLogoPNG.png",Dynasty
+https://jmp2.uk/plu-65cb76ea11ced70008206b66.m3u8
+
+#EXTINF:-1 group-title="News" channel-id="61b86ea479a4390007c6d5fc" tvg-id="61b86ea479a4390007c6d5fc" tvg-chno="910" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/61b86ea479a4390007c6d5fc/colorLogoPNG.png",Euronews
+https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+
+#EXTINF:-1 group-title="Cucina, Viaggi e Lifestyle" channel-id="6661739641af6400080cd8f1" tvg-id="6661739641af6400080cd8f1" tvg-chno="830" tvg-name="Extreme Makeover Home Edition" tvg-logo="https://images.pluto.tv/channels/6661739641af6400080cd8f1/colorLogoPNG.png",Extreme Makeover Home Edition
+https://jmp2.uk/plu-6661739641af6400080cd8f1.m3u8
+
+#EXTINF:-1 group-title="Sport" channel-id="660bfc4424e1d000085b5f93" tvg-id="660bfc4424e1d000085b5f93" tvg-chno="565" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/660bfc4424e1d000085b5f93/colorLogoPNG_1750064819565.png",FIFA+
+https://jmp2.uk/plu-660bfc4424e1d000085b5f93.m3u8
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="608014d19a26320007c92ab6" tvg-id="608014d19a26320007c92ab6" tvg-chno="625" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/608014d19a26320007c92ab6/colorLogoPNG.png",FailArmy
+https://jmp2.uk/plu-608014d19a26320007c92ab6.m3u8
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="66d7120815d2c60008cec006" tvg-id="66d7120815d2c60008cec006" tvg-chno="160" tvg-name="Flashpoint" tvg-logo="https://images.pluto.tv/channels/66d7120815d2c60008cec006/colorLogoPNG.png",Flashpoint
+https://jmp2.uk/plu-66d7120815d2c60008cec006.m3u8
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="64ec5cf50f73a800081310a5" tvg-id="64ec5cf50f73a800081310a5" tvg-chno="405" tvg-name="Forensic Files" tvg-logo="https://images.pluto.tv/channels/64ec5cf50f73a800081310a5/colorLogoPNG.png",Forensic Files
+https://jmp2.uk/plu-64ec5cf50f73a800081310a5.m3u8
+
+#EXTINF:-1 group-title="Cucina, Viaggi e Lifestyle" channel-id="6971fc07c945e6e4e5bc46bf" tvg-id="6971fc07c945e6e4e5bc46bf" tvg-chno="810" tvg-name="Gambero Rosso" tvg-logo="https://images.pluto.tv/channels/6971fc07c945e6e4e5bc46bf/colorLogoPNG_1771841506820.png",Gambero Rosso
+https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="619263ee9541940007d20d60" tvg-id="619263ee9541940007d20d60" tvg-chno="500" tvg-name="Geordie Shore" tvg-logo="https://images.pluto.tv/channels/619263ee9541940007d20d60/colorLogoPNG.png",Geordie Shore
+https://jmp2.uk/plu-619263ee9541940007d20d60.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="6536608b4f123d000876b78b" tvg-id="6536608b4f123d000876b78b" tvg-chno="290" tvg-name="Gli Immortali – Seagal vs Lundgren" tvg-logo="https://images.pluto.tv/channels/6536608b4f123d000876b78b/colorLogoPNG_1784618231947.png",Gli Immortali – Seagal vs Lundgren
+https://jmp2.uk/plu-6536608b4f123d000876b78b.m3u8
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="66a8c64814a2bb00084d09d6" tvg-id="66a8c64814a2bb00084d09d6" tvg-chno="765" tvg-name="Gormiti" tvg-logo="https://images.pluto.tv/channels/66a8c64814a2bb00084d09d6/colorLogoPNG.png",Gormiti
+https://jmp2.uk/plu-66a8c64814a2bb00084d09d6.m3u8
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="69fc903b201df02a8b0f3017" tvg-id="69fc903b201df02a8b0f3017" tvg-chno="786" tvg-name="H2O & Friends" tvg-logo="https://images.pluto.tv/channels/69fc903b201df02a8b0f3017/colorLogoPNG_1780583326436.png",H2O & Friends
+https://jmp2.uk/plu-69fc903b201df02a8b0f3017.m3u8
+
+#EXTINF:-1 group-title="Cucina, Viaggi e Lifestyle" channel-id="664f0ddbf78a8500092dcffa" tvg-id="664f0ddbf78a8500092dcffa" tvg-chno="805" tvg-name="Hell's Kitchen" tvg-logo="https://images.pluto.tv/channels/664f0ddbf78a8500092dcffa/colorLogoPNG.png",Hell's Kitchen
+https://jmp2.uk/plu-664f0ddbf78a8500092dcffa.m3u8
+
+#EXTINF:-1 group-title="Sci-Fi e Horror" channel-id="66c35c0c92b1af0008c8e83a" tvg-id="66c35c0c92b1af0008c8e83a" tvg-chno="325" tvg-name="Horror Club" tvg-logo="https://images.pluto.tv/channels/66c35c0c92b1af0008c8e83a/colorLogoPNG.png",Horror Club
+https://jmp2.uk/plu-66c35c0c92b1af0008c8e83a.m3u8
+
+#EXTINF:-1 group-title="Serie TV" channel-id="62442f28afe626000747f195" tvg-id="62442f28afe626000747f195" tvg-chno="100" tvg-name="I Jefferson" tvg-logo="https://images.pluto.tv/channels/62442f28afe626000747f195/colorLogoPNG_1779087604763.png",I Jefferson
+https://jmp2.uk/plu-62442f28afe626000747f195.m3u8
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="68adb5853efb41cd97ce413d" tvg-id="68adb5853efb41cd97ce413d" tvg-chno="730" tvg-name="I Puffi" tvg-logo="https://images.pluto.tv/channels/68adb5853efb41cd97ce413d/colorLogoPNG_1759447100016.png",I Puffi
+https://jmp2.uk/plu-68adb5853efb41cd97ce413d.m3u8
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="6602acadb2abe500081cf28a" tvg-id="6602acadb2abe500081cf28a" tvg-chno="615" tvg-name="I soliti idioti" tvg-logo="https://images.pluto.tv/channels/6602acadb2abe500081cf28a/colorLogoPNG.png",I soliti idioti
+https://jmp2.uk/plu-6602acadb2abe500081cf28a.m3u8
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="60e4507a06171800072339a3" tvg-id="60e4507a06171800072339a3" tvg-chno="415" tvg-name="Il Banco dei Pugni" tvg-logo="https://images.pluto.tv/channels/60e4507a06171800072339a3/colorLogoPNG.png",Il Banco dei Pugni
+https://jmp2.uk/plu-60e4507a06171800072339a3.m3u8
+
+#EXTINF:-1 group-title="News" channel-id="6971fc932c004063166ac8fd" tvg-id="6971fc932c004063166ac8fd" tvg-chno="915" tvg-name="Il Sole24Ore TV" tvg-logo="https://images.pluto.tv/channels/6971fc932c004063166ac8fd/colorLogoPNG_1773240969038.png",Il Sole24Ore TV
+https://jmp2.uk/plu-6971fc932c004063166ac8fd.m3u8
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="61fbd3f0733df400076c9a2d" tvg-id="61fbd3f0733df400076c9a2d" tvg-chno="435" tvg-name="Il Testimone" tvg-logo="https://images.pluto.tv/channels/61fbd3f0733df400076c9a2d/colorLogoPNG.png",Il Testimone
+https://jmp2.uk/plu-61fbd3f0733df400076c9a2d.m3u8
+
+#EXTINF:-1 group-title="Animazione e Anime" channel-id="612375086abc84000738fc03" tvg-id="612375086abc84000738fc03" tvg-chno="715" tvg-name="Inazuma Eleven" tvg-logo="https://images.pluto.tv/channels/612375086abc84000738fc03/colorLogoPNG-1668928583258.png",Inazuma Eleven
+https://jmp2.uk/plu-612375086abc84000738fc03.m3u8
+
+#EXTINF:-1 group-title="Sport" channel-id="691c5bef3a369d8f40192e71" tvg-id="691c5bef3a369d8f40192e71" tvg-chno="545" tvg-name="Inter 24/7" tvg-logo="https://images.pluto.tv/channels/691c5bef3a369d8f40192e71/colorLogoPNG_1775046814007.png",Inter 24/7
+https://jmp2.uk/plu-691c5bef3a369d8f40192e71.m3u8
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="6093f48c95132a00075fd859" tvg-id="6093f48c95132a00075fd859" tvg-chno="630" tvg-name="Just for Laughs GAGS" tvg-logo="https://images.pluto.tv/channels/6093f48c95132a00075fd859/colorLogoPNG_1745912777006.png",Just for Laughs GAGS
+https://jmp2.uk/plu-6093f48c95132a00075fd859.m3u8
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="65d7211d0d45610008ffcf92" tvg-id="65d7211d0d45610008ffcf92" tvg-chno="635" tvg-name="LOL Just For Laughs" tvg-logo="https://images.pluto.tv/channels/65d7211d0d45610008ffcf92/colorLogoPNG_1758784569061.png",LOL Just For Laughs
+https://jmp2.uk/plu-65d7211d0d45610008ffcf92.m3u8
+
+#EXTINF:-1 group-title="Serie TV" channel-id="60a2837f8154ab0007c4dcdf" tvg-id="60a2837f8154ab0007c4dcdf" tvg-chno="135" tvg-name="Le sorelle McLeod" tvg-logo="https://images.pluto.tv/channels/60a2837f8154ab0007c4dcdf/colorLogoPNG.png",Le sorelle McLeod
+https://jmp2.uk/plu-60a2837f8154ab0007c4dcdf.m3u8
+
+#EXTINF:-1 group-title="Serie TV" channel-id="65cb76723a116800079e1fc3" tvg-id="65cb76723a116800079e1fc3" tvg-chno="186" tvg-name="Love Boat" tvg-logo="https://images.pluto.tv/channels/65cb76723a116800079e1fc3/colorLogoPNG.png",Love Boat
+https://jmp2.uk/plu-65cb76723a116800079e1fc3.m3u8
+
+#EXTINF:-1 group-title="Sport" channel-id="671655b2daad7f00085d202d" tvg-id="671655b2daad7f00085d202d" tvg-chno="585" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/671655b2daad7f00085d202d/colorLogoPNG_1732093506297.png",MODUS Super Series Darts
+https://jmp2.uk/plu-671655b2daad7f00085d202d.m3u8
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="686cfe983ffa5e0c91cdb5df" tvg-id="686cfe983ffa5e0c91cdb5df" tvg-chno="755" tvg-name="Mattel Junior" tvg-logo="https://images.pluto.tv/channels/686cfe983ffa5e0c91cdb5df/colorLogoPNG_1765897494203.png",Mattel Junior
+https://jmp2.uk/plu-686cfe983ffa5e0c91cdb5df.m3u8
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="690cb9140d121b44ad925ac9" tvg-id="690cb9140d121b44ad925ac9" tvg-chno="425" tvg-name="Mayday: Disastro Aereo" tvg-logo="https://images.pluto.tv/channels/690cb9140d121b44ad925ac9/colorLogoPNG_1762957819953.png",Mayday: Disastro Aereo
+https://jmp2.uk/plu-690cb9140d121b44ad925ac9.m3u8
+
+#EXTINF:-1 group-title="Serie TV" channel-id="65cb77853ba51e00084cba02" tvg-id="65cb77853ba51e00084cba02" tvg-chno="188" tvg-name="Mission Impossible" tvg-logo="https://images.pluto.tv/channels/65cb77853ba51e00084cba02/colorLogoPNG.png",Mission Impossible
+https://jmp2.uk/plu-65cb77853ba51e00084cba02.m3u8
+
+#EXTINF:-1 group-title="Animazione e Anime" channel-id="6a4399d27d65ad4fa68a8806" tvg-id="6a4399d27d65ad4fa68a8806" tvg-chno="725" tvg-name="Mr. Bean" tvg-logo="https://images.pluto.tv/channels/6a4399d27d65ad4fa68a8806/colorLogoPNG_1784646205585.png",Mr. Bean
+https://jmp2.uk/plu-6a4399d27d65ad4fa68a8806.m3u8
+
+#EXTINF:-1 group-title="Sport" channel-id="69690bb672db627531285928" tvg-id="69690bb672db627531285928" tvg-chno="540" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/69690bb672db627531285928/colorLogoPNG_1785250829369.png",NFL Channel
+https://jmp2.uk/plu-69690bb672db627531285928.m3u8
+
+#EXTINF:-1 group-title="Documentari" channel-id="610a9ebe8c2ac2000734776e" tvg-id="610a9ebe8c2ac2000734776e" tvg-chno="851" tvg-name="Naturescape" tvg-logo="https://images.pluto.tv/channels/610a9ebe8c2ac2000734776e/colorLogoPNG.png",Naturescape
+https://jmp2.uk/plu-610a9ebe8c2ac2000734776e.m3u8
+
+#EXTINF:-1 group-title="Serie TV" channel-id="691c5b2e74baa89ef7230baf" tvg-id="691c5b2e74baa89ef7230baf" tvg-chno="125" tvg-name="Nina" tvg-logo="https://images.pluto.tv/channels/691c5b2e74baa89ef7230baf/colorLogoPNG_1771598155961.png",Nina
+https://jmp2.uk/plu-691c5b2e74baa89ef7230baf.m3u8
+
+#EXTINF:-1 group-title="Animazione e Anime" channel-id="69affcad8940750a23a7231a" tvg-id="69affcad8940750a23a7231a" tvg-chno="700" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/69affcad8940750a23a7231a/colorLogoPNG_1794927387776.png",One Piece
+https://jmp2.uk/plu-69affcad8940750a23a7231a.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="661f8f01801af800083d9d81" tvg-id="661f8f01801af800083d9d81" tvg-chno="250" tvg-name="Pluto TV Alberto Sordi" tvg-logo="https://images.pluto.tv/channels/661f8f01801af800083d9d81/colorLogoPNG.png",Pluto TV Alberto Sordi
+https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8
+
+#EXTINF:-1 group-title="Animazione e Anime" channel-id="65b90daed77d450008a43345" tvg-id="65b90daed77d450008a43345" tvg-chno="720" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/65b90daed77d450008a43345/colorLogoPNG_1747395522672.png",Pluto TV Anime
+https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8
+
+#EXTINF:-1 group-title="Documentari" channel-id="6a439aae539f6cfa9cd04d27" tvg-id="6a439aae539f6cfa9cd04d27" tvg-chno="850" tvg-name="Pluto TV Arte" tvg-logo="https://images.pluto.tv/channels/6a439aae539f6cfa9cd04d27/colorLogoPNG_1785329587571.png",Pluto TV Arte
+https://jmp2.uk/plu-6a439aae539f6cfa9cd04d27.m3u8
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="6093f6f8351eb0000754afb8" tvg-id="6093f6f8351eb0000754afb8" tvg-chno="740" tvg-name="Pluto TV Cartoni Animati" tvg-logo="https://images.pluto.tv/channels/6093f6f8351eb0000754afb8/colorLogoPNG_1784270298163.png",Pluto TV Cartoni Animati
+https://jmp2.uk/plu-6093f6f8351eb0000754afb8.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="612e05b885183d0007958101" tvg-id="612e05b885183d0007958101" tvg-chno="235" tvg-name="Pluto TV Christmas" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG_1790837404277.png",Pluto TV Christmas
+https://jmp2.uk/plu-612e05b885183d0007958101.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="608aa7d8359b270007861489" tvg-id="608aa7d8359b270007861489" tvg-chno="255" tvg-name="Pluto TV Cinema Italiano" tvg-logo="https://images.pluto.tv/channels/608aa7d8359b270007861489/colorLogoPNG.png",Pluto TV Cinema Italiano
+https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="6786235bd648bf0008c2780a" tvg-id="6786235bd648bf0008c2780a" tvg-chno="275" tvg-name="Pluto TV Cinema Orientale" tvg-logo="https://images.pluto.tv/channels/6786235bd648bf0008c2780a/colorLogoPNG.png",Pluto TV Cinema Orientale
+https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8
+
+#EXTINF:-1 group-title="Cucina, Viaggi e Lifestyle" channel-id="608aa718a8ec810007d87fee" tvg-id="608aa718a8ec810007d87fee" tvg-chno="815" tvg-name="Pluto TV Cucina" tvg-logo="https://images.pluto.tv/channels/608aa718a8ec810007d87fee/colorLogoPNG_1774519163545.png",Pluto TV Cucina
+https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
+
+#EXTINF:-1 group-title="Documentari" channel-id="608aa8a5709d6b0007b132fe" tvg-id="608aa8a5709d6b0007b132fe" tvg-chno="840" tvg-name="Pluto TV Documentari" tvg-logo="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png",Pluto TV Documentari
+https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="66335489307fa300082bd6e4" tvg-id="66335489307fa300082bd6e4" tvg-chno="265" tvg-name="Pluto TV Eros" tvg-logo="https://images.pluto.tv/channels/66335489307fa300082bd6e4/colorLogoPNG.png",Pluto TV Eros
+https://jmp2.uk/plu-66335489307fa300082bd6e4.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="608aa17fb9f4490007e6419a" tvg-id="608aa17fb9f4490007e6419a" tvg-chno="200" tvg-name="Pluto TV Film" tvg-logo="https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/colorLogoPNG_1733013735186.png",Pluto TV Film
+https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="608aa20a2e7f270007c4878d" tvg-id="608aa20a2e7f270007c4878d" tvg-chno="205" tvg-name="Pluto TV Film Azione" tvg-logo="https://images.pluto.tv/channels/608aa20a2e7f270007c4878d/colorLogoPNG.png",Pluto TV Film Azione
+https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="608aa512d67fd900072323db" tvg-id="608aa512d67fd900072323db" tvg-chno="230" tvg-name="Pluto TV Film Commedia" tvg-logo="https://images.pluto.tv/channels/608aa512d67fd900072323db/colorLogoPNG.png",Pluto TV Film Commedia
+https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="608aa4a4cc92820007b663af" tvg-id="608aa4a4cc92820007b663af" tvg-chno="224" tvg-name="Pluto TV Film Romantici" tvg-logo="https://images.pluto.tv/channels/608aa4a4cc92820007b663af/colorLogoPNG.png",Pluto TV Film Romantici
+https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="68750875759366af05a151ce" tvg-id="68750875759366af05a151ce" tvg-chno="280" tvg-name="Pluto TV Film Storici" tvg-logo="https://images.pluto.tv/channels/68750875759366af05a151ce/colorLogoPNG_1756144116606.png",Pluto TV Film Storici
+https://jmp2.uk/plu-68750875759366af05a151ce.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="608aa5e995132a00075f7005" tvg-id="608aa5e995132a00075f7005" tvg-chno="215" tvg-name="Pluto TV Film Thriller" tvg-logo="https://images.pluto.tv/channels/608aa5e995132a00075f7005/colorLogoPNG.png",Pluto TV Film Thriller
+https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
+
+#EXTINF:-1 group-title="Musica" channel-id="612ce23f51cce000078eeed5" tvg-id="612ce23f51cce000078eeed5" tvg-chno="925" tvg-name="Pluto TV Fireplace" tvg-logo="https://images.pluto.tv/channels/612ce23f51cce000078eeed5/colorLogoPNG.png",Pluto TV Fireplace
+https://jmp2.uk/plu-612ce23f51cce000078eeed5.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="61c09e3ac210ed0007606620" tvg-id="61c09e3ac210ed0007606620" tvg-chno="210" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/61c09e3ac210ed0007606620/colorLogoPNG.png",Pluto TV Horror
+https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="67f4f99729b03f18cb36647e" tvg-id="67f4f99729b03f18cb36647e" tvg-chno="745" tvg-name="Pluto TV Kids Classics" tvg-logo="https://images.pluto.tv/channels/67f4f99729b03f18cb36647e/colorLogoPNG_1784270665487.png",Pluto TV Kids Classics
+https://jmp2.uk/plu-67f4f99729b03f18cb36647e.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="64808a8c536e0c0008a276d1" tvg-id="64808a8c536e0c0008a276d1" tvg-chno="220" tvg-name="Pluto TV Legami Letali" tvg-logo="https://images.pluto.tv/channels/64808a8c536e0c0008a276d1/colorLogoPNG_1747395859514.png",Pluto TV Legami Letali
+https://jmp2.uk/plu-64808a8c536e0c0008a276d1.m3u8
+
+#EXTINF:-1 group-title="Documentari" channel-id="60802b37709d6b0007b0c549" tvg-id="60802b37709d6b0007b0c549" tvg-chno="855" tvg-name="Pluto TV Natura" tvg-logo="https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG_1773147389391.png",Pluto TV Natura
+https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="6911c9704316999535eb21cf" tvg-id="6911c9704316999535eb21cf" tvg-chno="270" tvg-name="Pluto TV Notti di Passione" tvg-logo="https://images.pluto.tv/channels/6911c9704316999535eb21cf/colorLogoPNG_1766041294522.png",Pluto TV Notti di Passione
+https://jmp2.uk/plu-6911c9704316999535eb21cf.m3u8
+
+#EXTINF:-1 group-title="Sci-Fi e Horror" channel-id="66c70033b1a34600087bb09a" tvg-id="66c70033b1a34600087bb09a" tvg-chno="330" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/66c70033b1a34600087bb09a/colorLogoPNG.png",Pluto TV Paranormal
+https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8
+
+#EXTINF:-1 group-title="Cucina, Viaggi e Lifestyle" channel-id="60801976f92a750007a0699c" tvg-id="60801976f92a750007a0699c" tvg-chno="820" tvg-name="Pluto TV Real Life" tvg-logo="https://images.pluto.tv/channels/60801976f92a750007a0699c/colorLogoPNG_1775123848385.png",Pluto TV Real Life
+https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="609404b0a8ec810007d8de9d" tvg-id="609404b0a8ec810007d8de9d" tvg-chno="620" tvg-name="Pluto TV Scherzi e risate" tvg-logo="https://images.pluto.tv/channels/609404b0a8ec810007d8de9d/colorLogoPNG.png",Pluto TV Scherzi e risate
+https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
+
+#EXTINF:-1 group-title="Sci-Fi e Horror" channel-id="61728bb9ee3773000840c1fa" tvg-id="61728bb9ee3773000840c1fa" tvg-chno="350" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/61728bb9ee3773000840c1fa/colorLogoPNG.png",Pluto TV Sci-Fi
+https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8
+
+#EXTINF:-1 group-title="Serie TV" channel-id="60b9ff2722bfa400072676ef" tvg-id="60b9ff2722bfa400072676ef" tvg-chno="130" tvg-name="Pluto TV Serie" tvg-logo="https://images.pluto.tv/channels/60b9ff2722bfa400072676ef/colorLogoPNG_1779187121953.png",Pluto TV Serie
+https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="608aa777b907770007e5d05d" tvg-id="608aa777b907770007e5d05d" tvg-chno="184" tvg-name="Pluto TV Serie Crime" tvg-logo="https://images.pluto.tv/channels/608aa777b907770007e5d05d/colorLogoPNG_1750402183051.png",Pluto TV Serie Crime
+https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
+
+#EXTINF:-1 group-title="Sci-Fi e Horror" channel-id="67ed14aaf7c5d70b9089c3bf" tvg-id="67ed14aaf7c5d70b9089c3bf" tvg-chno="345" tvg-name="Pluto TV Serie Sci-Fi" tvg-logo="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png",Pluto TV Serie Sci-Fi
+https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="67e3b0d2443f0671bc8a1297" tvg-id="67e3b0d2443f0671bc8a1297" tvg-chno="505" tvg-name="Pluto TV Shore" tvg-logo="https://images.pluto.tv/channels/67e3b0d2443f0671bc8a1297/colorLogoPNG_1747721158520.png",Pluto TV Shore
+https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8
+
+#EXTINF:-1 group-title="Sport" channel-id="69148c76e9dec35c9269a16c" tvg-id="69148c76e9dec35c9269a16c" tvg-chno="550" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/69148c76e9dec35c9269a16c/colorLogoPNG_1763016465334.png",Pluto TV Snooker 900
+https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8
+
+#EXTINF:-1 group-title="Sport" channel-id="608030eff4b6f70007e1684c" tvg-id="608030eff4b6f70007e1684c" tvg-chno="575" tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/608030eff4b6f70007e1684c/colorLogoPNG_1746816937164.png",Pluto TV Sport
+https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
+
+#EXTINF:-1 group-title="Documentari" channel-id="65253fdf3fd33c00080214a3" tvg-id="65253fdf3fd33c00080214a3" tvg-chno="845" tvg-name="Pluto TV Storia" tvg-logo="https://images.pluto.tv/channels/65253fdf3fd33c00080214a3/colorLogoPNG_1773147329671.png",Pluto TV Storia
+https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="63eb573ba99571000897135b" tvg-id="63eb573ba99571000897135b" tvg-chno="775" tvg-name="Pluto TV Teen" tvg-logo="https://images.pluto.tv/channels/63eb573ba99571000897135b/colorLogoPNG_1768492753362.png",Pluto TV Teen
+https://jmp2.uk/plu-63eb573ba99571000897135b.m3u8
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="6093f7b5bb49b90007cecaad" tvg-id="6093f7b5bb49b90007cecaad" tvg-chno="785" tvg-name="Pluto TV Teen Club" tvg-logo="https://images.pluto.tv/channels/6093f7b5bb49b90007cecaad/colorLogoPNG_1784270785442.png",Pluto TV Teen Club
+https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="65253f9881f942000833ccd5" tvg-id="65253f9881f942000833ccd5" tvg-chno="245" tvg-name="Pluto TV Totò" tvg-logo="https://images.pluto.tv/channels/65253f9881f942000833ccd5/colorLogoPNG_1774617972809.png",Pluto TV Totò
+https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="66d9ab4bf0f17500084e9b7e" tvg-id="66d9ab4bf0f17500084e9b7e" tvg-chno="400" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/66d9ab4bf0f17500084e9b7e/colorLogoPNG.png",Pluto TV True Crime
+https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8
+
+#EXTINF:-1 group-title="Cucina, Viaggi e Lifestyle" channel-id="63c923944207be0007fd0887" tvg-id="63c923944207be0007fd0887" tvg-chno="825" tvg-name="Pluto TV Viaggi" tvg-logo="https://images.pluto.tv/channels/63c923944207be0007fd0887/colorLogoPNG_1774882201565.png",Pluto TV Viaggi
+https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="62e7fb67478a5b0007e6c50c" tvg-id="62e7fb67478a5b0007e6c50c" tvg-chno="240" tvg-name="Pluto TV Western" tvg-logo="https://images.pluto.tv/channels/62e7fb67478a5b0007e6c50c/colorLogoPNG_1732029652283.png",Pluto TV Western
+https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8
+
+#EXTINF:-1 group-title="Sport" channel-id="696e0fe49ba4ac18057433ac" tvg-id="696e0fe49ba4ac18057433ac" tvg-chno="555" tvg-name="Rally TV" tvg-logo="https://images.pluto.tv/channels/696e0fe49ba4ac18057433ac/colorLogoPNG_1770893941495.png",Rally TV
+https://jmp2.uk/plu-696e0fe49ba4ac18057433ac.m3u8
+
+#EXTINF:-1 group-title="Serie TV" channel-id="67d9836ba1609bdb523f0c9d" tvg-id="67d9836ba1609bdb523f0c9d" tvg-chno="120" tvg-name="Relic Hunter" tvg-logo="https://images.pluto.tv/channels/67d9836ba1609bdb523f0c9d/colorLogoPNG.png",Relic Hunter
+https://jmp2.uk/plu-67d9836ba1609bdb523f0c9d.m3u8
+
+#EXTINF:-1 group-title="Serie TV" channel-id="634926e4b51d2d00077819a2" tvg-id="634926e4b51d2d00077819a2" tvg-chno="189" tvg-name="Renegade" tvg-logo="https://images.pluto.tv/channels/634926e4b51d2d00077819a2/colorLogoPNG.png",Renegade
+https://jmp2.uk/plu-634926e4b51d2d00077819a2.m3u8
+
+#EXTINF:-1 group-title="Sci-Fi e Horror" channel-id="63eb57d6c111bc0008fe2658" tvg-id="63eb57d6c111bc0008fe2658" tvg-chno="365" tvg-name="Sanctuary" tvg-logo="https://images.pluto.tv/channels/63eb57d6c111bc0008fe2658/colorLogoPNG.png",Sanctuary
+https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
+
+#EXTINF:-1 group-title="Serie TV" channel-id="6245d3792792150007e20634" tvg-id="6245d3792792150007e20634" tvg-chno="115" tvg-name="Settimo Cielo" tvg-logo="https://images.pluto.tv/channels/6245d3792792150007e20634/colorLogoPNG.png",Settimo Cielo
+https://jmp2.uk/plu-6245d3792792150007e20634.m3u8
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="62bc1f502b70e3000706298e" tvg-id="62bc1f502b70e3000706298e" tvg-chno="610" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/62bc1f502b70e3000706298e/colorLogoPNG.png",South Park
+https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8
+
+#EXTINF:-1 group-title="Documentari" channel-id="69b1489b5828e7c242d83064" tvg-id="69b1489b5828e7c242d83064" tvg-chno="835" tvg-name="Space Live" tvg-logo="https://images.pluto.tv/channels/69b1489b5828e7c242d83064/colorLogoPNG_1775118441487.png",Space Live
+https://jmp2.uk/plu-69b1489b5828e7c242d83064.m3u8
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="6093f9281db477000759fce0" tvg-id="6093f9281db477000759fce0" tvg-chno="735" tvg-name="SpongeBob" tvg-logo="https://images.pluto.tv/channels/6093f9281db477000759fce0/colorLogoPNG_1784271002457.png",SpongeBob
+https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8
+
+#EXTINF:-1 group-title="Sci-Fi e Horror" channel-id="65cb73d33ba51e00084cabad" tvg-id="65cb73d33ba51e00084cabad" tvg-chno="355" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/65cb73d33ba51e00084cabad/colorLogoPNG.png",Star Trek: Voyager
+https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="66177d18c8311c0008d077d0" tvg-id="66177d18c8311c0008d077d0" tvg-chno="410" tvg-name="Storie Criminali" tvg-logo="https://images.pluto.tv/channels/66177d18c8311c0008d077d0/colorLogoPNG.png",Storie Criminali
+https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
+
+#EXTINF:-1 group-title="Film" channel-id="67b482d52f8d3da5924857c6" tvg-id="67b482d52f8d3da5924857c6" tvg-chno="50" tvg-name="Streghe" tvg-logo="https://images.pluto.tv/channels/67b482d52f8d3da5924857c6/colorLogoPNG.png",Streghe
+https://jmp2.uk/plu-67b482d52f8d3da5924857c6.m3u8
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="66d9a98961dbf00008efb5fc" tvg-id="66d9a98961dbf00008efb5fc" tvg-chno="180" tvg-name="Sulle tracce del crimine" tvg-logo="https://images.pluto.tv/channels/66d9a98961dbf00008efb5fc/colorLogoPNG.png",Sulle tracce del crimine
+https://jmp2.uk/plu-66d9a98961dbf00008efb5fc.m3u8
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="66a8c8b3d2d50d000821fc4c" tvg-id="66a8c8b3d2d50d000821fc4c" tvg-chno="170" tvg-name="Tandem" tvg-logo="https://images.pluto.tv/channels/66a8c8b3d2d50d000821fc4c/colorLogoPNG.png",Tandem
+https://jmp2.uk/plu-66a8c8b3d2d50d000821fc4c.m3u8
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="62e7fc8c0d061100083946a9" tvg-id="62e7fc8c0d061100083946a9" tvg-chno="515" tvg-name="Teen Mom" tvg-logo="https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",Teen Mom
+https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="62619405c733e8000732d1fe" tvg-id="62619405c733e8000732d1fe" tvg-chno="760" tvg-name="Teenage Mutant Ninja Turtles" tvg-logo="https://images.pluto.tv/channels/62619405c733e8000732d1fe/colorLogoPNG.png",Teenage Mutant Ninja Turtles
+https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
+
+#EXTINF:-1 group-title="Musica" channel-id="69ef572280ef8232ceef596b" tvg-id="69ef572280ef8232ceef596b" tvg-chno="920" tvg-name="That's 60s" tvg-logo="https://images.pluto.tv/channels/69ef572280ef8232ceef596b/colorLogoPNG_1779270729947.png",That's 60s
+https://jmp2.uk/plu-69ef572280ef8232ceef596b.m3u8
+
+#EXTINF:-1 group-title="Musica" channel-id="69ef54f3c700cf0140272def" tvg-id="69ef54f3c700cf0140272def" tvg-chno="930" tvg-name="That's 80s" tvg-logo="https://images.pluto.tv/channels/69ef54f3c700cf0140272def/colorLogoPNG_1779094967843.png",That's 80s
+https://jmp2.uk/plu-69ef54f3c700cf0140272def.m3u8
+
+#EXTINF:-1 group-title="Musica" channel-id="69ef55c3b80e144b55d74e36" tvg-id="69ef55c3b80e144b55d74e36" tvg-chno="935" tvg-name="That's 90s/00s" tvg-logo="https://images.pluto.tv/channels/69ef55c3b80e144b55d74e36/colorLogoPNG_1779094979748.png",That's 90s/00s
+https://jmp2.uk/plu-69ef55c3b80e144b55d74e36.m3u8
+
+#EXTINF:-1 group-title="Musica" channel-id="69ef53e12f4d2b4f9c582e76" tvg-id="69ef53e12f4d2b4f9c582e76" tvg-chno="925" tvg-name="That's Christmas" tvg-logo="https://images.pluto.tv/channels/69ef53e12f4d2b4f9c582e76/colorLogoPNG_1793547925970.png",That's Christmas
+https://jmp2.uk/plu-69ef53e12f4d2b4f9c582e76.m3u8
+
+#EXTINF:-1 group-title="Musica" channel-id="69ef5682980899a9edf1a884" tvg-id="69ef5682980899a9edf1a884" tvg-chno="940" tvg-name="That's Rock" tvg-logo="https://images.pluto.tv/channels/69ef5682980899a9edf1a884/colorLogoPNG_1779094988172.png",That's Rock
+https://jmp2.uk/plu-69ef5682980899a9edf1a884.m3u8
+
+#EXTINF:-1 group-title="Sci-Fi e Horror" channel-id="62e8d5369e48940007fc1dc1" tvg-id="62e8d5369e48940007fc1dc1" tvg-chno="340" tvg-name="The Asylum" tvg-logo="https://images.pluto.tv/channels/62e8d5369e48940007fc1dc1/colorLogoPNG.png",The Asylum
+https://jmp2.uk/plu-62e8d5369e48940007fc1dc1.m3u8
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="69664afedcbf5c784492e422" tvg-id="69664afedcbf5c784492e422" tvg-chno="155" tvg-name="The Intern" tvg-logo="https://images.pluto.tv/channels/69664afedcbf5c784492e422/colorLogoPNG_1772434734016.png",The Intern
+https://jmp2.uk/plu-69664afedcbf5c784492e422.m3u8
+
+#EXTINF:-1 group-title="Sport" channel-id="64c109a4798def0008a6e03e" tvg-id="64c109a4798def0008a6e03e" tvg-chno="535" tvg-name="Top Gear" tvg-logo="https://images.pluto.tv/channels/64c109a4798def0008a6e03e/colorLogoPNG.png",Top Gear
+https://jmp2.uk/plu-64c109a4798def0008a6e03e.m3u8
+
+#EXTINF:-1 group-title="Sport" channel-id="679203d4bc03978b9b4b79a6" tvg-id="679203d4bc03978b9b4b79a6" tvg-chno="580" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/679203d4bc03978b9b4b79a6/colorLogoPNG.png",UFC
+https://jmp2.uk/plu-679203d4bc03978b9b4b79a6.m3u8
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="63c012504faf1c0007abfa93" tvg-id="63c012504faf1c0007abfa93" tvg-chno="781" tvg-name="Victorious" tvg-logo="https://images.pluto.tv/channels/63c012504faf1c0007abfa93/colorLogoPNG_1793285283007.png",Victorious
+https://jmp2.uk/plu-63c012504faf1c0007abfa93.m3u8
+
+#EXTINF:-1 group-title="Intrattenimento" channel-id="67c832cc9b53325ee16fb899" tvg-id="67c832cc9b53325ee16fb899" tvg-chno="430" tvg-name="Wicked Tuna" tvg-logo="https://images.pluto.tv/channels/67c832cc9b53325ee16fb899/colorLogoPNG.png",Wicked Tuna
+https://jmp2.uk/plu-67c832cc9b53325ee16fb899.m3u8
+
+#EXTINF:-1 group-title="Sport" channel-id="608016e446d73500075ea7e0" tvg-id="608016e446d73500075ea7e0" tvg-chno="570" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/608016e446d73500075ea7e0/colorLogoPNG.png",World Poker Tour
+https://jmp2.uk/plu-608016e446d73500075ea7e0.m3u8
+
+#EXTINF:-1 group-title="Animazione e Anime" channel-id="63eb82e24e83e70008ab735f" tvg-id="63eb82e24e83e70008ab735f" tvg-chno="710" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.pluto.tv/channels/63eb82e24e83e70008ab735f/colorLogoPNG.png",Yu-Gi-Oh!
+https://jmp2.uk/plu-63eb82e24e83e70008ab735f.m3u8
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="69fc8fd109705ebdf782724a" tvg-id="69fc8fd109705ebdf782724a" tvg-chno="182" tvg-name="ZDF Guardia Costiera" tvg-logo="https://images.pluto.tv/channels/69fc8fd109705ebdf782724a/colorLogoPNG_1780491297687.png",ZDF Guardia Costiera
+https://jmp2.uk/plu-69fc8fd109705ebdf782724a.m3u8
+
+#EXTINF:-1 group-title="Crime e True Crime" channel-id="69fc9010f6ac24413f520103" tvg-id="69fc9010f6ac24413f520103" tvg-chno="181" tvg-name="ZDF Squadra Speciale Lipsia" tvg-logo="https://images.pluto.tv/channels/69fc9010f6ac24413f520103/colorLogoPNG_1780491443862.png",ZDF Squadra Speciale Lipsia
+https://jmp2.uk/plu-69fc9010f6ac24413f520103.m3u8
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="6304ed62410a4c00083c0291" tvg-id="6304ed62410a4c00083c0291" tvg-chno="783" tvg-name="Zoey 101" tvg-logo="https://images.pluto.tv/channels/6304ed62410a4c00083c0291/colorLogoPNG_1793285176662.png",Zoey 101
+https://jmp2.uk/plu-6304ed62410a4c00083c0291.m3u8
+
+#EXTINF:-1 group-title="Bambini e Teen" channel-id="609401db8cf51c00084b592e" tvg-id="609401db8cf51c00084b592e" tvg-chno="784" tvg-name="iCarly" tvg-logo="https://images.pluto.tv/channels/609401db8cf51c00084b592e/colorLogoPNG_1784270441871.png",iCarly
+https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8
+
+#EXTINF:-1 group-title="Film" tvg-id="" tvg-name="Tele One" tvg-logo="https://i.imgur.com/9trB6mj.png",Tele One
+https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
