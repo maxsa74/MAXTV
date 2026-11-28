@@ -635,7 +635,32 @@ https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
 
+#EXTINF:-1,WEDO TV MOVIES
+https://amg00735-amg00735c8-rlaxx-us-4087.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedomoviesit-rlaxxus/playlist.m3u8?tag_id=105293&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0231&content_producer_name=Amagi_VideoSolutions_wedotvMoviesIT&content_categories=IAB1-5%2CIAB1%2CIAB1-7&content_custom_1_param=Amagi&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&sid=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
 
+#EXTINF:-1,IT CHANNEL CINEMA
+https://stream10.xdevel.com/video1s978704-2979/stream/playlist.m3u8
+
+#EXTINF:-1,ChIli TV Indimenticabili
+https://chili-chiliindimenticabili-1-it.xiaomi.wurl.tv/4300.m3u8
+#EXTINF:-1,CHILI ALTA TENSIONE
+https://8420ed77622b428facfacf6063321a64.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_CHILIAltaTensione/09b8fe89-eadf-4cc2-b246-95dbacc63bd7/2.m3u8
+#EXTINF:-1,CHILI VELVET
+https://9f3f485487294a28988ee377c71c85b0.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-it_Velvet/88e5fe76-5610-4cc3-b241-1aab4c173bc9/2.m3u8
+#EXTINF:-1,CHILI SMILE
+https://e5eaf4458bd54b3587053805e5e65138.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_CHILIBuonumore/c9e7ddfa-3f46-45d0-a305-87310441cdb7/2.m3u8
+
+#EXTINF:-1,Sony One Gli imperdibili
+https://d112rgcjjnn6rd.cloudfront.net/playlist_1.m3u8
+
+#EXTINF:-1,Sony One Serie da Ridere
+https://d31z6rt9j0idgz.cloudfront.net/playlist_1.m3u8
+
+#EXTINF:-1,Sony Azione
+https://d1avfx1nmjmkde.cloudfront.net/playlist_1.m3u8
+
+#EXTINF:-1,Sony One Film divertenti
+https://076507c6230e400ebcce99e452f12b7f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-824-IT-SONYONEFILMDIVERTENTI-LG_IT/playlist.m3u8
 
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz"
 #EXTINF:-1 channel-id="IT2600010E0" tvg-id="IT2600010E0" tvg-chno="4852" tvg-name="100% Natale - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600010E0_20261102T070712SQUARE.png" group-title="Film",100% Natale - Rakuten TV
