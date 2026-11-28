@@ -931,14 +931,19 @@ https://jmp2.uk/stvp-IT3600007QQ
 https://jmp2.uk/stvp-ITBC4700002CO
 #EXTINF:-1 channel-id="IT3900001EN" tvg-id="IT3900001EN" tvg-chno="4821" tvg-name="Sonic The Hedgehog" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3900001EN_20241112T093253SQUARE.png" group-title="Bambini",Sonic The Hedgehog
 https://jmp2.uk/stvp-IT3900001EN
-#EXTINF:-1 channel-id="IT300005J9" tvg-id="IT300005J9" tvg-chno="4907" tvg-name="Sony One Film divertenti" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300005J9_20260421T124025SQUARE.png" group-title="Film",Sony One Film divertenti
-https://jmp2.uk/stvp-IT300005J9
-#EXTINF:-1 channel-id="IT300004KM" tvg-id="IT300004KM" tvg-chno="4998" tvg-name="Sony One Film d’azione" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300004KM_20260721T041136SQUARE.png" group-title="Film",Sony One Film d’azione
-https://jmp2.uk/stvp-IT300004KM
-#EXTINF:-1 channel-id="IT300006W3" tvg-id="IT300006W3" tvg-chno="4254" tvg-name="Sony One Gli imperdibili" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT300006W3_20260421T124028SQUARE.png" group-title="Serie TV",Sony One Gli imperdibili
-https://jmp2.uk/stvp-IT300006W3
-#EXTINF:-1 channel-id="IT3000035B" tvg-id="IT3000035B" tvg-chno="4255" tvg-name="Sony One Serie da Ridere" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3000035B_20260421T124019SQUARE.png" group-title="Serie TV",Sony One Serie da Ridere
-https://jmp2.uk/stvp-IT3000035B
+
+#EXTINF:-1,Sony One Gli imperdibili
+https://d112rgcjjnn6rd.cloudfront.net/playlist_1.m3u8
+
+#EXTINF:-1,Sony One Serie da Ridere
+https://d31z6rt9j0idgz.cloudfront.net/playlist_1.m3u8
+
+#EXTINF:-1,Sony Azione
+https://d1avfx1nmjmkde.cloudfront.net/playlist_1.m3u8
+
+#EXTINF:-1,Sony One Film divertenti
+https://076507c6230e400ebcce99e452f12b7f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-824-IT-SONYONEFILMDIVERTENTI-LG_IT/playlist.m3u8
+
 #EXTINF:-1 channel-id="IT700009BQ" tvg-id="IT700009BQ" tvg-chno="4508" tvg-name="Space Live" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT700009BQ_20260901T055034SQUARE.png" group-title="Documentari",Space Live
 https://jmp2.uk/stvp-IT700009BQ
 #EXTINF:-1 channel-id="ITAJ380000343" tvg-id="ITAJ380000343" tvg-chno="4834" tvg-name="Spongebob" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITAJ380000343_20260721T041201SQUARE.png" group-title="Bambini",Spongebob
