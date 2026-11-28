@@ -932,6 +932,15 @@ https://jmp2.uk/stvp-ITBC4700002CO
 #EXTINF:-1 channel-id="IT3900001EN" tvg-id="IT3900001EN" tvg-chno="4821" tvg-name="Sonic The Hedgehog" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3900001EN_20241112T093253SQUARE.png" group-title="Bambini",Sonic The Hedgehog
 https://jmp2.uk/stvp-IT3900001EN
 
+#EXTINF:-1,ChIli TV Indimenticabili
+https://chili-chiliindimenticabili-1-it.xiaomi.wurl.tv/4300.m3u8
+#EXTINF:-1,CHILI ALTA TENSIONE
+https://8420ed77622b428facfacf6063321a64.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_CHILIAltaTensione/09b8fe89-eadf-4cc2-b246-95dbacc63bd7/2.m3u8
+#EXTINF:-1,CHILI VELVET
+https://9f3f485487294a28988ee377c71c85b0.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-it_Velvet/88e5fe76-5610-4cc3-b241-1aab4c173bc9/2.m3u8
+#EXTINF:-1,CHILI SMILE
+https://e5eaf4458bd54b3587053805e5e65138.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_CHILIBuonumore/c9e7ddfa-3f46-45d0-a305-87310441cdb7/2.m3u8
+
 #EXTINF:-1,Sony One Gli imperdibili
 https://d112rgcjjnn6rd.cloudfront.net/playlist_1.m3u8
 
